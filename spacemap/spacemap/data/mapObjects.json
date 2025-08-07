@@ -1,0 +1,4077 @@
+{
+  "1": {
+    "owner": 1,
+    "name": "1-1",
+    "theme": "default",
+    "portals": [
+      {
+        "x": 18500,
+        "y": 11500,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 11500,
+        "id": 3,
+        "typeId": 2
+      },
+      {
+        "x": 10500,
+        "y": 6500,
+        "id": 4,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [{ "x": "310", "y": "408", "z": "10", "id": "1" }],
+    "planets": [
+      { "x": "400", "y": "400", "z": "6", "id": "1", "mScale": 5 },
+      { "x": "450", "y": "450", "z": "5", "id": "2", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": [
+      { "x": 1000, "y": 1000, "z": 1, "rotation": 0, "type": "Mmo", "id": 1 }
+    ]
+  },
+  "2": {
+    "owner": 1,
+    "name": "1-2",
+    "portals": [
+      {
+        "x": 18500,
+        "y": 2000,
+        "id": 2,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 2000,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 18500,
+        "y": 11500,
+        "id": 3,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [
+      { "x": "605", "y": "400", "z": "10", "id": "0" },
+      { "x": "1654", "y": "861", "z": "10", "id": "1" }
+    ],
+    "planets": [
+      { "x": "492", "y": "266", "z": "5", "id": "3", "mScale": 5 },
+      { "x": "1808", "y": "792", "z": "5", "id": "4", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "3": {
+    "owner": 1,
+    "name": "1-3",
+    "portals": [
+      {
+        "x": 18500,
+        "y": 2000,
+        "id": 2,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 11500,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 18500,
+        "y": 11500,
+        "id": 3,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 2000,
+        "id": 4,
+        "typeId": 2
+      }
+    ],
+    "lensflares": [{ "x": "720", "y": "644", "z": "10", "id": "0" }],
+    "planets": [{ "x": "474", "y": "832", "z": "7", "id": "13", "mScale": 5 }],
+    "nebulas": [],
+    "stations": []
+  },
+  "4": {
+    "owner": 1,
+    "name": "1-4",
+    "portals": [
+      {
+        "x": 18500,
+        "y": 2000,
+        "id": 2,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 2000,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 18500,
+        "y": 11500,
+        "id": 3,
+        "typeId": 0
+      },
+      {
+        "x": 19000,
+        "y": 6000,
+        "id": 4,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [{ "x": "1734", "y": "404", "z": "10", "id": "0" }],
+    "planets": [
+      { "x": "406", "y": "606", "z": "7", "id": "1", "mScale": 5 },
+      { "x": "886", "y": "800", "z": "5", "id": "2", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "5": {
+    "owner": 2,
+    "name": "2-1",
+    "portals": [
+      {
+        "x": 2000,
+        "y": 11500,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 19000,
+        "y": 11500,
+        "id": 2,
+        "typeId": 2
+      },
+      {
+        "x": 10500,
+        "y": 6500,
+        "id": 4,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [
+      { "x": "624", "y": "1064", "z": "10", "id": "0" },
+      { "x": "1458", "y": "628", "z": "10", "id": "1" }
+    ],
+    "planets": [
+      { "x": "1838", "y": "518", "z": "9", "id": "15", "mScale": 5 },
+      { "x": "2000", "y": "1200", "z": "7", "id": "14", "mScale": 5 },
+      { "x": "648", "y": "1124", "z": "8", "id": "16", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": [
+      { "x": 20000, "y": 1000, "z": 1, "rotation": 0, "type": "Eic", "id": 1 }
+    ]
+  },
+  "6": {
+    "owner": 2,
+    "name": "2-2",
+    "portals": [
+      {
+        "x": 18500,
+        "y": 2000,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 11500,
+        "id": 3,
+        "typeId": 0
+      },
+      {
+        "x": 18500,
+        "y": 11500,
+        "id": 2,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [
+      { "x": "624", "y": "1064", "z": "10", "id": "0" },
+      { "x": "1458", "y": "628", "z": "10", "id": "1" }
+    ],
+    "planets": [
+      { "x": "1598", "y": "1011", "z": "9", "id": "17", "mScale": 5 },
+      { "x": "1230", "y": "286", "z": "8", "id": "18", "mScale": 5 },
+      { "x": "680", "y": "727", "z": "7", "id": "19", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "7": {
+    "owner": 2,
+    "name": "2-3",
+    "portals": [
+      {
+        "x": 18500,
+        "y": 2000,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 11500,
+        "id": 3,
+        "typeId": 0
+      },
+      {
+        "x": 18500,
+        "y": 11500,
+        "id": 2,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 2000,
+        "id": 4,
+        "typeId": 2
+      }
+    ],
+    "lensflares": [{ "x": "1928", "y": "184", "z": "10", "id": "0" }],
+    "planets": [
+      { "x": "547", "y": "718", "z": "7", "id": "20", "mScale": 5 },
+      { "x": "1798", "y": "486", "z": "7", "id": "21", "mScale": 5 },
+      { "x": "1772", "y": "552", "z": "6", "id": "22", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "8": {
+    "owner": 2,
+    "name": "2-4",
+    "portals": [
+      {
+        "x": 18500,
+        "y": 2000,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 2000,
+        "id": 2,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 11500,
+        "id": 3,
+        "typeId": 0
+      },
+      {
+        "x": 10000,
+        "y": 12000,
+        "id": 4,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [{ "x": "306", "y": "172", "z": "10", "id": "0" }],
+    "planets": [
+      { "x": "414", "y": "322", "z": "7", "id": "23", "mScale": 5 },
+      { "x": "954", "y": "926", "z": "7", "id": "24", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "9": {
+    "owner": 3,
+    "name": "3-1",
+    "portals": [
+      {
+        "x": 2000,
+        "y": 2000,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 19000,
+        "y": 2000,
+        "id": 2,
+        "typeId": 2
+      },
+      {
+        "x": 10500,
+        "y": 6500,
+        "id": 4,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [
+      { "x": "346", "y": "254", "z": "10", "id": "0" },
+      { "x": "1449", "y": "773", "z": "10", "id": "1" }
+    ],
+    "planets": [
+      { "x": "2000", "y": "200", "z": "8", "id": "11", "mScale": 5 },
+      { "x": "311", "y": "304", "z": "7", "id": "10", "mScale": 5 },
+      { "x": "2100", "y": "1300", "z": "7", "id": "12", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": [
+      { "x": 20000, "y": 12000, "z": 1, "rotation": 0, "type": "Vru", "id": 1 }
+    ]
+  },
+  "10": {
+    "owner": 3,
+    "name": "3-2",
+    "portals": [
+      {
+        "x": 18500,
+        "y": 11500,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 18500,
+        "y": 2000,
+        "id": 2,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 2000,
+        "id": 3,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "11": {
+    "owner": 3,
+    "name": "3-3",
+    "portals": [
+      {
+        "x": 18500,
+        "y": 11500,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 11500,
+        "id": 2,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 2000,
+        "id": 3,
+        "typeId": 0
+      },
+      {
+        "x": 18500,
+        "y": 2000,
+        "id": 4,
+        "typeId": 2
+      }
+    ],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "12": {
+    "owner": 3,
+    "name": "3-4",
+    "portals": [
+      {
+        "x": 18500,
+        "y": 11500,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 18500,
+        "y": 2000,
+        "id": 2,
+        "typeId": 0
+      },
+      {
+        "x": 10000,
+        "y": 1500,
+        "id": 4,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 2000,
+        "id": 3,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "13": {
+    "name": "4-1",
+    "portals": [
+      {
+        "x": 1500,
+        "y": 6000,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 18500,
+        "y": 2000,
+        "id": 2,
+        "typeId": 0
+      },
+      {
+        "x": 18500,
+        "y": 11500,
+        "id": 3,
+        "typeId": 0
+      },
+      {
+        "x": 10500,
+        "y": 6700,
+        "id": 4,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "14": {
+    "name": "4-2",
+    "portals": [
+      {
+        "x": 10000,
+        "y": 1500,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 11500,
+        "id": 2,
+        "typeId": 0
+      },
+      {
+        "x": 18500,
+        "y": 11500,
+        "id": 3,
+        "typeId": 0
+      },
+      {
+        "x": 10500,
+        "y": 6700,
+        "id": 4,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [{ "x": "564", "y": "690", "z": "10", "id": "0" }],
+    "planets": [
+      { "x": "1742", "y": "962", "z": "8", "id": "26", "mScale": 5 },
+      { "x": "346", "y": "872", "z": "7", "id": "25", "mScale": 5 },
+      { "x": "1320", "y": "222", "z": "7", "id": "27", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "15": {
+    "name": "4-3",
+    "portals": [
+      {
+        "x": 19000,
+        "y": 6000,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 2000,
+        "id": 2,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 11500,
+        "id": 3,
+        "typeId": 0
+      },
+      {
+        "x": 10500,
+        "y": 6700,
+        "id": 4,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [{ "x": "1472", "y": "648", "z": "10", "id": "0" }],
+    "planets": [
+      { "x": "1534", "y": "654", "z": "8", "id": "29", "mScale": 5 },
+      { "x": "288", "y": "996", "z": "7", "id": "28", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "33": {
+    "name": "Jackpot Lobby",
+    "scale": 1,
+    "portals": [],
+    "planets": [{
+        "x": "1500",
+        "y": "500",
+        "z": "8",
+        "id": "38",
+        "mScale": 5
+      },
+      {
+        "x": "344",
+        "y": "1300",
+        "z": "9",
+        "id": "37",
+        "mScale": 5
+      },
+      {
+        "x": "2000",
+        "y": "260",
+        "z": "8",
+        "id": "39",
+        "mScale": 7
+      }
+    ],
+    "nebulas": [],
+    "lensflares": [],
+    "stations": [{
+      "x": 2000,
+      "y": 1250,
+      "z": 1,
+      "rotation": 0,
+      "type": "Mmo",
+      "hasEngine": true,
+      "id": 1
+    },
+    {
+      "x": 19000,
+      "y": 1000,
+      "z": 1,
+      "rotation": 0,
+      "type": "Eic",
+      "hasEngine": true,
+      "id": 2
+    },{
+      "x": 19000,
+      "y": 11000,
+      "z": 1,
+      "rotation": 0,
+      "type": "Eic",
+      "hasEngine": true,
+      "id": 3
+    }
+    ]
+  },
+  "16": {
+    "name": "4-4",
+    "scale": 2,
+    "portals": [
+      {
+        "x": 7000,
+        "y": 13000,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 28000,
+        "y": 1500,
+        "id": 2,
+        "typeId": 0
+      },
+      {
+        "x": 28000,
+        "y": 24500,
+        "id": 3,
+        "typeId": 0
+      },
+      {
+        "x": 17000,
+        "y": 13000,
+        "id": 4,
+        "typeId": 0
+      },
+      {
+        "x": 23000,
+        "y": 10400,
+        "id": 5,
+        "typeId": 0
+      },
+      {
+        "x": 23000,
+        "y": 16000,
+        "id": 6,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "17": {
+    "name": "1-5",
+    "scale": 1,
+    "portals": [
+      {
+        "x": 19500,
+        "y": 7000,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 11500,
+        "id": 2,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 2000,
+        "id": 3,
+        "typeId": 0
+      },
+      {
+        "x": 10000,
+        "y": 12000,
+        "id": 4,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "18": {
+    "name": "1-6",
+    "scale": 1,
+    "portals": [
+      {
+        "x": 2500,
+        "y": 11500,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 18500,
+        "y": 11500,
+        "id": 2,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "19": {
+    "name": "1-7",
+    "scale": 1,
+    "portals": [
+      {
+        "x": 2500,
+        "y": 2000,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 18500,
+        "y": 2000,
+        "id": 2,
+        "typeId": 0
+      }
+    ],
+
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "20": {
+    "name": "1-8",
+    "scale": 1,
+    "portals": [
+      {
+        "x": 18500,
+        "y": 2000,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 18500,
+        "y": 11500,
+        "id": 2,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 11500,
+        "id": 3,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [
+      { "x": "1170", "y": "440", "z": "10", "id": "3" }
+    ],
+    "planets": [],
+    "nebulas": [],
+    "stations": [
+      { "x": 1500, "y": 6500, "z": 1, "rotation": 0, "type": "Mmo", "id": 1, "hasEngine": false, "isAdvanced": true }
+    ]
+  },
+  "21": {
+    "name": "2-5",
+    "scale": 1,
+    "portals": [
+      {
+        "x": 18500,
+        "y": 2000,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 2000,
+        "id": 2,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 11500,
+        "id": 3,
+        "typeId": 0
+      },
+      {
+        "x": 18500,
+        "y": 11500,
+        "id": 4,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "22": {
+    "name": "2-6",
+    "scale": 1,
+    "portals": [
+      {
+        "x": 2500,
+        "y": 11500,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 18500,
+        "y": 2000,
+        "id": 2,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "23": {
+    "name": "2-7",
+    "scale": 1,
+    "portals": [
+      {
+        "x": 2500,
+        "y": 11500,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 18500,
+        "y": 2000,
+        "id": 2,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [{ "x": "1324", "y": "992", "z": "10", "id": "0" }],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "24": {
+    "name": "2-8",
+    "scale": 1,
+    "portals": [
+      {
+        "x": 2500,
+        "y": 11500,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 18500,
+        "y": 11500,
+        "id": 2,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 2000,
+        "id": 3,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [{ "x": "966", "y": "716", "z": "10", "id": "0" }],
+    "planets": [],
+    "nebulas": [],
+    "stations": [
+      { "x": 10500, "y": 1500, "z": 1, "rotation": 0, "type": "Eic", "id": 1, "hasEngine": false, "isAdvanced": true }
+    ]
+  },
+  "25": {
+    "name": "3-5",
+    "scale": 1,
+    "portals": [
+      {
+        "x": 18500,
+        "y": 2000,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 2000,
+        "id": 2,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 11500,
+        "id": 3,
+        "typeId": 0
+      },
+      {
+        "x": 18500,
+        "y": 11500,
+        "id": 4,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [{ "x": "982", "y": "604", "z": "10", "id": "0" }],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "26": {
+    "name": "3-6",
+    "scale": 1,
+    "portals": [
+      {
+        "x": 18500,
+        "y": 11500,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 2500,
+        "y": 2000,
+        "id": 2,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [{ "x": "978", "y": "672", "z": "10", "id": "0" }],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "27": {
+    "name": "3-7",
+    "scale": 1,
+    "portals": [
+      {
+        "x": 2500,
+        "y": 11500,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 18500,
+        "y": 11500,
+        "id": 2,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "28": {
+    "name": "3-8",
+    "scale": 1,
+    "portals": [
+      {
+        "x": 2000,
+        "y": 2000,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 2000,
+        "y": 11500,
+        "id": 2,
+        "typeId": 0
+      },
+      {
+        "x": 18500,
+        "y": 11500,
+        "id": 3,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [
+      { "x": "916", "y": "910", "z": "10", "id": "0" },
+      { "x": "1290", "y": "404", "z": "10", "id": "0" }
+    ],
+    "planets": [],
+    "nebulas": [],
+    "stations": [
+      { "x": 19500, "y": 6500, "z": 1, "rotation": 0, "type": "Vru", "id": 1, "hasEngine": false, "isAdvanced": true }
+    ]
+  },
+  "29": {
+    "name": "4-5",
+    "scale": 2,
+    "portals": [
+            {
+                "x": 7000,
+                "y": 13000,
+                "id": 1,
+                "typeId": 0
+            },
+            {
+                "x": 28000,
+                "y": 1500,
+                "id": 2,
+                "typeId": 0
+            },
+            {
+                "x": 28000,
+                "y": 24500,
+                "id": 3,
+                "typeId": 0
+            },
+            {
+                "x": 22500,
+                "y": 13500,
+                "id": 4,
+                "typeId": 0
+            }
+        ],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+    "36": {
+    "name": "Deep Pirate Sector",
+    "scale": 2,
+    "offset": {
+      "x": -1050,
+      "y": -650
+    },
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+   "37": {
+    "name": "Pirate Sector-D",
+    "scale": 2,
+    "offset": {
+      "x": -2100,
+      "y": -1300
+    },
+    "portals": [
+      {
+        "x": 37000,
+        "y": 15000,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 24000,
+        "y": 15000,
+        "id": 2,
+        "typeId": 0
+      },
+      {
+        "x": 23000,
+        "y": 24000,
+        "id": 3,
+        "typeId": 0
+      },
+      {
+        "x": 19500,
+        "y": 24000,
+        "id": 4,
+        "typeId": 0
+      },
+      {
+        "x": 19500,
+        "y": 11000,
+        "id": 5,
+        "typeId": 0
+      },
+      {
+        "x": 37000,
+        "y": 11000,
+        "id": 6,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [],
+    "planets": [
+      {
+        "x": "3850",
+        "y": "1200",
+        "z": "8",
+        "id": "62",
+        "mScale": 5
+      }
+    ],
+    "barriers": [
+      {
+        "rectangle": true,
+        "xStart": 6000,
+        "xEnd": 14000,
+        "yStart": 2500,
+        "yEnd": 7500,
+        "height": 5000,
+        "width": 8000,
+        "radius": 0,
+        "noClip": true,
+        "id": 2,
+        "color": "rgba(255,99,71,0.3)",
+        "random": false,
+        "alpha": 1,
+        "isNebula": true,
+        "name": "nebula1Left"
+      },  
+      {
+        "rectangle": true,
+        "xStart": 3300,
+        "xEnd": 9000,
+        "yStart": 15500,
+        "yEnd": 23000,
+        "height": 7500,
+        "width": 5700,
+        "radius": 0,
+        "noClip": true,
+        "id": 2,
+        "color": "rgba(255,99,71,0.3)",
+        "random": false,
+        "alpha": 0.5,
+        "isNebula": true,
+        "name": "nebula1Left"
+      },  
+      {
+        "rectangle": true,
+        "xStart": 29000,
+        "xEnd": 36000,
+        "yStart": 2200,
+        "yEnd": 7300,
+        "height": 5100,
+        "width": 7000,
+        "radius": 0,
+        "noClip": true,
+        "id": 2,
+        "color": "rgba(255,99,71,0.3)",
+        "random": false,
+        "alpha": 0.5,
+        "isNebula": true,
+        "name": "nebula1Left"
+      },  
+      {
+        "rectangle": true,
+        "xStart": 20500,
+        "xEnd": 22500,
+        "yStart": 12000,
+        "yEnd": 42000,
+        "height": 30000,
+        "width": 2000,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 20500,
+        "xEnd": 50500,
+        "yStart": 12000,
+        "yEnd": 14000,
+        "height": 2000,
+        "width": 30000,
+        "radius": 0,
+        "id": 0
+      },
+            {
+        "rectangle": true,
+        "xStart": 20500,
+        "xEnd": 22500,
+        "yStart": 12000,
+        "yEnd": 42000,
+        "height": 30000,
+        "width": 2000,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 20500,
+        "xEnd": 50500,
+        "yStart": 12000,
+        "yEnd": 14000,
+        "height": 2000,
+        "width": 30000,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 32000,
+        "xEnd": 32500,
+        "yStart": 17000,
+        "yEnd": 17500,
+        "height": 500,
+        "width": 500,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 28500,
+        "xEnd": 29000,
+        "yStart": 21000,
+        "yEnd": 21500,
+        "height": 500,
+        "width": 500,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 37000,
+        "xEnd": 37500,
+        "yStart": 20000,
+        "yEnd": 20500,
+        "height": 500,
+        "width": 500,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 30200,
+        "xEnd": 30700,
+        "yStart": 17100,
+        "yEnd": 17600,
+        "height": 500,
+        "width": 500,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 30500,
+        "xEnd": 31000,
+        "yStart": 23500,
+        "yEnd": 24000,
+        "height": 500,
+        "width": 500,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 29000,
+        "xEnd": 29500,
+        "yStart": 18100,
+        "yEnd": 18600,
+        "height": 500,
+        "width": 500,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 27000,
+        "xEnd": 28000,
+        "yStart": 19200,
+        "yEnd": 19700,
+        "height": 500,
+        "width": 1000,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 36000,
+        "xEnd": 37000,
+        "yStart": 18200,
+        "yEnd": 18700,
+        "height": 500,
+        "width": 1000,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 34000,
+        "xEnd": 35000,
+        "yStart": 23000,
+        "yEnd": 23500,
+        "height": 500,
+        "width": 1000,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 36000,
+        "xEnd": 36500,
+        "yStart": 22000,
+        "yEnd": 23000,
+        "height": 1000,
+        "width": 500,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 32250,
+        "xEnd": 32750,
+        "yStart": 22500,
+        "yEnd": 23500,
+        "height": 1000,
+        "width": 500,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 29000,
+        "xEnd": 29500,
+        "yStart": 22000,
+        "yEnd": 23000,
+        "height": 1000,
+        "width": 500,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 34000,
+        "xEnd": 34500,
+        "yStart": 16500,
+        "yEnd": 17500,
+        "height": 1000,
+        "width": 500,
+        "radius": 0,
+        "id": 0,
+        "name": "stationBorderEnd"
+      },
+      {"rectangle":true,"xStart":25776,"xEnd":26776,"yStart":9572,"yEnd":11573,"height":2001,"width":1000,"id":0},{"rectangle":true,"xStart":6676,"xEnd":7676,"yStart":361,"yEnd":2362,"height":2001,"width":1000,"id":0},{"rectangle":true,"xStart":24450,"xEnd":25450,"yStart":861,"yEnd":2862,"height":2001,"width":1000,"id":0},{"rectangle":true,"xStart":14775,"xEnd":15775,"yStart":11364,"yEnd":13365,"height":2001,"width":1000,"id":0},{"rectangle":true,"xStart":37675,"xEnd":41676,"yStart":5815,"yEnd":7315,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":17751,"xEnd":21752,"yStart":5815,"yEnd":7315,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":21877,"xEnd":25878,"yStart":7614,"yEnd":9114,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":9324,"xEnd":13325,"yStart":8127,"yEnd":9627,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":9324,"xEnd":13325,"yStart":861,"yEnd":2361,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":16347,"xEnd":20348,"yStart":13338,"yEnd":14838,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":31399,"xEnd":35400,"yStart":587,"yEnd":2087,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":30899,"xEnd":34900,"yStart":7377,"yEnd":8877,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":17876,"xEnd":21877,"yStart":2087,"yEnd":3587,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":6676,"xEnd":10677,"yStart":11164,"yEnd":12664,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":3175,"xEnd":7176,"yStart":13605,"yEnd":15105,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":14275,"xEnd":18276,"yStart":15564,"yEnd":17064,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":2028,"xEnd":6029,"yStart":23314,"yEnd":24814,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":6822,"xEnd":10823,"yStart":24064,"yEnd":25564,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":28653,"xEnd":30153,"yStart":7572,"yEnd":11573,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":28022,"xEnd":29522,"yStart":361,"yEnd":4362,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":26276,"xEnd":27776,"yStart":4362,"yEnd":8363,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":18774,"xEnd":20274,"yStart":15355,"yEnd":19356,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":36527,"xEnd":38027,"yStart":989,"yEnd":4990,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":14724,"xEnd":16224,"yStart":5614,"yEnd":9615,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":17101,"xEnd":18601,"yStart":8363,"yEnd":12364,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":4176,"xEnd":5676,"yStart":2362,"yEnd":6363,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":12049,"xEnd":13549,"yStart":12712,"yEnd":16713,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":3278,"xEnd":4778,"yStart":8127,"yEnd":12128,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":9323,"xEnd":10823,"yStart":14355,"yEnd":18356,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":528,"xEnd":2028,"yStart":18262,"yEnd":22263,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":9323,"xEnd":10823,"yStart":19438,"yEnd":23439,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":12375,"xEnd":13875,"yStart":21563,"yEnd":25564,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":14775,"xEnd":16275,"yStart":17700,"yEnd":21701,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":20000,"xEnd":21000,"yStart":8363,"yEnd":9389,"height":1026,"width":1000,"id":0},{"rectangle":true,"xStart":12203,"xEnd":13203,"yStart":10651,"yEnd":11677,"height":1026,"width":1000,"id":0},{"rectangle":true,"xStart":16250,"xEnd":17250,"yStart":23563,"yEnd":24589,"height":1026,"width":1000,"id":0},{"rectangle":true,"xStart":38676,"xEnd":40676,"yStart":2361,"yEnd":4362,"height":2001,"width":2000,"id":0},{"rectangle":true,"xStart":35798,"xEnd":37798,"yStart":8114,"yEnd":10115,"height":2001,"width":2000,"id":0},{"rectangle":true,"xStart":31801,"xEnd":33801,"yStart":9389,"yEnd":11390,"height":2001,"width":2000,"id":0},{"rectangle":true,"xStart":22900,"xEnd":24900,"yStart":3990,"yEnd":5991,"height":2001,"width":2000,"id":0},{"rectangle":true,"xStart":5676,"xEnd":7676,"yStart":7614,"yEnd":9615,"height":2001,"width":2000,"id":0},{"rectangle":true,"xStart":11799,"xEnd":13799,"yStart":18437,"yEnd":20438,"height":2001,"width":2000,"id":0},{"rectangle":true,"xStart":21900,"xEnd":23900,"yStart":9572,"yEnd":11573,"height":2001,"width":2000,"id":0},{"rectangle":true,"xStart":14250,"xEnd":16250,"yStart":2088,"yEnd":4089,"height":2001,"width":2000,"id":0},{"rectangle":true,"xStart":18348,"xEnd":20348,"yStart":20330,"yEnd":22331,"height":2001,"width":2000,"id":0},{"rectangle":true,"xStart":1028,"xEnd":3028,"yStart":15462,"yEnd":17463,"height":2001,"width":2000,"id":0},{"rectangle":true,"xStart":1028,"xEnd":3028,"yStart":15462,"yEnd":17463,"height":2001,"width":2000,"id":0}],    "asteroids": [],
+    "nebulas": [],
+    "stations": [
+      {
+        "x": 32500,
+        "y": 20000,
+        "z": 1,
+        "rotation": 0,
+        "type": "Low",
+        "id": 2,
+        "hasEngine": false
+      }
+    ]
+  },
+  "38": {
+    "name": "Pirate Sector-S",
+    "scale": 2,
+    "offset": {
+      "x": -2100,
+      "y": -1300
+    },
+    "portals": [
+      {
+        "x": 37000,
+        "y": 15000,
+        "id": 1,
+        "typeId": 0
+      },
+      {
+        "x": 24000,
+        "y": 15000,
+        "id": 2,
+        "typeId": 0
+      },
+      {
+        "x": 23000,
+        "y": 24000,
+        "id": 3,
+        "typeId": 0
+      },
+      {
+        "x": 19500,
+        "y": 24000,
+        "id": 4,
+        "typeId": 0
+      },
+      {
+        "x": 19500,
+        "y": 11000,
+        "id": 5,
+        "typeId": 0
+      },
+      {
+        "x": 37000,
+        "y": 11000,
+        "id": 6,
+        "typeId": 0
+      }
+    ],
+    "lensflares": [],
+    "planets": [
+      {
+        "x": "3850",
+        "y": "1200",
+        "z": "8",
+        "id": "62",
+        "mScale": 5
+      }
+    ],
+    "barriers": [
+      {"rectangle":true,"hidden":true,"xStart":33358,"xEnd":33734,"yStart":20199,"yEnd":20590,"height":391,"width":376,"id":0},{"rectangle":true,"hidden":true,"xStart":33540,"xEnd":33969,"yStart":19248,"yEnd":19733,"height":485,"width":429,"id":0},{"rectangle":true,"hidden":true,"xStart":32459,"xEnd":33027,"yStart":20166,"yEnd":20741,"height":575,"width":568,"id":0},{"rectangle":true,"hidden":true,"xStart":31630,"xEnd":32533,"yStart":20119,"yEnd":20741,"height":622,"width":903,"id":0},{"rectangle":true,"hidden":true,"xStart":31172,"xEnd":31668,"yStart":19149,"yEnd":20697,"height":1548,"width":496,"id":0},{"rectangle":true,"hidden":true,"xStart":31668,"xEnd":33192,"yStart":19087,"yEnd":19681,"height":594,"width":1524,"id":0},
+            {
+        "rectangle": true,
+        "xStart": 6000,
+        "xEnd": 14000,
+        "yStart": 2500,
+        "yEnd": 7500,
+        "height": 5000,
+        "width": 8000,
+        "radius": 0,
+        "noClip": true,
+        "id": 2,
+        "color": "rgba(255,99,71,0.3)",
+        "random": false,
+        "alpha": 0.5,
+        "isNebula": true,
+        "name": "nebula1Left"
+      },  
+      {
+        "rectangle": true,
+        "xStart": 3300,
+        "xEnd": 9000,
+        "yStart": 15500,
+        "yEnd": 23000,
+        "height": 7500,
+        "width": 5700,
+        "radius": 0,
+        "noClip": true,
+        "id": 2,
+        "color": "rgba(255,99,71,0.3)",
+        "random": false,
+        "alpha": 0.5,
+        "isNebula": true,
+        "name": "nebula1Left"
+      },  
+      {
+        "rectangle": true,
+        "xStart": 30000,
+        "xEnd": 36000,
+        "yStart": 2200,
+        "yEnd": 7300,
+        "height": 5100,
+        "width": 6000,
+        "radius": 0,
+        "noClip": true,
+        "id": 2,
+        "color": "rgba(255,99,71,0.3)",
+        "random": false,
+        "alpha": 0.5,
+        "isNebula": true,
+        "name": "nebula1Left"
+      },  
+      {
+        "rectangle": true,
+        "xStart": 20500,
+        "xEnd": 22500,
+        "yStart": 12000,
+        "yEnd": 42000,
+        "height": 30000,
+        "width": 2000,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 20500,
+        "xEnd": 50500,
+        "yStart": 12000,
+        "yEnd": 14000,
+        "height": 2000,
+        "width": 30000,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 32000,
+        "xEnd": 32500,
+        "yStart": 17000,
+        "yEnd": 17500,
+        "height": 500,
+        "width": 500,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 28500,
+        "xEnd": 29000,
+        "yStart": 21000,
+        "yEnd": 21500,
+        "height": 500,
+        "width": 500,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 37000,
+        "xEnd": 37500,
+        "yStart": 20000,
+        "yEnd": 20500,
+        "height": 500,
+        "width": 500,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 30200,
+        "xEnd": 30700,
+        "yStart": 17100,
+        "yEnd": 17600,
+        "height": 500,
+        "width": 500,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 30500,
+        "xEnd": 31000,
+        "yStart": 23500,
+        "yEnd": 24000,
+        "height": 500,
+        "width": 500,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 29000,
+        "xEnd": 29500,
+        "yStart": 18100,
+        "yEnd": 18600,
+        "height": 500,
+        "width": 500,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 27000,
+        "xEnd": 28000,
+        "yStart": 19200,
+        "yEnd": 19700,
+        "height": 500,
+        "width": 1000,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 36000,
+        "xEnd": 37000,
+        "yStart": 18200,
+        "yEnd": 18700,
+        "height": 500,
+        "width": 1000,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 34000,
+        "xEnd": 35000,
+        "yStart": 23000,
+        "yEnd": 23500,
+        "height": 500,
+        "width": 1000,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 36000,
+        "xEnd": 36500,
+        "yStart": 22000,
+        "yEnd": 23000,
+        "height": 1000,
+        "width": 500,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 32250,
+        "xEnd": 32750,
+        "yStart": 22500,
+        "yEnd": 23500,
+        "height": 1000,
+        "width": 500,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 29000,
+        "xEnd": 29500,
+        "yStart": 22000,
+        "yEnd": 23000,
+        "height": 1000,
+        "width": 500,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 34000,
+        "xEnd": 34500,
+        "yStart": 16500,
+        "yEnd": 17500,
+        "height": 1000,
+        "width": 500,
+        "radius": 0,
+        "id": 0
+      },
+    {"rectangle":true,"xStart":25776,"xEnd":26776,"yStart":9572,"yEnd":11573,"height":2001,"width":1000,"id":0},{"rectangle":true,"xStart":6676,"xEnd":7676,"yStart":361,"yEnd":2362,"height":2001,"width":1000,"id":0},{"rectangle":true,"xStart":24450,"xEnd":25450,"yStart":861,"yEnd":2862,"height":2001,"width":1000,"id":0},{"rectangle":true,"xStart":14775,"xEnd":15775,"yStart":11364,"yEnd":13365,"height":2001,"width":1000,"id":0},{"rectangle":true,"xStart":37675,"xEnd":41676,"yStart":5815,"yEnd":7315,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":17751,"xEnd":21752,"yStart":5815,"yEnd":7315,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":21877,"xEnd":25878,"yStart":7614,"yEnd":9114,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":9324,"xEnd":13325,"yStart":8127,"yEnd":9627,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":9324,"xEnd":13325,"yStart":861,"yEnd":2361,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":16347,"xEnd":20348,"yStart":13338,"yEnd":14838,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":31399,"xEnd":35400,"yStart":587,"yEnd":2087,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":30899,"xEnd":34900,"yStart":7377,"yEnd":8877,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":17876,"xEnd":21877,"yStart":2087,"yEnd":3587,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":6676,"xEnd":10677,"yStart":11164,"yEnd":12664,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":3175,"xEnd":7176,"yStart":13605,"yEnd":15105,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":14275,"xEnd":18276,"yStart":15564,"yEnd":17064,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":2028,"xEnd":6029,"yStart":23314,"yEnd":24814,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":6822,"xEnd":10823,"yStart":24064,"yEnd":25564,"height":1500,"width":4001,"id":0},{"rectangle":true,"xStart":28653,"xEnd":30153,"yStart":7572,"yEnd":11573,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":28022,"xEnd":29522,"yStart":361,"yEnd":4362,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":26276,"xEnd":27776,"yStart":4362,"yEnd":8363,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":18774,"xEnd":20274,"yStart":15355,"yEnd":19356,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":36527,"xEnd":38027,"yStart":989,"yEnd":4990,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":14724,"xEnd":16224,"yStart":5614,"yEnd":9615,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":17101,"xEnd":18601,"yStart":8363,"yEnd":12364,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":4176,"xEnd":5676,"yStart":2362,"yEnd":6363,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":12049,"xEnd":13549,"yStart":12712,"yEnd":16713,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":3278,"xEnd":4778,"yStart":8127,"yEnd":12128,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":9323,"xEnd":10823,"yStart":14355,"yEnd":18356,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":528,"xEnd":2028,"yStart":18262,"yEnd":22263,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":9323,"xEnd":10823,"yStart":19438,"yEnd":23439,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":12375,"xEnd":13875,"yStart":21563,"yEnd":25564,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":14775,"xEnd":16275,"yStart":17700,"yEnd":21701,"height":4001,"width":1500,"id":0},{"rectangle":true,"xStart":20000,"xEnd":21000,"yStart":8363,"yEnd":9389,"height":1026,"width":1000,"id":0},{"rectangle":true,"xStart":12203,"xEnd":13203,"yStart":10651,"yEnd":11677,"height":1026,"width":1000,"id":0},{"rectangle":true,"xStart":16250,"xEnd":17250,"yStart":23563,"yEnd":24589,"height":1026,"width":1000,"id":0},{"rectangle":true,"xStart":38676,"xEnd":40676,"yStart":2361,"yEnd":4362,"height":2001,"width":2000,"id":0},{"rectangle":true,"xStart":35798,"xEnd":37798,"yStart":8114,"yEnd":10115,"height":2001,"width":2000,"id":0},{"rectangle":true,"xStart":31801,"xEnd":33801,"yStart":9389,"yEnd":11390,"height":2001,"width":2000,"id":0},{"rectangle":true,"xStart":22900,"xEnd":24900,"yStart":3990,"yEnd":5991,"height":2001,"width":2000,"id":0},{"rectangle":true,"xStart":5676,"xEnd":7676,"yStart":7614,"yEnd":9615,"height":2001,"width":2000,"id":0},{"rectangle":true,"xStart":11799,"xEnd":13799,"yStart":18437,"yEnd":20438,"height":2001,"width":2000,"id":0},{"rectangle":true,"xStart":21900,"xEnd":23900,"yStart":9572,"yEnd":11573,"height":2001,"width":2000,"id":0},{"rectangle":true,"xStart":14250,"xEnd":16250,"yStart":2088,"yEnd":4089,"height":2001,"width":2000,"id":0},{"rectangle":true,"xStart":18348,"xEnd":20348,"yStart":20330,"yEnd":22331,"height":2001,"width":2000,"id":0},{"rectangle":true,"xStart":1028,"xEnd":3028,"yStart":15462,"yEnd":17463,"height":2001,"width":2000,"id":0},{"rectangle":true,"xStart":1028,"xEnd":3028,"yStart":15462,"yEnd":17463,"height":2001,"width":2000,"id":0}],
+        
+    "asteroids": [],
+    "nebulas": [],
+    "stations": [
+      {
+        "x": 32500,
+        "y": 20000,
+        "z": 1,
+        "rotation": 0,
+        "type": "Low",
+        "id": 2,
+        "hasEngine": false
+      }
+    ]
+  },
+  "42": {
+    "theme": "midi",
+    "name": "???",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "51": {
+    "name": "GG α",
+    "portals": [],
+    "lensflares": [{ "x": "1100", "y": "968", "z": "10", "id": "0" }],
+    "planets": [
+      { "x": "1230", "y": "822", "z": "5", "id": "5", "mScale": 5 },
+      { "x": "1280", "y": "746", "z": "3", "id": "6", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "52": {
+    "name": "GG ß",
+    "portals": [],
+    "lensflares": [{ "x": "950", "y": "650", "z": "10", "id": "0" }],
+    "planets": [
+      { "x": "1950", "y": "1142", "z": "9", "id": "7", "mScale": 10 },
+      { "x": "1132", "y": "568", "z": "7", "id": "8", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "53": {
+    "name": "GG γ",
+    "portals": [],
+    "lensflares": [{ "x": "1222", "y": "932", "z": "10", "id": "0" }],
+    "planets": [{ "x": "1144", "y": "904", "z": "7", "id": "9", "mScale": 5 }],
+    "nebulas": [],
+    "stations": []
+  },
+  "54": {
+    "scale": 0.5,
+    "name": "Pilot Sheet Trial",
+    "portals": [],
+    "lensflares": [{ "x": "1680", "y": "1100", "z": "5", "id": "0" }],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "55": {
+    "name": "GG δ",
+    "portals": [],
+    "lensflares": [{ "x": "1222", "y": "932", "z": "10", "id": "0" }],
+    "planets": [{ "x": "1144", "y": "904", "z": "7", "id": "9", "mScale": 5 }],
+    "nebulas": [],
+    "stations": []
+  },
+  "56": {
+    "name": "GG Kronos I",
+    "portals": [],
+    "lensflares": [{ "x": "630", "y": "560", "z": "10", "id": "0" }],
+    "planets": [{ "x": "1136", "y": "767", "z": "7", "id": "112", "mScale": 5 }, { "x": "1736", "y": "767", "z": "7", "id": "113", "mScale": 7 }],
+    "nebulas": [],
+    "stations": [{ "x": 450, "y": 650, "z": 9, "rotation": 0, "type": "Saturn", "id": 1, "hasEngine": false, "isAdvanced": true }, { "x": 450, "y": 675, "z": 8, "rotation": 0, "type": "Saturn", "id": 2, "hasEngine": false, "isAdvanced": false }]
+  },
+  "57": {
+    "name": "GG Kronos II",
+    "portals": [],
+    "lensflares": [{ "x": "630", "y": "560", "z": "10", "id": "0" }],
+    "planets": [{ "x": "1136", "y": "767", "z": "7", "id": "112", "mScale": 5 }, { "x": "1736", "y": "767", "z": "7", "id": "113", "mScale": 7 }],
+    "nebulas": [],
+    "stations": [{ "x": 4500, "y": 4500, "z": 1, "rotation": 0, "type": "Saturn1", "id": 1, "hasEngine": false, "isAdvanced": true }]
+  },
+  "58": {
+    "name": "GG IC",
+    "offset": {
+      "x": -1050,
+      "y": -650
+    },
+    "portals": [],
+    "lensflares": [{
+      "x": "1490",
+      "y": "1090",
+      "z": "10",
+      "id": "2"
+    }],
+    "planets": [
+      {
+        "x": "2800",
+        "y": "100",
+        "z": "8",
+        "id": "34",
+        "mScale": 5
+      },
+      {
+        "x": "1600",
+        "y": "1600",
+        "z": "6",
+        "id": "38",
+        "mScale": 5
+      }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+
+  "61": {
+    "name": "Invasion",
+    "portals": [],
+    "lensflares": [
+      { "x": "1682", "y": "210", "z": "10", "id": "0" },
+      { "x": "658", "y": "1090", "z": "10", "id": "1" }
+    ],
+    "planets": [
+      { "x": "1304", "y": "460", "z": "6", "id": "30", "mScale": 5 },
+      { "x": "1000", "y": "900", "z": "6", "id": "31", "mScale": 5 },
+      { "x": "4100", "y": "1800", "z": "5", "id": "32", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "62": {
+    "name": "Invasion",
+    "portals": [],
+    "lensflares": [
+      { "x": "1682", "y": "210", "z": "10", "id": "0" },
+      { "x": "658", "y": "1090", "z": "10", "id": "1" }
+    ],
+    "planets": [
+      { "x": "694", "y": "560", "z": "6", "id": "30", "mScale": 5 },
+      { "x": "1974", "y": "1022", "z": "6", "id": "31", "mScale": 5 },
+      { "x": "1118", "y": "370", "z": "5", "id": "32", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "63": {
+    "name": "Invasion",
+    "portals": [],
+    "lensflares": [
+      { "x": "1682", "y": "210", "z": "10", "id": "0" },
+      { "x": "658", "y": "1090", "z": "10", "id": "1" }
+    ],
+    "planets": [
+      { "x": "694", "y": "560", "z": "6", "id": "30", "mScale": 5 },
+      { "x": "1974", "y": "1022", "z": "6", "id": "31", "mScale": 5 },
+      { "x": "1118", "y": "370", "z": "5", "id": "32", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "64": {
+    "name": "Invasion",
+    "portals": [],
+    "lensflares": [
+      { "x": "1682", "y": "210", "z": "10", "id": "0" },
+      { "x": "658", "y": "1090", "z": "10", "id": "1" }
+    ],
+    "planets": [
+      { "x": "694", "y": "560", "z": "6", "id": "30", "mScale": 5 },
+      { "x": "1974", "y": "1022", "z": "6", "id": "31", "mScale": 5 },
+      { "x": "1118", "y": "370", "z": "5", "id": "32", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "65": {
+    "name": "Invasion",
+    "portals": [],
+    "lensflares": [
+      { "x": "1682", "y": "210", "z": "10", "id": "0" },
+      { "x": "658", "y": "1090", "z": "10", "id": "1" }
+    ],
+    "planets": [
+      { "x": "694", "y": "560", "z": "6", "id": "30", "mScale": 5 },
+      { "x": "1974", "y": "1022", "z": "6", "id": "31", "mScale": 5 },
+      { "x": "1118", "y": "370", "z": "5", "id": "32", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "66": {
+    "name": "Invasion",
+    "portals": [],
+    "lensflares": [
+      { "x": "1682", "y": "210", "z": "10", "id": "0" },
+      { "x": "658", "y": "1090", "z": "10", "id": "1" }
+    ],
+    "planets": [
+      { "x": "694", "y": "560", "z": "6", "id": "30", "mScale": 5 },
+      { "x": "1974", "y": "1022", "z": "6", "id": "31", "mScale": 5 },
+      { "x": "1118", "y": "370", "z": "5", "id": "32", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "67": {
+    "name": "Invasion",
+    "portals": [],
+    "lensflares": [
+      { "x": "1682", "y": "210", "z": "10", "id": "0" },
+      { "x": "658", "y": "1090", "z": "10", "id": "1" }
+    ],
+    "planets": [
+      { "x": "694", "y": "560", "z": "6", "id": "30", "mScale": 5 },
+      { "x": "1974", "y": "1022", "z": "6", "id": "31", "mScale": 5 },
+      { "x": "1118", "y": "370", "z": "5", "id": "32", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "68": {
+    "name": "Invasion",
+    "portals": [],
+    "lensflares": [
+      { "x": "1682", "y": "210", "z": "10", "id": "0" },
+      { "x": "658", "y": "1090", "z": "10", "id": "1" }
+    ],
+    "planets": [
+      { "x": "694", "y": "560", "z": "6", "id": "30", "mScale": 5 },
+      { "x": "1974", "y": "1022", "z": "6", "id": "31", "mScale": 5 },
+      { "x": "1118", "y": "370", "z": "5", "id": "32", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "69": {
+    "name": "Invasion",
+    "portals": [],
+    "lensflares": [
+      { "x": "1682", "y": "210", "z": "10", "id": "0" },
+      { "x": "658", "y": "1090", "z": "10", "id": "1" }
+    ],
+    "planets": [
+      { "x": "694", "y": "560", "z": "6", "id": "30", "mScale": 5 },
+      { "x": "1974", "y": "1022", "z": "6", "id": "31", "mScale": 5 },
+      { "x": "1118", "y": "370", "z": "5", "id": "32", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "81": {
+    "name": "TDM I",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "82": {
+    "name": "TDM II",
+    "scale": 0.25,
+    "nonGroupEnemies": true,
+    "allowGroupFire": false,
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "91": {
+    "name": "5-1",
+    "portals": [],
+    "lensflares": [{ "x": "900", "y": "920", "z": "10", "id": "0" }],
+    "planets": [
+      { "x": "800", "y": "800", "z": "8", "id": "44", "mScale": 5 },
+      { "x": "490", "y": "690", "z": "1", "id": "48", "mScale": 5 },
+      { "x": "260", "y": "1360", "z": "1", "id": "48", "mScale": 5 },
+      { "x": "490", "y": "2070", "z": "1", "id": "48", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "92": {
+    "name": "GG 212121",
+    "portals": [],
+    "lensflares": [{ "x": "1410", "y": "500", "z": "10", "id": "0" }],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "93": {
+    "name": "5-3",
+    "portals": [],
+    "lensflares": [{ "x": "1770", "y": "1660", "z": "10", "id": "3" }],
+    "planets": [
+      { "x": "3400", "y": "820", "z": "8", "id": "46", "mScale": 5 },
+      { "x": "164", "y": "966", "z": "1", "id": "49", "mScale": 5 },
+      { "x": "164", "y": "1366", "z": "1", "id": "49", "mScale": 5 },
+      { "x": "164", "y": "1766", "z": "1", "id": "49", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "94": {
+    "name": "GG ε",
+    "portals": [],
+    "lensflares": [
+      { "x": "1600", "y": "370", "z": "10", "id": "1", "isPost": false }
+    ],
+    "planets": [
+      { "x": "1770", "y": "395", "z": "9", "id": "68", "mScale": 5 },
+      { "x": "1320", "y": "1240", "z": "9", "id": "69", "mScale": 5 },
+      { "x": "454", "y": "1280", "z": "7", "id": "63", "mScale": 5 },
+      { "x": "2500", "y": "620", "z": "7", "id": "65", "mScale": 5 },
+      { "x": "472", "y": "322", "z": "7", "id": "67", "mScale": 5 },
+      { "x": "2800", "y": "1700", "z": "6", "id": "64", "mScale": 5 },
+      { "x": "1800", "y": "950", "z": "6", "id": "66", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "95": {
+    "name": "GG ζ 1",
+    "portals": [],
+    "lensflares": [
+      { "x": "624", "y": "1064", "z": "10", "id": "0" },
+      { "x": "1750", "y": "380", "z": "10", "id": "1", "isPost": true }
+    ],
+    "planets": [
+      { "x": "1734", "y": "357", "z": "10", "id": "33", "mScale": 5 },
+      { "x": "1550", "y": "925", "z": "7", "id": "42", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "96": {
+    "name": "GG ζ 2",
+    "portals": [],
+    "lensflares": [
+      { "x": "1430", "y": "540", "z": "10", "id": "1", "isPost": false }
+    ],
+    "planets": [
+      { "x": "330", "y": "600", "z": "9", "id": "999", "mScale": 5 },
+      { "x": "680", "y": "850", "z": "9", "id": "998", "mScale": 5 },
+      { "x": "1523", "y": "596", "z": "9", "id": "50", "mScale": 10 },
+      { "x": "1246", "y": "1600", "z": "7", "id": "56", "mScale": 5 },
+      { "x": "2150", "y": "443", "z": "7", "id": "54", "mScale": 5 },
+      { "x": "365", "y": "1600", "z": "7", "id": "51", "mScale": 5 },
+      { "x": "1500", "y": "578", "z": "7", "id": "52", "mScale": 5 },
+      { "x": "675", "y": "416", "z": "6", "id": "53", "mScale": 5 },
+      { "x": "2700", "y": "1800", "z": "6", "id": "55", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "97": {
+    "name": "GG ζ 3",
+    "portals": [],
+    "lensflares": [
+      { "x": "1258", "y": "660", "z": "10", "id": "0" }
+    ],
+    "planets": [
+      { "x": "400", "y": "1600", "z": "7", "id": "57", "mScale": 5 },
+      { "x": "500", "y": "506", "z": "7", "id": "58", "mScale": 5 },
+      { "x": "1200", "y": "750", "z": "7", "id": "59", "mScale": 5 },
+      { "x": "2600", "y": "575", "z": "6", "id": "60", "mScale": 5 },
+      { "x": "2620", "y": "1600", "z": "7", "id": "61", "mScale": 5 },
+      { "x": "1600", "y": "1825", "z": "6", "id": "62", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "98": {
+    "name": "GG κ",
+    "portals": [],
+    "lensflares": [
+      { "x": "726", "y": "871", "z": "10", "id": "2" }
+    ],
+    "planets": [
+      { "x": "1560", "y": "1050", "z": "9", "id": "108", "mScale": 5 },
+      { "x": "457", "y": "182", "z": "9", "id": "109", "mScale": 5 }
+    ],
+    "nebulas": [],
+    "stations": []
+  },
+  "101": {
+      "offset": {
+        "x": -1050,
+        "y": -650
+      },
+      "scale": 0.25,
+      "name": "JPA",
+      "portals": [],
+      "lensflares": [],
+      "planets": [],
+      "nebulas": [],
+      "stations": []
+    },
+  "102": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "103": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "104": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "105": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "106": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "107": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "109": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "110": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "111": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "113": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "114": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "115": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "116": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "117": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "118": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "119": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "120": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "121": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "122": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "123": {
+    "name": "Fire Fight",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "124": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "125": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "126": {
+    "name": "JP",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "200": {
+    "name": "Lord of War",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "254": {
+    "name": "0-1",
+    "scale": 0.25,
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "112": {
+    "scale": 0.25,
+    "name": "TA",
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "257": {
+      "name": "Duos Competetive",
+      "scale": 0.5,
+      "bg": 255,
+      "useMap": 255,
+      "useMapBg": true
+  },
+  "256": {
+      "name": "Full Team Competetive",
+      "bg": 255,
+      "useMap": 255,
+      "useMapBg": true
+  },
+  "255": {
+      "name": "Duel Competetive",
+      "scale": 0.25,
+      "bg": 255,
+      "useMap": 255,
+      "useMapBg": true
+  },
+  "30": {
+    "name": "Spaceball I",
+    "scale": 2,
+    "portals": [
+      {
+        "x": 7000,
+        "y": 13000,
+        "id": 1,
+        "typeId": 9
+      },
+      {
+        "x": 28000,
+        "y": 1500,
+        "id": 2,
+        "typeId": 10
+      },
+      {
+        "x": 28000,
+        "y": 24500,
+        "id": 3,
+        "typeId": 10
+      }
+    ],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "317": {
+    "name": "Pilot Sheet Trial",
+    "scale": 0.5,
+    "useMapBg": true,
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "318": {
+    "name": "Pilot Sheet Trial",
+    "scale": 0.5,
+    "useMapBg": true,
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "319": {
+    "name": "Pilot Sheet Trial",
+    "scale": 0.5,
+    "useMapBg": true,
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "320": {
+    "name": "Pilot Sheet Trial",
+    "scale": 0.5,
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": [
+      { "x": 1500, "y": 6500, "z": 1, "rotation": 0, "type": "Mmo", "id": 1 }
+    ]
+  },
+  "321": {
+    "name": "Pilot Sheet Trial",
+    "scale": 0.5,
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "322": {
+    "name": "Pilot Sheet Trial",
+    "scale": 0.5,
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "323": {
+    "name": "Pilot Sheet Trial",
+    "scale": 0.5,
+    "portals": [],
+    "lensflares": [{ "x": "1324", "y": "992", "z": "10", "id": "0" }],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "324": {
+    "name": "Pilot Sheet Trial",
+    "scale": 0.5,
+    "portals": [],
+    "lensflares": [{ "x": "966", "y": "716", "z": "10", "id": "0" }],
+    "planets": [],
+    "nebulas": [],
+    "stations": [
+      { "x": 10500, "y": 1500, "z": 1, "rotation": 0, "type": "Eic", "id": 1 }
+    ]
+  },
+  "325": {
+    "name": "Pilot Sheet Trial",
+    "scale": 0.5,
+    "portals": [],
+    "lensflares": [{ "x": "982", "y": "604", "z": "10", "id": "0" }],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "326": {
+    "name": "Pilot Sheet Trial",
+    "scale": 0.5,
+    "portals": [],
+    "lensflares": [{ "x": "978", "y": "672", "z": "10", "id": "0" }],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "327": {
+    "name": "Pilot Sheet Trial",
+    "scale": 0.5,
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": []
+  },
+  "328": {
+    "name": "Pilot Sheet Trial",
+    "scale": 0.5,
+    "portals": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": [
+      { "x": 19500, "y": 6500, "z": 1, "rotation": 0, "type": "Vru", "id": 1 }
+    ]
+  },
+  "350": {
+    "name": "Homemap Σ I",
+    "scale": 0.25,
+    "useMap": 254,
+    "useMapBg": true
+  },
+  "351": {
+    "name": "Homemap Σ II",
+    "scale": 0.5,
+    "portals": [],
+    "planets": [],
+    "nebulas": [],
+    "lensflares":[],
+    "stations": []
+  },
+  "352": {
+    "name": "Homemap Σ III",
+    "scale": 1,
+    "portals": [],
+    "planets": [],
+    "nebulas": [],
+    "lensflares":[],
+    "stations": [
+      { "x": 2600, "y": 6500, "z": 1, "rotation": 0, "type": "Low", "id": 1, "hasEngine": false }
+    ]
+  },
+  "353": {
+    "name": "Spaceball II",
+    "bg": 30,
+    "scale": 2,
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "stations": [
+        {
+            "x": 35000,
+            "y": 13000,
+            "z": 1,
+            "rotation": 0,
+            "type": "Low",
+            "id": 2,
+            "hasEngine": false
+        },
+        {
+            "x": 7000,
+            "y": 13000,
+            "z": 1,
+            "rotation": 0,
+            "type": "Low",
+            "id": 1,
+            "hasEngine": false
+        }
+    ],
+    "barriers": [
+        {
+          "rectangle": true,
+          "xStart": 20000,
+          "xEnd": 22000,
+          "yStart": -10000,
+          "yEnd": 36000,
+          "height": 46000,
+          "width": 2000,
+          "radius": 0,
+          "id": 0
+        }
+    ]
+},
+  "354": {
+    "name": "Mayhem",
+    "scale": 1,
+    "portals": [],
+    "lensflares": [
+      {
+        "x": "1050",
+        "y": "650",
+        "z": "10",
+        "id": "2",
+        "mScale": 5
+      }
+    ],
+    "planets": [],
+    "nebulas": [],
+    "offset": {
+      "x": -1050,
+      "y": -650
+    },
+    "stations": [{
+      "x": 2000,
+      "y": 12000,
+      "z": 1,
+      "rotation": 0,
+      "type": "Low",
+      "id": 2,
+      "hasEngine": false
+    }],
+    "barriers": [
+      {
+        "rectangle": true,
+        "xStart": 500,
+        "xEnd": 1000,
+        "yStart": 11000,
+        "yEnd": 13000,
+        "height": 2000,
+        "width": 500,
+        "radius": 0,
+        "id": 0,
+        "name": "DmzLeft"
+      },
+      {
+        "rectangle": true,
+        "xStart": 500,
+        "xEnd": 3500,
+        "yStart": 10500,
+        "yEnd": 11000,
+        "height": 500,
+        "width": 3000,
+        "radius": 0,
+        "id": 0,
+        "name": "DmzTop"
+      },
+      {
+        "rectangle": true,
+        "xStart": 500,
+        "xEnd": 3500,
+        "yStart": 13000,
+        "yEnd": 13500,
+        "height": 500,
+        "width": 3000,
+        "radius": 0,
+        "id": 0,
+        "name": "DmzBottom"
+      },
+      {
+        "rectangle": true,
+        "xStart": 3000,
+        "xEnd": 3500,
+        "yStart": 11000,
+        "yEnd": 13000,
+        "height": 2000,
+        "width": 500,
+        "radius": 0,
+        "id": 0,
+        "name": "DmzRight"
+      },      
+      {
+        "rectangle": true,
+        "xStart": 19500,
+        "xEnd": 20000,
+        "yStart": 3500,
+        "yEnd": 9750,
+        "height": 6250,
+        "width": 500,
+        "radius": 0,
+        "id": 0,
+        "name": "RightBorder"
+      },
+      {
+        "rectangle": true,
+        "xStart": 1000,
+        "xEnd": 1500,
+        "yStart": 3500,
+        "yEnd": 9750,
+        "height": 6250,
+        "width": 500,
+        "radius": 0,
+        "id": 0,
+        "name": "LeftBorder"
+      },
+      {
+      "rectangle": true,
+      "xStart": -6000,
+      "xEnd": 27000,
+      "yStart": 3250,
+      "yEnd": 3750,
+      "height": 500,
+      "width": 33000,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": -6000,
+      "xEnd": 27000,
+      "yStart": 9500,
+      "yEnd": 10000,
+      "height": 500,
+      "width": 33000,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 11750,
+      "xEnd": 12000,
+      "yStart": 6500,
+      "yEnd": 6750,
+      "height": 250,
+      "width": 250,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 10750,
+      "xEnd": 11000,
+      "yStart": 5625,
+      "yEnd": 5875,
+      "height": 250,
+      "width": 250,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 10750,
+      "xEnd": 11000,
+      "yStart": 7375,
+      "yEnd": 7625,
+      "height": 250,
+      "width": 250,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 9750,
+      "xEnd": 10000,
+      "yStart": 6500,
+      "yEnd": 6750,
+      "height": 250,
+      "width": 250,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 16000,
+      "xEnd": 18000,
+      "yStart": 5650,
+      "yEnd": 6000,
+      "height": 350,
+      "width": 2000,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 16000,
+      "xEnd": 18000,
+      "yStart": 7000,
+      "yEnd": 7350,
+      "height": 350,
+      "width": 2000,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 3000,
+      "xEnd": 5000,
+      "yStart": 5650,
+      "yEnd": 6000,
+      "height": 350,
+      "width": 2000,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 3000,
+      "xEnd": 5000,
+      "yStart": 7000,
+      "yEnd": 7350,
+      "height": 350,
+      "width": 2000,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 14875,
+      "xEnd": 15125,
+      "yStart": 6125,
+      "yEnd": 6875,
+      "height": 750,
+      "width": 250,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 5875,
+      "xEnd": 6125,
+      "yStart": 6125,
+      "yEnd": 6875,
+      "height": 750,
+      "width": 250,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 13625,
+      "xEnd": 14375,
+      "yStart": 5750,
+      "yEnd": 6000,
+      "height": 250,
+      "width": 750,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 13625,
+      "xEnd": 14375,
+      "yStart": 7000,
+      "yEnd": 7250,
+      "height": 250,
+      "width": 750,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 6625,
+      "xEnd": 7375,
+      "yStart": 5750,
+      "yEnd": 6000,
+      "height": 250,
+      "width": 750,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 6625,
+      "xEnd": 7375,
+      "yStart": 7000,
+      "yEnd": 7250,
+      "height": 250,
+      "width": 750,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 7000,
+      "xEnd": 14000,
+      "yStart": 4300,
+      "yEnd": 4550,
+      "height": 250,
+      "width": 7000,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 7000,
+      "xEnd": 14000,
+      "yStart": 8450,
+      "yEnd": 8700,
+      "height": 250,
+      "width": 7000,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 14875,
+      "xEnd": 15125,
+      "yStart": 7250,
+      "yEnd": 8700,
+      "height": 1450,
+      "width": 250,
+      "radius": 0,
+      "angle": 45,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 14875,
+      "xEnd": 15125,
+      "yStart": 4300,
+      "yEnd": 5500,
+      "height": 1450,
+      "width": 250,
+      "radius": 0,
+      "angle": 135,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 5875,
+      "xEnd": 6125,
+      "yStart": 7250,
+      "yEnd": 8700,
+      "height": 1450,
+      "width": 250,
+      "radius": 0,
+      "angle": 315,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 5875,
+      "xEnd": 6125,
+      "yStart": 4300,
+      "yEnd": 5500,
+      "height": 1450,
+      "width": 250,
+      "radius": 0,
+      "angle": 225,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 12375,
+      "xEnd": 14625,
+      "yStart": 7000,
+      "yEnd": 8450,
+      "height": 1450,
+      "width": 250,
+      "radius": 0,
+      "angle": 45,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 12375,
+      "xEnd": 14625,
+      "yStart": 4800,
+      "yEnd": 6000,
+      "height": 1450,
+      "width": 250,
+      "radius": 0,
+      "angle": 135,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 8875,
+      "xEnd": 9125,
+      "yStart": 7000,
+      "yEnd": 8450,
+      "height": 1450,
+      "width": 250,
+      "radius": 0,
+      "angle": 315,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 8875,
+      "xEnd": 9125,
+      "yStart": 4800,
+      "yEnd": 6000,
+      "height": 1450,
+      "width": 250,
+      "radius": 0,
+      "angle": 225,
+      "id": 0
+    }]
+  },
+  "355": {
+    "name": "Tunnel of Terror",
+    "theme": "tot",
+    "useMap": "355",
+    "bg": 355,
+    "scale": 1,
+    "scaryAlienMode": true,
+    "portals": [],
+    "lensflares": [{
+      "x": "950",
+      "y": "650",
+      "z": "10",
+      "id": "1"
+    }],
+    "planets": [{
+        "x": "150",
+        "y": "150",
+        "z": "9",
+        "id": "43",
+        "mScale": 10
+      },
+      {
+        "x": "1132",
+        "y": "568",
+        "z": "7",
+        "id": "45",
+        "mScale": 5
+      },
+      {
+        "x": "2500",
+        "y": "1000",
+        "z": "7",
+        "id": "38",
+        "mScale": 5
+      },
+      {
+        "x": "2632",
+        "y": "1068",
+        "z": "9",
+        "id": "44",
+        "mScale": 5
+      },
+      {
+        "x": "0",
+        "y": "1800",
+        "z": "8",
+        "id": "27",
+        "mScale": 5
+      },
+      {
+        "x": "2500",
+        "y": "100",
+        "z": "7",
+        "id": "35",
+        "mScale": 5
+      }
+    ],
+    "nebulas": [],
+    "fogOfWar": true,
+    "nonGroupEnemies": true,
+    "allowGroupFire": false,
+    "stations": [],
+    "barriers": [{
+      "rectangle": true,
+      "xStart": 11750,
+      "xEnd": 12000,
+      "yStart": 6500,
+      "yEnd": 6750,
+      "height": 250,
+      "width": 250,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 10750,
+      "xEnd": 11000,
+      "yStart": 5625,
+      "yEnd": 5875,
+      "height": 250,
+      "width": 250,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 10750,
+      "xEnd": 11000,
+      "yStart": 7375,
+      "yEnd": 7625,
+      "height": 250,
+      "width": 250,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 9750,
+      "xEnd": 10000,
+      "yStart": 6500,
+      "yEnd": 6750,
+      "height": 250,
+      "width": 250,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 16000,
+      "xEnd": 18000,
+      "yStart": 5650,
+      "yEnd": 6000,
+      "height": 350,
+      "width": 2000,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 16000,
+      "xEnd": 18000,
+      "yStart": 7000,
+      "yEnd": 7350,
+      "height": 350,
+      "width": 2000,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 3000,
+      "xEnd": 5000,
+      "yStart": 5650,
+      "yEnd": 6000,
+      "height": 350,
+      "width": 2000,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 3000,
+      "xEnd": 5000,
+      "yStart": 7000,
+      "yEnd": 7350,
+      "height": 350,
+      "width": 2000,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 14875,
+      "xEnd": 15125,
+      "yStart": 6125,
+      "yEnd": 6875,
+      "height": 750,
+      "width": 250,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 5875,
+      "xEnd": 6125,
+      "yStart": 6125,
+      "yEnd": 6875,
+      "height": 750,
+      "width": 250,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 13625,
+      "xEnd": 14375,
+      "yStart": 5750,
+      "yEnd": 6000,
+      "height": 250,
+      "width": 750,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 13625,
+      "xEnd": 14375,
+      "yStart": 7000,
+      "yEnd": 7250,
+      "height": 250,
+      "width": 750,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 6625,
+      "xEnd": 7375,
+      "yStart": 5750,
+      "yEnd": 6000,
+      "height": 250,
+      "width": 750,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 6625,
+      "xEnd": 7375,
+      "yStart": 7000,
+      "yEnd": 7250,
+      "height": 250,
+      "width": 750,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 6625,
+      "xEnd": 14375,
+      "yStart": 4300,
+      "yEnd": 4550,
+      "height": 250,
+      "width": 7750,
+      "radius": 0,
+      "id": 0
+    }, {
+      "rectangle": true,
+      "xStart": 6625,
+      "xEnd": 14375,
+      "yStart": 8450,
+      "yEnd": 8700,
+      "height": 250,
+      "width": 7750,
+      "radius": 0,
+      "id": 0
+    }]
+  },
+  "356": {
+    "name": "Winter Wonderland",
+    "theme": "jolly",
+    "scale": 1,
+    "offset": {
+      "x": -1050,
+      "y": -650
+    },
+    "portals": [],
+    "lensflares": [{
+      "x": "950",
+      "y": "650",
+      "z": "10",
+      "id": "2"
+    }],
+    "planets": [
+      {
+        "x": "500",
+        "y": "1000",
+        "z": "7",
+        "id": "38",
+        "mScale": 5
+      },
+      {
+        "x": "2500",
+        "y": "1000",
+        "z": "7",
+        "id": "38",
+        "mScale": 5
+      },
+      {
+        "x": "0",
+        "y": "1800",
+        "z": "8",
+        "id": "27",
+        "mScale": 5
+      },
+      {
+        "x": "2500",
+        "y": "100",
+        "z": "7",
+        "id": "35",
+        "mScale": 5
+      }
+    ],
+    "nebulas": [],
+    "snowflakes": 200,
+    "fogOfWar": true,
+    "allowGroupFire": false,
+    "stations": [],
+    "clientShip": [
+      ["giftMaster", 10500, 700, 6, 6, "Frostynix", 0, 0, 1000,1000,"1000;1000","1000;1000",false, 0, 1, false, 1, "[0,0,0,0,0,0,0]", "{\"1\":[],\"2\":[]}", "null", "", 0, 0]
+    ],
+    "barriers": [
+      {
+        "rectangle": true,
+        "xStart": 13000,
+        "xEnd": 13250,
+        "yStart": 1000,
+        "yEnd": 11000,
+        "height": 10000,
+        "width": 250,
+        "radius": 0,
+        "angle": 155,
+        "id": 1,
+        "externalId": 1,
+        "name": "SideRight"
+      },
+      {
+        "rectangle": true,
+        "xStart": 8000,
+        "xEnd": 8250,
+        "yStart": 1000,
+        "yEnd": 11000,
+        "height": 10000,
+        "width": 250,
+        "radius": 0,
+        "angle": 205,
+        "id": 1,
+        "externalId": 2,
+        "name": "SideLeft"
+      },
+      {
+        "rectangle": true,
+        "xStart": 6500,
+        "xEnd": 14750,
+        "yStart": 10500,
+        "yEnd": 10750,
+        "height": 250,
+        "width": 8250,
+        "radius": 0,
+        "id": 1,
+        "externalId": 3,
+        "name": "BottomTree"
+      },
+      {
+        "rectangle": true,
+        "xStart": 10250,
+        "xEnd": 11000,
+        "yStart": 10750,
+        "yEnd": 12500,
+        "height": 1750,
+        "width": 750,
+        "radius": 0,
+        "id": 1,
+        "externalId": 4,
+        "name": "TreeStand" 
+      },
+      {
+        "rectangle": true,
+        "xStart": 9500,
+        "xEnd": 11500,
+        "yStart": 1000,
+        "yEnd": 1250,
+        "height": 250,
+        "width": 2000,
+        "radius": 0,
+        "id": 1,
+        "externalId": 5,
+        "name": "secretBottom" 
+      },
+      {
+        "rectangle": true,
+        "xStart": 9500,
+        "xEnd": 11500,
+        "yStart": 0,
+        "yEnd": 250,
+        "height": 250,
+        "width": 2000,
+        "radius": 0,
+        "id": 1,
+        "externalId": 6,
+        "name": "secretTop" 
+      },
+      {
+        "rectangle": true,
+        "xStart": 9250,
+        "xEnd": 9500,
+        "yStart": 0,
+        "yEnd": 1250,
+        "height": 1250,
+        "width": 250,
+        "radius": 0,
+        "id": 1,
+        "externalId": 7,
+        "name": "secretLeft" 
+      },
+      {
+        "rectangle": true,
+        "xStart": 11500,
+        "xEnd": 11750,
+        "yStart": 0,
+        "yEnd": 1250,
+        "height": 1250,
+        "width": 250,
+        "radius": 0,
+        "id": 1,
+        "externalId": 8,
+        "name": "secretRight" 
+      }
+    ]
+  },
+  "357": {
+    "name": "Winter Wonderland II",
+    "theme": "jolly",
+    "scale": 1,
+    "offset": {
+      "x": -1050,
+      "y": -650
+    },
+    "portals": [],
+    "lensflares": [{
+      "x": "210",
+      "y": "420",
+      "z": "10",
+      "id": "2"
+    }],
+    "planets": [],
+    "nebulas": [],
+    "snowflakes": 200,
+    "fogOfWar": true,
+    "allowGroupFire": false,
+    "stations": [],
+    "clientShip": [
+      ["giftMaster", 1600, 11000, 130, 130, "Gift Collector", 0, 0, 1000,1000,"1000;1000","1000;1000",false, 0, 1, false, 1, "[0,0,0,0,0,0,0]", "{\"1\":[],\"2\":[]}", "null", "", 0, 0]
+    ],
+    "barriers": [
+      {
+        "rectangle": true,
+        "xStart": 7000,
+        "xEnd": 14000,
+        "yStart": 8500,
+        "yEnd": 9000,
+        "height": 500,
+        "width": 7000,
+        "radius": 0,
+        "id": 1,
+        "externalId": 1,
+        "name": "bottomCenter"
+      },
+      {
+        "rectangle": true,
+        "xStart": 7000,
+        "xEnd": 14000,
+        "yStart": 4000,
+        "yEnd": 4500,
+        "height": 500,
+        "width": 7000,
+        "radius": 0,
+        "id": 1,
+        "externalId": 2,
+        "name": "topCenter"
+      },
+      {
+        "rectangle": true,
+        "xStart": 7000,
+        "xEnd": 7500,
+        "yStart": 4000,
+        "yEnd": 9000,
+        "height": 5000,
+        "width": 500,
+        "radius": 0,
+        "id": 1,
+        "externalId": 3,
+        "name": "sealOffStage0"
+      },
+      {
+        "rectangle": true,
+        "xStart": 13500,
+        "xEnd": 14000,
+        "yStart": 4000,
+        "yEnd": 9000,
+        "height": 5000,
+        "width": 500,
+        "radius": 0,
+        "id": 1,
+        "externalId": 4,
+        "name": "rightCenter"
+      },
+      {
+        "rectangle": true,
+        "xStart": 3000,
+        "xEnd": 7000,
+        "yStart": 4000,
+        "yEnd": 4500,
+        "height": 500,
+        "width": 4000,
+        "radius": 0,
+        "id": 1,
+        "externalId": 5,
+        "name": "topBorderLeft"
+      },
+      {
+        "rectangle": true,
+        "xStart": 3000,
+        "xEnd": 3500,
+        "yStart": 4000,
+        "yEnd": 12000,
+        "height": 8000,
+        "width": 500,
+        "radius": 0,
+        "id": 1,
+        "externalId": 6,
+        "name": "leftBorder"
+      },
+      {
+        "rectangle": true,
+        "xStart": 1000,
+        "xEnd": 19000,
+        "yStart": 11500,
+        "yEnd": 12000,
+        "height": 500,
+        "width": 18000,
+        "radius": 0,
+        "id": 1,
+        "externalId": 7,
+        "name": "bottomBorder"
+      },
+      {
+        "rectangle": true,
+        "xStart": 18500,
+        "xEnd": 19000,
+        "yStart": 2000,
+        "yEnd": 12000,
+        "height": 10000,
+        "width": 500,
+        "radius": 0,
+        "id": 1,
+        "externalId": 8,
+        "name": "rightOutterBorder"
+      },
+      {
+        "rectangle": true,
+        "xStart": 1000,
+        "xEnd": 19000,
+        "yStart": 1500,
+        "yEnd": 2000,
+        "height": 500,
+        "width": 18000,
+        "radius": 0,
+        "id": 1,
+        "externalId": 9,
+        "name": "topBorder"
+      },
+      {
+        "rectangle": true,
+        "xStart": 1000,
+        "xEnd": 1500,
+        "yStart": 1500,
+        "yEnd": 12000,
+        "height": 10500,
+        "width": 500,
+        "radius": 0,
+        "id": 1,
+        "externalId": 10,
+        "name": "leftOutterBorder"
+      },
+      {
+        "rectangle": true,
+        "xStart": 7000,
+        "xEnd": 7500,
+        "yStart": 9000,
+        "yEnd": 12000,
+        "height": 3000,
+        "width": 500,
+        "radius": 0,
+        "id": 1,
+        "externalId": 11,
+        "name": "sealOffStage1"
+      },
+      {
+        "rectangle": true,
+        "xStart": 7000,
+        "xEnd": 7500,
+        "yStart": 2000,
+        "yEnd": 4000,
+        "height": 2000,
+        "width": 500,
+        "radius": 0,
+        "id": 1,
+        "externalId": 12,
+        "name": "sealOffStage2"
+      }
+    ]
+  },
+  "361": {
+    "name": "Sector Control",
+    "scale": 2,
+    "portals": [],
+    "lensflares": [],
+    "planets": [],
+    "nebulas": [],
+    "nonGroupEnemies": false,
+    "allowGroupFire": false,
+    "stations": [
+      {
+        "x": 38000,
+        "y": 13000,
+        "z": 1,
+        "rotation": 0,
+        "type": "Low",
+        "id": 2,
+        "hasEngine": false
+      },
+      {
+        "x": 4000,
+        "y": 13000,
+        "z": 1,
+        "rotation": 0,
+        "type": "Low",
+        "id": 1,
+        "hasEngine": false
+      }
+    ],
+    "clientShip": [
+      ["beacon1", 9500, 7000, 150, 150, "Beacon 1", 0, 0, 1000, 1000, "1000;1000", "1000;1000", false, 0, 1, false, 1, "[0,0,0,0,0,0,0]", "{\"1\":[],\"2\":[]}", "null", "", 0, 0],
+      ["beacon2", 9500, 18750, 150, 150, "Beacon 2", 0, 0, 1000, 1000, "1000;1000", "1000;1000", false, 0, 1, false, 1, "[0,0,0,0,0,0,0]", "{\"1\":[],\"2\":[]}", "null", "", 0, 0],
+      ["beacon3", 15000, 8000, 150, 150, "Beacon 3", 0, 0, 1000, 1000, "1000;1000", "1000;1000", false, 0, 1, false, 1, "[0,0,0,0,0,0,0]", "{\"1\":[],\"2\":[]}", "null", "", 0, 0],
+      ["beacon4", 15000, 17500, 150, 150, "Beacon 4", 0, 0, 1000, 1000, "1000;1000", "1000;1000", false, 0, 1, false, 1, "[0,0,0,0,0,0,0]", "{\"1\":[],\"2\":[]}", "null", "", 0, 0],
+      ["beacon5", 32500, 7000, 150, 150, "Beacon 5", 0, 0, 1000, 1000, "1000;1000", "1000;1000", false, 0, 1, false, 1, "[0,0,0,0,0,0,0]", "{\"1\":[],\"2\":[]}", "null", "", 0, 0],
+      ["beacon6", 32500, 18750, 150, 150, "Beacon 6", 0, 0, 1000, 1000, "1000;1000", "1000;1000", false, 0, 1, false, 1, "[0,0,0,0,0,0,0]", "{\"1\":[],\"2\":[]}", "null", "", 0, 0],
+      ["beacon7", 27000, 8000, 150, 150, "Beacon 7", 0, 0, 1000, 1000, "1000;1000", "1000;1000", false, 0, 1, false, 1, "[0,0,0,0,0,0,0]", "{\"1\":[],\"2\":[]}", "null", "", 0, 0],
+      ["beacon8", 27000, 17500, 150, 150, "Beacon 8", 0, 0, 1000, 1000, "1000;1000", "1000;1000", false, 0, 1, false, 1, "[0,0,0,0,0,0,0]", "{\"1\":[],\"2\":[]}", "null", "", 0, 0]
+    ],
+    "barriers": [
+      {
+        "rectangle": true,
+        "xStart": 16500,
+        "xEnd": 25500,
+        "yStart": 1000,
+        "yEnd": 2000,
+        "height": 1000,
+        "width": 9000,
+        "radius": 0,
+        "id": 0,
+        "name": "MapBorderTop"
+      },
+      {
+        "rectangle": true,
+        "xStart": 25000,
+        "xEnd": 25500,
+        "yStart": 2000,
+        "yEnd": 5000,
+        "height": 3000,
+        "width": 500,
+        "radius": 0,
+        "id": 0,
+        "name": "MapBorderTopRight"
+      },
+      {
+        "rectangle": true,
+        "xStart": 16500,
+        "xEnd": 17000,
+        "yStart": 2000,
+        "yEnd": 5000,
+        "height": 3000,
+        "width": 500,
+        "radius": 0,
+        "id": 0,
+        "name": "MapBorderTopLeft"
+      },
+      {
+        "rectangle": true,
+        "xStart": 25500,
+        "xEnd": 40000,
+        "yStart": 4500,
+        "yEnd": 5000,
+        "height": 500,
+        "width": 14500,
+        "radius": 0,
+        "id": 0,
+        "name": "MapBorderMainTopRight"
+      },
+      {
+        "rectangle": true,
+        "xStart": 2000,
+        "xEnd": 16500,
+        "yStart": 4500,
+        "yEnd": 5000,
+        "height": 500,
+        "width": 14500,
+        "radius": 0,
+        "id": 0,
+        "name": "MapBorderMainTopLeft"
+      },
+      {
+        "rectangle": true,
+        "xStart": 24500,
+        "xEnd": 40000,
+        "yStart": 21000,
+        "yEnd": 21500,
+        "height": 500,
+        "width": 15500,
+        "radius": 0,
+        "id": 0,
+        "name": "MapBorderMainBottomRight"
+      },
+      {
+        "rectangle": true,
+        "xStart": 2000,
+        "xEnd": 16500,
+        "yStart": 21000,
+        "yEnd": 21500,
+        "height": 500,
+        "width": 14500,
+        "radius": 0,
+        "id": 0,
+        "name": "MapBorderMainBottomLeft"
+      },
+      {
+        "rectangle": true,
+        "xStart": 40000,
+        "xEnd": 40500,
+        "yStart": 4500,
+        "yEnd": 21500,
+        "height": 17000,
+        "width": 500,
+        "radius": 0,
+        "id": 0,
+        "name": "MapBorderRightBig"
+      },
+      {
+        "rectangle": true,
+        "xStart": 1500,
+        "xEnd": 2000,
+        "yStart": 4500,
+        "yEnd": 21500,
+        "height": 17000,
+        "width": 500,
+        "radius": 0,
+        "id": 0,
+        "name": "MapBorderLeftBig"
+      },
+      {
+        "rectangle": true,
+        "xStart": 16500,
+        "xEnd": 25500,
+        "yStart": 24000,
+        "yEnd": 25000,
+        "height": 1000,
+        "width": 9000,
+        "radius": 0,
+        "id": 0,
+        "name": "MapBorderBottom"
+      },
+      {
+        "rectangle": true,
+        "xStart": 25000,
+        "xEnd": 25500,
+        "yStart": 21000,
+        "yEnd": 24000,
+        "height": 3000,
+        "width": 500,
+        "radius": 0,
+        "id": 0,
+        "name": "MapBorderBottomRight"
+      },
+      {
+        "rectangle": true,
+        "xStart": 16500,
+        "xEnd": 17000,
+        "yStart": 21000,
+        "yEnd": 24000,
+        "height": 3000,
+        "width": 500,
+        "radius": 0,
+        "id": 0,
+        "name": "MapBorderBottomLeft"
+      },
+      {
+        "rectangle": true,
+        "xStart": 31500,
+        "xEnd": 32000,
+        "yStart": 9000,
+        "yEnd": 17000,
+        "height": 8000,
+        "width": 500,
+        "radius": 0,
+        "id": 0,
+        "name": "CBSBarrierRight"
+      },
+      {
+        "rectangle": true,
+        "xStart": 28500,
+        "xEnd": 31500,
+        "yStart": 9000,
+        "yEnd": 9500,
+        "height": 500,
+        "width": 3000,
+        "radius": 0,
+        "id": 0,
+        "name": "CbsBarrierTop"
+      },
+      {
+        "rectangle": true,
+        "xStart": 28500,
+        "xEnd": 31500,
+        "yStart": 16500,
+        "yEnd": 17000,
+        "height": 500,
+        "width": 3000,
+        "radius": 0,
+        "id": 0,
+        "name": "CbsBarrierBottom"
+      },
+      {
+        "rectangle": true,
+        "xStart": 23500,
+        "xEnd": 25500,
+        "yStart": 10000,
+        "yEnd": 10500,
+        "height": 500,
+        "width": 2000,
+        "radius": 0,
+        "id": 0,
+        "name": "MidRightBarrierTop"
+      },
+      {
+        "rectangle": true,
+        "xStart": 23500,
+        "xEnd": 25500,
+        "yStart": 15500,
+        "yEnd": 16000,
+        "height": 500,
+        "width": 2000,
+        "radius": 0,
+        "id": 0,
+        "name": "MidRightBarrierBottom"
+      },
+      {
+        "rectangle": true,
+        "xStart": 23000,
+        "xEnd": 23500,
+        "yStart": 10000,
+        "yEnd": 12000,
+        "height": 2000,
+        "width": 500,
+        "radius": 0,
+        "id": 0,
+        "name": "MidRightBarrierSideTop"
+      },
+      {
+        "rectangle": true,
+        "xStart": 23000,
+        "xEnd": 23500,
+        "yStart": 14000,
+        "yEnd": 16000,
+        "height": 2000,
+        "width": 500,
+        "radius": 0,
+        "id": 0,
+        "name": "MidRightBarrierSideBottom"
+      },
+      {
+        "rectangle": true,
+        "xStart": 25500,
+        "xEnd": 29500,
+        "yStart": 11000,
+        "yEnd": 15000,
+        "height": 4000,
+        "width": 4000,
+        "radius": 0,
+        "noClip": true,
+        "id": 2,
+        "color": "rgba(255,99,71,0.3)",
+        "random": false,
+        "alpha": 0.5,
+        "isNebula": true,
+        "name": "nebula1Right"
+      },
+
+      {
+        "rectangle": true,
+        "xStart": 2000,
+        "xEnd": 6000,
+        "yStart": 9750,
+        "yEnd": 16250,
+        "height": 6500,
+        "width": 4000,
+        "radius": 0,
+        "noClip": true,
+        "id": 2,
+        "color": "rgba(255,99,71,0.3)",
+        "random": false,
+        "alpha": 0.5,
+        "isNebula": true,
+        "name": "nebulaBaseLeft"
+      },
+      {
+        "rectangle": true,
+        "xStart": 36000,
+        "xEnd": 40000,
+        "yStart": 9750,
+        "yEnd": 16250,
+        "height": 6500,
+        "width": 4000,
+        "radius": 0,
+        "noClip": true,
+        "id": 2,
+        "color": "rgba(255,99,71,0.3)",
+        "random": false,
+        "alpha": 0.5,
+        "isNebula": true,
+        "name": "nebulaBaseRight"
+      },
+      {
+        "rectangle": true,
+        "xStart": 10000,
+        "xEnd": 10500,
+        "yStart": 9000,
+        "yEnd": 17000,
+        "height": 8000,
+        "width": 500,
+        "radius": 0,
+        "id": 0,
+        "name": "CBSBarrierLeft"
+      },
+      {
+        "rectangle": true,
+        "xStart": 10500,
+        "xEnd": 13500,
+        "yStart": 9000,
+        "yEnd": 9500,
+        "height": 500,
+        "width": 3000,
+        "radius": 0,
+        "id": 0,
+        "name": "CbsBarrierTopLeft"
+      },
+      {
+        "rectangle": true,
+        "xStart": 10500,
+        "xEnd": 13500,
+        "yStart": 16500,
+        "yEnd": 17000,
+        "height": 500,
+        "width": 3000,
+        "radius": 0,
+        "id": 0,
+        "name": "CbsBarrierBottomLeft"
+      },
+      {
+        "rectangle": true,
+        "xStart": 16500,
+        "xEnd": 18500,
+        "yStart": 10000,
+        "yEnd": 10500,
+        "height": 500,
+        "width": 2000,
+        "radius": 0,
+        "id": 0,
+        "name": "MidLeftBarrierTop"
+      },
+      {
+        "rectangle": true,
+        "xStart": 16500,
+        "xEnd": 18500,
+        "yStart": 15500,
+        "yEnd": 16000,
+        "height": 500,
+        "width": 2000,
+        "radius": 0,
+        "id": 0,
+        "name": "MidLeftBarrierBottom"
+      },
+      {
+        "rectangle": true,
+        "xStart": 18500,
+        "xEnd": 19000,
+        "yStart": 10000,
+        "yEnd": 12000,
+        "height": 2000,
+        "width": 500,
+        "radius": 0,
+        "id": 0,
+        "name": "MidLeftBarrierSideTop"
+      },
+      {
+        "rectangle": true,
+        "xStart": 18500,
+        "xEnd": 19000,
+        "yStart": 14000,
+        "yEnd": 16000,
+        "height": 2000,
+        "width": 500,
+        "radius": 0,
+        "id": 0,
+        "name": "MidLeftBarrierSideBottom"
+      },
+      {
+        "rectangle": true,
+        "xStart": 12500,
+        "xEnd": 16500,
+        "yStart": 11000,
+        "yEnd": 15000,
+        "height": 4000,
+        "width": 4000,
+        "radius": 0,
+        "noClip": true,
+        "id": 2,
+        "color": "rgba(255,99,71,0.3)",
+        "random": false,
+        "alpha": 0.5,
+        "isNebula": true,
+        "name": "nebula1Right"
+      },
+
+      {
+        "rectangle": true,
+        "xStart": 17000,
+        "xEnd": 19000,
+        "yStart": 2000,
+        "yEnd": 7000,
+        "height": 5000,
+        "width": 2000,
+        "radius": 0,
+        "noClip": true,
+        "id": 2,
+        "color": "rgba(255,99,71,0.3)",
+        "random": false,
+        "alpha": 0.5,
+        "isNebula": true,
+        "name": "nebulaTopLeft"
+      },
+      {
+        "rectangle": true,
+        "xStart": 23000,
+        "xEnd": 25000,
+        "yStart": 2000,
+        "yEnd": 7000,
+        "height": 5000,
+        "width": 2000,
+        "radius": 0,
+        "noClip": true,
+        "id": 2,
+        "color": "rgba(255,99,71,0.3)",
+        "random": false,
+        "alpha": 0.5,
+        "isNebula": true,
+        "name": "nebulaTopRight"
+      },
+      {
+        "rectangle": true,
+        "xStart": 19000,
+        "xEnd": 19500,
+        "yStart": 6000,
+        "yEnd": 7000,
+        "height": 1000,
+        "width": 1000,
+        "radius": 0,
+        "noClip": true,
+        "id": 2,
+        "color": "rgba(255,99,71,0.3)",
+        "random": false,
+        "alpha": 0.5,
+        "isNebula": true,
+        "name": "nebulaTopLeftTop"
+      },
+      {
+        "rectangle": true,
+        "xStart": 22000,
+        "xEnd": 23000,
+        "yStart": 6000,
+        "yEnd": 7000,
+        "height": 1000,
+        "width": 1000,
+        "radius": 0,
+        "noClip": true,
+        "id": 2,
+        "color": "rgba(255,99,71,0.3)",
+        "random": false,
+        "alpha": 0.5,
+        "isNebula": true,
+        "name": "nebulaTopRightTop"
+      },
+
+      {
+        "rectangle": true,
+        "xStart": 17000,
+        "xEnd": 19000,
+        "yStart": 19000,
+        "yEnd": 24000,
+        "height": 5000,
+        "width": 2000,
+        "radius": 0,
+        "noClip": true,
+        "id": 2,
+        "color": "rgba(255,99,71,0.3)",
+        "random": false,
+        "alpha": 0.5,
+        "isNebula": true,
+        "name": "nebulaBottomLeft"
+      },
+      {
+        "rectangle": true,
+        "xStart": 19000,
+        "xEnd": 19500,
+        "yStart": 19000,
+        "yEnd": 20000,
+        "height": 1000,
+        "width": 1000,
+        "radius": 0,
+        "noClip": true,
+        "id": 2,
+        "color": "rgba(255,99,71,0.3)",
+        "random": false,
+        "alpha": 0.5,
+        "isNebula": true,
+        "name": "nebulaBottomLeftTop"
+      },
+      {
+        "rectangle": true,
+        "xStart": 23000,
+        "xEnd": 25000,
+        "yStart": 19000,
+        "yEnd": 24000,
+        "height": 5000,
+        "width": 2000,
+        "radius": 0,
+        "noClip": true,
+        "id": 2,
+        "color": "rgba(255,99,71,0.3)",
+        "random": false,
+        "alpha": 0.5,
+        "isNebula": true,
+        "name": "nebulaBottomRight"
+      },
+      {
+        "rectangle": true,
+        "xStart": 22000,
+        "xEnd": 23000,
+        "yStart": 19000,
+        "yEnd": 20000,
+        "height": 1000,
+        "width": 1000,
+        "radius": 0,
+        "noClip": true,
+        "id": 2,
+        "color": "rgba(255,99,71,0.3)",
+        "random": false,
+        "alpha": 0.5,
+        "isNebula": true,
+        "name": "nebulaBottomRightTop"
+      }
+    ]
+  },
+  "362": {
+    "name": "GG Y1",
+    "useMap": 123,
+    "useMapBg": false,
+    "nebulas": [],
+    "stations": []
+  },
+  "364": {
+    "scale": 1,
+    "offset": {
+      "x": -1050,
+      "y": -650
+    },
+    "name": "Egg Hunt",
+    "portals": [],
+    "lensflares": [],
+    "nonGroupEnemies": true,
+    "allowGroupFire": false,
+    "planets": [],
+    "nebulas": [],
+    "stations": [],
+    "barriers": [
+      {
+        "rectangle": true,
+        "xStart": 16000,
+        "xEnd": 18000,
+        "yStart": 3500,
+        "yEnd": 23500,
+        "height": 20000,
+        "width": 2000,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 10000,
+        "xEnd": 16000,
+        "yStart": 7250,
+        "yEnd": 9250,
+        "height": 2000,
+        "width": 6000,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 4000,
+        "xEnd": 6000,
+        "yStart": 9250,
+        "yEnd": 23250,
+        "height": 14000,
+        "width": 2000,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": -5000,
+        "xEnd": 5000,
+        "yStart": 4500,
+        "yEnd": 5500,
+        "height": 1000,
+        "width": 10000,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 4000,
+        "xEnd": 5000,
+        "yStart": 2000,
+        "yEnd": 4500,
+        "height": 2500,
+        "width": 1000,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "rectangle": true,
+        "xStart": 7000,
+        "xEnd": 12000,
+        "yStart": -2000,
+        "yEnd": 1000,
+        "height": 3000,
+        "width": 5000,
+        "radius": 0,
+        "id": 0
+      },
+      {
+        "name": "egg1",
+        "rectangle": true,
+        "xStart": 19000,
+        "xEnd": 20000,
+        "yStart": 500,
+        "yEnd": 1500,
+        "height": 1000,
+        "width": 1000,
+        "radius": 0,
+        "externalId": 1,
+        "id": 0
+      },
+      {
+        "name": "egg2",
+        "rectangle": true,
+        "xStart": 1000,
+        "xEnd": 2000,
+        "yStart": 2500,
+        "yEnd": 3500,
+        "height": 1000,
+        "width": 1000,
+        "radius": 0,
+        "externalId": 2,
+        "id": 0
+      },
+      {
+        "name": "egg3",
+        "rectangle": true,
+        "xStart": 1000,
+        "xEnd": 2000,
+        "yStart": 11500,
+        "yEnd": 12500,
+        "height": 1000,
+        "width": 1000,
+        "radius": 0,
+        "externalId": 3,
+        "id": 0
+      },
+      {
+        "name": "egg4",
+        "rectangle": true,
+        "xStart": 13500,
+        "xEnd": 14500,
+        "yStart": 11000,
+        "yEnd": 12000,
+        "height": 1000,
+        "width": 1000,
+        "radius": 0,
+        "externalId": 4,
+        "id": 0
+      }
+    ]
+  }
+}
