@@ -441,7 +441,7 @@
       "invincibility": 1500
     },
     "EFFECTS": {
-      "slowEffect": 750,
+      "slowEffect": 7502,
       "levelUp": 2000
     },
     "MINES": {
