@@ -765,7 +765,7 @@
   "effects": {
       "emp": ["effects/emp", 9, 0],
       "empFlash": ["effects/emp/flash", 0, 0, true],
-      "empRing": ["effects/emp/ring", 0, 0, true],
+      "empRing": ["effects/emp/ring", 200, 0, true],
       "levelUp": ["effects/levelUp", 49, 1],
       "slowEffectActive": ["effects/slowEffectActive", 15, 1, true],
       "slowEffectIdle": ["effects/slowEffectIdle", 15, 1, true]
@@ -839,7 +839,7 @@
       "9": ["npcLasers/laser9", 0, 0],
       "11": ["npcLasers/cake", 0, 0]
   },
-  "missile": {
+  "missileclassic": {
       "1": ["rockets/1", 0, 0],
       "2": ["rockets/2", 0, 0],
       "3": ["rockets/3", 0, 0],
@@ -849,6 +849,17 @@
       "7": ["rockets/7", 0, 0],
       "8": ["rockets/8", 0, 0],
       "9": ["rockets/9", 0, 0]
+  },
+  "missileatomic": {
+    "1": ["rockets/atomic1", 0, 0],
+    "2": ["rockets/atomic2", 0, 0],
+    "3": ["rockets/atomic3", 0, 0],
+    "4": ["rockets/atomic4", 0, 0],
+    "5": ["rockets/5", 0, 0],
+    "6": ["rockets/6", 0, 0],
+    "7": ["rockets/7", 0, 0],
+    "8": ["rockets/8", 0, 0],
+    "9": ["rockets/9", 0, 0]
   },
   "rlmissile": {
       "1": ["rlmissiles/1", 0, 0],
