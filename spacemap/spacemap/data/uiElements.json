@@ -288,13 +288,9 @@
           },
           {
             "name": "engine",
-            "isCheck": false,
             "hint": "eng_sett_hint",
-            "options": [
-              {"id": 1, "label": "low", "val": "low"},
-              {"id": 2, "label": "average", "val": "average"},
-              {"id": 3, "label": "high", "val": "high"}
-            ]
+            "isCheck": false,
+            "options": [{"id": 1, "label": "low", "val": "low"}, {"id": 2, "label": "average", "val": "average"}, {"id": 3, "label": "high", "val": "high"}]
           },
           {
             "name": "ships",
@@ -335,7 +331,8 @@
             "hint": "Set rockets to default or atomic style",
             "options": [
               { "id": 1, "label": "classic", "val": "classic" },
-              { "id": 2, "label": "Atomic", "val": "atomic" }
+              { "id": 2, "label": "Atomic", "val": "atomic" },
+              { "id": 2, "label": "Ins", "val": "ins" }
             ]
           },
           {
@@ -407,71 +404,7 @@
               { "id": 2, "label": "medium", "val": 1000 },
               { "id": 3, "label": "long", "val": 1500 }
             ]
-          },
-            {
-            "name": "qc_msg_slot_1",
-            "isCheck": false,
-            "options": [
-                {"id": 1, "label": "qc_msg_1", "val": 1}, 
-                {"id": 2, "label": "qc_msg_2", "val": 2}, 
-                {"id": 3, "label": "qc_msg_3", "val": 3}, 
-                {"id": 4, "label": "qc_msg_4", "val": 4}, 
-                {"id": 5, "label": "qc_msg_5", "val": 5}, 
-                {"id": 6, "label": "qc_msg_6", "val": 6}, 
-                {"id": 7, "label": "qc_msg_7", "val": 7}, 
-                {"id": 8, "label": "qc_msg_8", "val": 8},
-                {"id": 9, "label": "qc_msg_9", "val": 9},
-                {"id": 10, "label": "qc_msg_10", "val": 10}
-            ]
-        },
-        {
-            "name": "qc_msg_slot_2",
-            "isCheck": false,
-            "options": [
-                {"id": 1, "label": "qc_msg_1", "val": 1}, 
-                {"id": 2, "label": "qc_msg_2", "val": 2}, 
-                {"id": 3, "label": "qc_msg_3", "val": 3}, 
-                {"id": 4, "label": "qc_msg_4", "val": 4}, 
-                {"id": 5, "label": "qc_msg_5", "val": 5}, 
-                {"id": 6, "label": "qc_msg_6", "val": 6}, 
-                {"id": 7, "label": "qc_msg_7", "val": 7}, 
-                {"id": 8, "label": "qc_msg_8", "val": 8},
-                {"id": 9, "label": "qc_msg_9", "val": 9},
-                {"id": 10, "label": "qc_msg_10", "val": 10}
-            ]
-        },
-        {
-            "name": "qc_msg_slot_3",
-            "isCheck": false,
-            "options": [
-                {"id": 1, "label": "qc_msg_1", "val": 1}, 
-                {"id": 2, "label": "qc_msg_2", "val": 2}, 
-                {"id": 3, "label": "qc_msg_3", "val": 3}, 
-                {"id": 4, "label": "qc_msg_4", "val": 4}, 
-                {"id": 5, "label": "qc_msg_5", "val": 5}, 
-                {"id": 6, "label": "qc_msg_6", "val": 6}, 
-                {"id": 7, "label": "qc_msg_7", "val": 7}, 
-                {"id": 8, "label": "qc_msg_8", "val": 8},
-                {"id": 9, "label": "qc_msg_9", "val": 9},
-                {"id": 10, "label": "qc_msg_10", "val": 10}
-            ]
-        },
-        {
-            "name": "qc_msg_slot_4",
-            "isCheck": false,
-            "options": [
-                {"id": 1, "label": "qc_msg_1", "val": 1}, 
-                {"id": 2, "label": "qc_msg_2", "val": 2}, 
-                {"id": 3, "label": "qc_msg_3", "val": 3}, 
-                {"id": 4, "label": "qc_msg_4", "val": 4}, 
-                {"id": 5, "label": "qc_msg_5", "val": 5}, 
-                {"id": 6, "label": "qc_msg_6", "val": 6}, 
-                {"id": 7, "label": "qc_msg_7", "val": 7}, 
-                {"id": 8, "label": "qc_msg_8", "val": 8},
-                {"id": 9, "label": "qc_msg_9", "val": 9},
-                {"id": 10, "label": "qc_msg_10", "val": 10}
-            ]
-        }
+          }
         ],
         [
           {
@@ -1043,7 +976,73 @@
           {
             "name": "activate_ab_item",
             "isGamepadInput": true
+          },
+          [
+          {
+            "name": "qc_msg_slot_1",
+            "isCheck": false,
+            "options": [
+              { "id": 1, "label": "qc_msg_1", "val": 1 },
+              { "id": 2, "label": "qc_msg_2", "val": 2 },
+              { "id": 3, "label": "qc_msg_3", "val": 3 },
+              { "id": 4, "label": "qc_msg_4", "val": 4 },
+              { "id": 5, "label": "qc_msg_5", "val": 5 },
+              { "id": 6, "label": "qc_msg_6", "val": 6 },
+              { "id": 7, "label": "qc_msg_7", "val": 7 },
+              { "id": 8, "label": "qc_msg_8", "val": 8 },
+              { "id": 9, "label": "qc_msg_9", "val": 9 },
+              { "id": 10, "label": "qc_msg_10", "val": 10 }
+            ]
+          },
+          {
+            "name": "qc_msg_slot_2",
+            "isCheck": false,
+            "options": [
+              { "id": 1, "label": "qc_msg_1", "val": 1 },
+              { "id": 2, "label": "qc_msg_2", "val": 2 },
+              { "id": 3, "label": "qc_msg_3", "val": 3 },
+              { "id": 4, "label": "qc_msg_4", "val": 4 },
+              { "id": 5, "label": "qc_msg_5", "val": 5 },
+              { "id": 6, "label": "qc_msg_6", "val": 6 },
+              { "id": 7, "label": "qc_msg_7", "val": 7 },
+              { "id": 8, "label": "qc_msg_8", "val": 8 },
+              { "id": 9, "label": "qc_msg_9", "val": 9 },
+              { "id": 10, "label": "qc_msg_10", "val": 10 }
+            ]
+          },
+          {
+            "name": "qc_msg_slot_3",
+            "isCheck": false,
+            "options": [
+              { "id": 1, "label": "qc_msg_1", "val": 1 },
+              { "id": 2, "label": "qc_msg_2", "val": 2 },
+              { "id": 3, "label": "qc_msg_3", "val": 3 },
+              { "id": 4, "label": "qc_msg_4", "val": 4 },
+              { "id": 5, "label": "qc_msg_5", "val": 5 },
+              { "id": 6, "label": "qc_msg_6", "val": 6 },
+              { "id": 7, "label": "qc_msg_7", "val": 7 },
+              { "id": 8, "label": "qc_msg_8", "val": 8 },
+              { "id": 9, "label": "qc_msg_9", "val": 9 },
+              { "id": 10, "label": "qc_msg_10", "val": 10 }
+            ]
+          },
+          {
+            "name": "qc_msg_slot_4",
+            "isCheck": false,
+            "options": [
+              { "id": 1, "label": "qc_msg_1", "val": 1 },
+              { "id": 2, "label": "qc_msg_2", "val": 2 },
+              { "id": 3, "label": "qc_msg_3", "val": 3 },
+              { "id": 4, "label": "qc_msg_4", "val": 4 },
+              { "id": 5, "label": "qc_msg_5", "val": 5 },
+              { "id": 6, "label": "qc_msg_6", "val": 6 },
+              { "id": 7, "label": "qc_msg_7", "val": 7 },
+              { "id": 8, "label": "qc_msg_8", "val": 8 },
+              { "id": 9, "label": "qc_msg_9", "val": 9 },
+              { "id": 10, "label": "qc_msg_10", "val": 10 }
+            ]
           }
+          ]
         ]
       ]
     },
@@ -1400,25 +1399,6 @@
       },
       "content": {}
     },
-      {
-        "id": 34,
-        "position": 34,
-        "name": "piratemapmanager",
-        "icon": "piratehunt",
-        "label": "piratemapmanager_label",
-        "isOpen": false,
-        "hasComponent": true,
-        "size": {
-            "minW": 700,
-            "minH": 450
-        },
-        "controller": {
-            "x": 0,
-            "y": 156,
-            "useDefPosition": true
-        },
-        "content": {}
-      },
     {
       "id": 34,
       "position": 34,
@@ -2672,6 +2652,25 @@
         "useDefPosition": true
       },
       "content": {}
-    }
+    },
+      {
+      "id": 34,
+      "position": 34,
+      "name": "piratemapmanager",
+      "icon": "piratehunt",
+      "label": "piratemapmanager_label",
+      "isOpen": false,
+      "hasComponent": true,
+      "size": {
+          "minW": 700,
+          "minH": 450
+      },
+      "controller": {
+          "x": 0,
+          "y": 156,
+          "useDefPosition": true
+      },
+      "content": {}
+  }
   ]
 }
