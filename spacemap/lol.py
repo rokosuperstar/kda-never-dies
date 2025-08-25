@@ -6,36 +6,53 @@ import urllib.error
 from urllib.parse import urlsplit, urlunsplit
 
 SOURCE_HOST = "ciganini.misolini.kda-perfect.space"
-TARGET_HOST = "eu.ariaom.com"
+TARGET_HOST = "no1.ariaom.com"
 
-URL_RE = re.compile(r"https?://[^\s'\"<>]+?\.(?:png|jpe?g|webp)", re.IGNORECASE)
-UA = "Mozilla/5.0 (URL-grabber/1.0)"
+# zoberie ľubovoľnú príponu (.xyz), query/fragment už ďalej neriešime (odstrihneme nižšie)
+URL_RE = re.compile(
+    r"https?://[^\s'\"<>]+?\.[A-Za-z0-9]{1,10}(?=(?:[?#]|[\s'\"<>]|$))",
+    re.IGNORECASE
+)
+UA = "Mozilla/5.0 (URL-grabber/1.1)"
 
-# nájde všetky url
 def extract_urls(text: str):
+    # nájdi a odstrihni query/fragment
     raw = URL_RE.findall(text)
-    return list(dict.fromkeys(raw))  # dedupe
+    clean = []
+    seen = set()
+    for u in raw:
+        u2 = u.split('#', 1)[0].split('?', 1)[0]
+        if u2 not in seen:
+            seen.add(u2)
+            clean.append(u2)
+    return clean
 
-# prepíše host
 def rewrite_host(url: str) -> str:
     parts = urlsplit(url)
-    if parts.netloc.lower() == SOURCE_HOST.lower():
+    host = parts.netloc.lower()
+    if host in (SOURCE_HOST.lower(), "localhost:3000"):
         parts = parts._replace(netloc=TARGET_HOST)
     return urlunsplit(parts)
 
-# pre URL vráti lokálnu cestu podľa path
 def url_to_local_path(url: str) -> pathlib.Path:
     parts = urlsplit(url)
-    clean_path = parts.path.lstrip("/")  # odseknúť leading "/"
+    clean_path = parts.path.lstrip("/")  # nech nie je absolútna
+    # normalizácia // -> /
+    clean_path = os.path.normpath(clean_path)
+    if clean_path in (".", ""):
+        clean_path = "index"
     return pathlib.Path(clean_path)
 
 def ensure_parent_dir(p: pathlib.Path):
     p.parent.mkdir(parents=True, exist_ok=True)
 
 def download(url: str, dest: pathlib.Path):
+    if dest.exists():
+        print(f"[SKIP] existuje -> {dest}")
+        return
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     try:
-        with urllib.request.urlopen(req, timeout=20) as resp:
+        with urllib.request.urlopen(req, timeout=25) as resp:
             if resp.status != 200:
                 raise urllib.error.HTTPError(url, resp.status, f"HTTP {resp.status}", resp.headers, None)
             ensure_parent_dir(dest)
@@ -46,7 +63,6 @@ def download(url: str, dest: pathlib.Path):
         print(f"[FAIL] {url} ({e})")
 
 def main():
-    # cesta k lol.txt v tom istom priečinku
     base_dir = pathlib.Path(__file__).parent
     txt_file = base_dir / "lol.txt"
 
