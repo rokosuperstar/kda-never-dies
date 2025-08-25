@@ -3308,7 +3308,7 @@
             "path": "ships/goldPET",
             "end": 64,
             "start": 0,
-            "isWebp": true,
+            "isWebp": false,
             "preload": false,
             "unload": true,
             "isSingleFile": false,
