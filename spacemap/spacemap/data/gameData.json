@@ -2495,10 +2495,10 @@
         "silver": "#d39fff",
         "bronze": "#CD7F32",
         "red": "#FF0000",
-        "blue": "#3b5998",
+        "blue": "#FF0000",
         "purple": "#328fcc",
         "darkgreen": "#fefe00",
-        "gold": "#fefe00"
+        "gold": "#328fcc"
     },
     "Portals": {
         "0": {
