@@ -3306,7 +3306,7 @@
         },
         "158": {
             "path": "ships/goldPET",
-            "end": 64,
+            "end": 32,
             "start": 0,
             "isWebp": false,
             "preload": false,
