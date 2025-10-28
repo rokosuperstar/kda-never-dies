@@ -1,0 +1,76 @@
+{
+  "frames": {
+    "0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 52
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 3,
+        "w": 37,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 58
+      }
+    },
+    "1": {
+      "frame": {
+        "x": 38,
+        "y": 0,
+        "w": 37,
+        "h": 52
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 3,
+        "w": 37,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 58
+      }
+    },
+    "2": {
+      "frame": {
+        "x": 0,
+        "y": 53,
+        "w": 37,
+        "h": 52
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 3,
+        "w": 52,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 58
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "slowmine.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 75,
+      "h": 90
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

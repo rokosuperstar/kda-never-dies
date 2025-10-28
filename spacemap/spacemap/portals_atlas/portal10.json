@@ -1,0 +1,216 @@
+{
+  "frames": {
+    "0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "1": {
+      "frame": {
+        "x": 374,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "2": {
+      "frame": {
+        "x": 0,
+        "y": 401,
+        "w": 373,
+        "h": 400
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 400,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "3": {
+      "frame": {
+        "x": 401,
+        "y": 401,
+        "w": 373,
+        "h": 400
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 400,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "4": {
+      "frame": {
+        "x": 748,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "5": {
+      "frame": {
+        "x": 0,
+        "y": 775,
+        "w": 373,
+        "h": 400
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 400,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "6": {
+      "frame": {
+        "x": 401,
+        "y": 775,
+        "w": 373,
+        "h": 400
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 400,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "7": {
+      "frame": {
+        "x": 1122,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 373,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "8": {
+      "frame": {
+        "x": 802,
+        "y": 401,
+        "w": 373,
+        "h": 400
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 400,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    },
+    "9": {
+      "frame": {
+        "x": 802,
+        "y": 775,
+        "w": 373,
+        "h": 400
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 0,
+        "w": 400,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 400,
+        "h": 400
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "portal10.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1495,
+      "h": 1148
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "frames": {
+    "0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 103
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 73,
+        "y": 23,
+        "w": 40,
+        "h": 103
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 189
+      }
+    },
+    "1": {
+      "frame": {
+        "x": 41,
+        "y": 0,
+        "w": 40,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 73,
+        "y": 17,
+        "w": 40,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 189
+      }
+    },
+    "2": {
+      "frame": {
+        "x": 82,
+        "y": 0,
+        "w": 40,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 73,
+        "y": 4,
+        "w": 40,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 189
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "turbo.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 122,
+      "h": 122
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

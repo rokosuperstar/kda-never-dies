@@ -1,0 +1,96 @@
+{
+  "frames": {
+    "0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 51
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 2,
+        "w": 32,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 53,
+        "h": 53
+      }
+    },
+    "1": {
+      "frame": {
+        "x": 33,
+        "y": 0,
+        "w": 32,
+        "h": 46
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 7,
+        "w": 32,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 53,
+        "h": 53
+      }
+    },
+    "2": {
+      "frame": {
+        "x": 0,
+        "y": 52,
+        "w": 32,
+        "h": 44
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 9,
+        "w": 44,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 53,
+        "h": 53
+      }
+    },
+    "3": {
+      "frame": {
+        "x": 66,
+        "y": 0,
+        "w": 21,
+        "h": 24
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 27,
+        "w": 21,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 53,
+        "h": 53
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "hitech.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 87,
+      "h": 84
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}
