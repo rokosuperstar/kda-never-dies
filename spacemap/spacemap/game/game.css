@@ -51,21 +51,21 @@
   }
   .gears::after {
     content: "";
-    background-image: url("https://no1.ariaom.com/spacemap/image/assembly/gears.svg");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/image/assembly/gears.svg");
     position: relative;
     background-position: center;
     background-repeat: no-repeat;
   }
   .locked::after {
     content: "";
-    background-image: url("https://no1.ariaom.com/spacemap/image/svg/locked.svg");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/image/svg/locked.svg");
     position: absolute;
     background-position: center;
     background-repeat: no-repeat;
   }
   .repair-icon::after {
     content: "";
-    background-image: url("https://no1.ariaom.com/spacemap/image/svg/repair.svg");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/image/svg/repair.svg");
     position: absolute;
     background-position: center;
     background-repeat: no-repeat;
@@ -85,17 +85,17 @@
   }
 @font-face {
     font-family: "CorpFontRegular";
-    src: url("https://no1.ariaom.com/spacemap/fonts/EurostileRegular.ttf") format('truetype');
+    src: url("https://kristof-danko-alfons.shop/spacemap/fonts/EurostileRegular.ttf") format('truetype');
 }
 
 @font-face {
     font-family: "CorpFontHeavy";
-    src: url("https://no1.ariaom.com/spacemap/fonts/EurostileRegular.ttf") format('truetype');
+    src: url("https://kristof-danko-alfons.shop/spacemap/fonts/EurostileRegular.ttf") format('truetype');
 }
 
 @font-face {
     font-family: "CorpFontUsername";
-    src: url("https://no1.ariaom.com/spacemap/fonts/EurostileHeaFl.ttf") format('truetype');
+    src: url("https://kristof-danko-alfons.shop/spacemap/fonts/EurostileHeaFl.ttf") format('truetype');
 }
   
   .circle-bg { 
@@ -429,7 +429,7 @@
     border-color: white !important;
   }
   .calendar .calendar-item[data-claimed="true"]::after {
-    background-image: url("https://no1.ariaom.com/spacemap/image/svg/checkmark.svg");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/image/svg/checkmark.svg");
     background-repeat: no-repeat;
     background-position: center;
     content: "";
@@ -587,7 +587,7 @@
     background-color: rgb(0,0,0,0.4);
     position: absolute;
     z-index: var(--zindex-overlay);
-    background-image: url("https://no1.ariaom.com/spacemap/image/shopImg/loading.gif");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/image/shopImg/loading.gif");
     background-position: center;
     background-repeat: no-repeat;
   } 
@@ -764,7 +764,7 @@
     justify-content: center;
     color: rgb(191 122 15);
     text-shadow: 0px 0px 5px #f78b39;
-    background-image: url("https://no1.ariaom.com/spacemap/image/shopImg/tm-icon.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/image/shopImg/tm-icon.png");
     background-size: contain;
   }
    .shop-nav-item[is-section-discount="true"]::before {
@@ -795,7 +795,7 @@
   /*elite icon in shop*/
   .shop-aval-item[is-elite="true"] .elite-icon {
     display: block !important;
-    content: url("https://no1.ariaom.com/spacemap/image/shopImg/elite-icon.png");
+    content: url("https://kristof-danko-alfons.shop/spacemap/image/shopImg/elite-icon.png");
     position: absolute !important;
     top: 5px !important;
     left: 5px !important;
@@ -813,7 +813,7 @@
     height: 40px !important;
     display: block;
     justify-content: center;
-    background-image: url("https://no1.ariaom.com/spacemap/image/shopImg/elite-icon.png") !important;
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/image/shopImg/elite-icon.png") !important;
 }
   .shop-items .shop-aval-item[is-sale="true"] {
     box-shadow: inset 2px 2px 34px -5px rgb(220 71 20);
@@ -833,7 +833,7 @@
   
   .shop .shop-sel-item[is-tm="true"] .item-detail-header .item-name::before {
     content: "";
-    background-image: url("https://no1.ariaom.com/spacemap/image/shopImg/tm-icon.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/image/shopImg/tm-icon.png");
     background-position: center;
     background-repeat: no-repeat;
     width: 18px;
@@ -1949,8 +1949,8 @@
   .slot_actionbar {
     width: 38px;
     height: 38px;
-    background-image: url("https://no1.ariaom.com/spacemap/ui/actionBar/slotBG.png"),
-      url("https://no1.ariaom.com/spacemap/ui/actionBar/slotBorder.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/slotBG.png"),
+      url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/slotBorder.png");
     margin: 0 2px;
     display: flex;
     align-items: center;
@@ -2052,10 +2052,10 @@
     height: 21px;
   }
   .btn_actionbar_inactive {
-    background-image: url("https://no1.ariaom.com/spacemap/ui/actionBar/buttonInactive.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/buttonInactive.png");
   }
   .btn_actionbar_active {
-    background-image: url("https://no1.ariaom.com/spacemap/ui/actionBar/buttonActive.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/buttonActive.png");
   }
   .action_bar_submenu_list {
     bottom: calc(10vh + var(--ab-gap));
@@ -2080,7 +2080,7 @@
     bottom: calc(10vh + 40px + var(--ab-gap));
   }
   .sub_menu_btn {
-    background-image: url("https://no1.ariaom.com/spacemap/ui/actionBar/icons/subMenu/btnStandard.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/icons/subMenu/btnStandard.png");
     width: 38px;
     height: 38px;
     display: flex;
@@ -2093,7 +2093,7 @@
     width: 100%;
   }
   .sub_menu_btn.selected {
-    background-image: url("https://no1.ariaom.com/spacemap/ui/actionBar/icons/subMenu/btnActive.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/icons/subMenu/btnActive.png");
   }
   body[data-ab-img-bg="false"] .sub_menu_btn {
     background-image: unset !important;
@@ -2186,7 +2186,7 @@
   }
   
   .item_submenu {
-    background-image: url("https://no1.ariaom.com/spacemap/ui/actionBar/sub_menu_item_bg.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/sub_menu_item_bg.png");
     width: 38px;
     height: 38px;
     cursor: pointer;
@@ -2302,1900 +2302,1900 @@
   }
 
 #minimap[style*="background1.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background1.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background1.jpg) !important;
 }
 
 #minimap[style*="background2.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background2.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background2.jpg) !important;
 }
 
 #minimap[style*="background3.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background3.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background3.jpg) !important;
 }
 
 #minimap[style*="background4.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background4.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background4.jpg) !important;
 }
 
 #minimap[style*="background5.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background5.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background5.jpg) !important;
 }
 
 #minimap[style*="background6.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background6.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background6.jpg) !important;
 }
 
 #minimap[style*="background7.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background7.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background7.jpg) !important;
 }
 
 #minimap[style*="background8.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background8.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background8.jpg) !important;
 }
 
 #minimap[style*="background9.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background9.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background9.jpg) !important;
 }
 
 #minimap[style*="background10.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background10.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background10.jpg) !important;
 }
 
 #minimap[style*="background11.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background11.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background11.jpg) !important;
 }
 
 #minimap[style*="background12.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background12.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background12.jpg) !important;
 }
 
 #minimap[style*="background13.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background13.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background13.jpg) !important;
 }
 
 #minimap[style*="background14.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background14.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background14.jpg) !important;
 }
 
 #minimap[style*="background15.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background15.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background15.jpg) !important;
 }
 
 #minimap[style*="background16.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background16.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background16.jpg) !important;
 }
 
 #minimap[style*="background17.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background17.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background17.jpg) !important;
 }
 
 #minimap[style*="background18.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background18.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background18.jpg) !important;
 }
 
 #minimap[style*="background19.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background19.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background19.jpg) !important;
 }
 
 #minimap[style*="background20.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background20.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background20.jpg) !important;
 }
 
 #minimap[style*="background21.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background21.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background21.jpg) !important;
 }
 
 #minimap[style*="background22.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background22.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background22.jpg) !important;
 }
 
 #minimap[style*="background23.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background23.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background23.jpg) !important;
 }
 
 #minimap[style*="background24.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background24.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background24.jpg) !important;
 }
 
 #minimap[style*="background25.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background25.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background25.jpg) !important;
 }
 
 #minimap[style*="background26.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background26.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background26.jpg) !important;
 }
 
 #minimap[style*="background27.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background27.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background27.jpg) !important;
 }
 
 #minimap[style*="background28.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background28.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background28.jpg) !important;
 }
 
 #minimap[style*="background29.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background29.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background29.jpg) !important;
 }
 
 #minimap[style*="background30.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background30.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background30.jpg) !important;
 }
 
 #minimap[style*="background31.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background31.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background31.jpg) !important;
 }
 
 #minimap[style*="background32.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background32.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background32.jpg) !important;
 }
 
 #minimap[style*="background33.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background358.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background358.jpg) !important;
 }
 
 #minimap[style*="background34.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background34.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background34.jpg) !important;
 }
 
 #minimap[style*="background35.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background35.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background35.jpg) !important;
 }
 
 #minimap[style*="background36.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background36.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background36.jpg) !important;
 }
 
 #minimap[style*="background37.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background37.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background37.jpg) !important;
 }
 
 #minimap[style*="background38.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background38.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background38.jpg) !important;
 }
 
 #minimap[style*="background39.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background39.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background39.jpg) !important;
 }
 
 #minimap[style*="background40.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background40.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background40.jpg) !important;
 }
 
 #minimap[style*="background41.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background41.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background41.jpg) !important;
 }
 
 #minimap[style*="background42.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background42.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background42.jpg) !important;
 }
 
 #minimap[style*="background43.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background43.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background43.jpg) !important;
 }
 
 #minimap[style*="background44.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background44.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background44.jpg) !important;
 }
 
 #minimap[style*="background45.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background45.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background45.jpg) !important;
 }
 
 #minimap[style*="background46.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background46.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background46.jpg) !important;
 }
 
 #minimap[style*="background47.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background47.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background47.jpg) !important;
 }
 
 #minimap[style*="background48.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background48.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background48.jpg) !important;
 }
 
 #minimap[style*="background49.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background49.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background49.jpg) !important;
 }
 
 #minimap[style*="background50.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background50.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background50.jpg) !important;
 }
 
 #minimap[style*="background51.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background51.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background51.jpg) !important;
 }
 
 #minimap[style*="background52.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background52.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background52.jpg) !important;
 }
 
 #minimap[style*="background53.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background53.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background53.jpg) !important;
 }
 
 #minimap[style*="background54.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background54.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background54.jpg) !important;
 }
 
 #minimap[style*="background55.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background55.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background55.jpg) !important;
 }
 
 #minimap[style*="background56.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background56.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background56.jpg) !important;
 }
 
 #minimap[style*="background57.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background57.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background57.jpg) !important;
 }
 
 #minimap[style*="background58.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background58.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background58.jpg) !important;
 }
 
 #minimap[style*="background59.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background59.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background59.jpg) !important;
 }
 
 #minimap[style*="background60.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background60.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background60.jpg) !important;
 }
 
 #minimap[style*="background61.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background61.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background61.jpg) !important;
 }
 
 #minimap[style*="background62.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background62.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background62.jpg) !important;
 }
 
 #minimap[style*="background63.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background63.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background63.jpg) !important;
 }
 
 #minimap[style*="background64.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background64.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background64.jpg) !important;
 }
 
 #minimap[style*="background65.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background65.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background65.jpg) !important;
 }
 
 #minimap[style*="background66.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background66.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background66.jpg) !important;
 }
 
 #minimap[style*="background67.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background67.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background67.jpg) !important;
 }
 
 #minimap[style*="background68.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background68.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background68.jpg) !important;
 }
 
 #minimap[style*="background69.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background69.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background69.jpg) !important;
 }
 
 #minimap[style*="background70.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background70.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background70.jpg) !important;
 }
 
 #minimap[style*="background71.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background71.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background71.jpg) !important;
 }
 
 #minimap[style*="background72.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background72.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background72.jpg) !important;
 }
 
 #minimap[style*="background73.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background73.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background73.jpg) !important;
 }
 
 #minimap[style*="background74.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background74.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background74.jpg) !important;
 }
 
 #minimap[style*="background75.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background75.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background75.jpg) !important;
 }
 
 #minimap[style*="background76.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background76.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background76.jpg) !important;
 }
 
 #minimap[style*="background77.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background77.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background77.jpg) !important;
 }
 
 #minimap[style*="background78.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background78.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background78.jpg) !important;
 }
 
 #minimap[style*="background79.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background79.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background79.jpg) !important;
 }
 
 #minimap[style*="background80.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background80.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background80.jpg) !important;
 }
 
 #minimap[style*="background81.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background81.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background81.jpg) !important;
 }
 
 #minimap[style*="background82.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background82.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background82.jpg) !important;
 }
 
 #minimap[style*="background83.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background83.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background83.jpg) !important;
 }
 
 #minimap[style*="background84.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background84.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background84.jpg) !important;
 }
 
 #minimap[style*="background85.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background85.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background85.jpg) !important;
 }
 
 #minimap[style*="background86.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background86.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background86.jpg) !important;
 }
 
 #minimap[style*="background87.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background87.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background87.jpg) !important;
 }
 
 #minimap[style*="background88.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background88.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background88.jpg) !important;
 }
 
 #minimap[style*="background89.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background89.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background89.jpg) !important;
 }
 
 #minimap[style*="background90.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background90.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background90.jpg) !important;
 }
 
 #minimap[style*="background91.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background91.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background91.jpg) !important;
 }
 
 #minimap[style*="background92.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background92.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background92.jpg) !important;
 }
 
 #minimap[style*="background93.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background93.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background93.jpg) !important;
 }
 
 #minimap[style*="background94.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background94.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background94.jpg) !important;
 }
 
 #minimap[style*="background95.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background95.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background95.jpg) !important;
 }
 
 #minimap[style*="background96.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background96.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background96.jpg) !important;
 }
 
 #minimap[style*="background97.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background97.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background97.jpg) !important;
 }
 
 #minimap[style*="background98.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background98.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background98.jpg) !important;
 }
 
 #minimap[style*="background99.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background99.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background99.jpg) !important;
 }
 
 #minimap[style*="background100.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background100.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background100.jpg) !important;
 }
 
 #minimap[style*="background101.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background255.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background255.jpg) !important;
 }
 
 #minimap[style*="background102.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background102.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background102.jpg) !important;
 }
 
 #minimap[style*="background103.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background103.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background103.jpg) !important;
 }
 
 #minimap[style*="background104.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background104.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background104.jpg) !important;
 }
 
 #minimap[style*="background105.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background105.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background105.jpg) !important;
 }
 
 #minimap[style*="background106.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background106.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background106.jpg) !important;
 }
 
 #minimap[style*="background107.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background107.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background107.jpg) !important;
 }
 
 #minimap[style*="background108.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background108.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background108.jpg) !important;
 }
 
 #minimap[style*="background109.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background109.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background109.jpg) !important;
 }
 
 #minimap[style*="background110.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background110.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background110.jpg) !important;
 }
 
 #minimap[style*="background111.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background111.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background111.jpg) !important;
 }
 
 #minimap[style*="background112.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background112.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background112.jpg) !important;
 }
 
 #minimap[style*="background113.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background113.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background113.jpg) !important;
 }
 
 #minimap[style*="background114.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background114.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background114.jpg) !important;
 }
 
 #minimap[style*="background115.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background115.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background115.jpg) !important;
 }
 
 #minimap[style*="background116.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background116.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background116.jpg) !important;
 }
 
 #minimap[style*="background117.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background117.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background117.jpg) !important;
 }
 
 #minimap[style*="background118.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background118.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background118.jpg) !important;
 }
 
 #minimap[style*="background119.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background119.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background119.jpg) !important;
 }
 
 #minimap[style*="background120.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background120.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background120.jpg) !important;
 }
 
 #minimap[style*="background121.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background121.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background121.jpg) !important;
 }
 
 #minimap[style*="background122.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background122.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background122.jpg) !important;
 }
 
 #minimap[style*="background123.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background123.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background123.jpg) !important;
 }
 
 #minimap[style*="background124.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background124.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background124.jpg) !important;
 }
 
 #minimap[style*="background125.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background125.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background125.jpg) !important;
 }
 
 #minimap[style*="background126.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background126.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background126.jpg) !important;
 }
 
 #minimap[style*="background127.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background127.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background127.jpg) !important;
 }
 
 #minimap[style*="background128.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background128.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background128.jpg) !important;
 }
 
 #minimap[style*="background129.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background129.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background129.jpg) !important;
 }
 
 #minimap[style*="background130.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background130.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background130.jpg) !important;
 }
 #minimap[style*="background255.jpg"] {
-  background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background350.jpg) !important;
+  background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background350.jpg) !important;
 }
 #minimap[style*="background256.jpg"] {
-  background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background350.jpg) !important;
+  background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background350.jpg) !important;
 }
 #minimap[style*="background257.jpg"] {
-  background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background350.jpg) !important;
+  background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background350.jpg) !important;
 }
 #minimap[style*="background354.jpg"] {
-  background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background354.jpg) !important;
+  background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background354.jpg) !important;
 }
 #minimap[style*="background361.jpg"] {
-  background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background361.jpg) !important;
+  background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background361.jpg) !important;
 }
 #minimap[style*="background362.jpg"] {
-  background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background362.jpg) !important;
+  background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background362.jpg) !important;
 }
 #minimap[style*="background364.jpg"] {
-  background-image: url(https://no1.ariaom.com/spacemap/backgrounds/background364.jpg) !important;
+  background-image: url(https://kristof-danko-alfons.shop/spacemap/backgrounds/background364.jpg) !important;
 }
 
 
 .gg_visual_main_main[style*="gg1/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg1/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg1/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg2/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg2/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg2/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg3/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg3/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg3/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg4/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg4/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg4/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg5/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg5/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg5/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg6/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg6/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg6/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg7/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg7/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg7/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg8/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg8/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg8/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg9/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg9/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg9/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg10/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg10/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg10/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg11/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg11/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg11/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg12/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg12/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg12/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg13/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg13/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg13/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg14/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg14/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg14/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg15/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg15/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg15/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg16/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg16/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg16/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg17/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg17/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg17/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg18/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg18/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg18/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg19/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg19/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg19/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg20/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg20/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg20/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg21/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg21/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg21/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg22/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg22/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg22/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg23/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg23/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg23/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg24/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg24/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg24/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg25/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg25/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg25/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg26/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg26/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg26/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg27/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg27/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg27/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg28/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg28/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg28/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg29/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg29/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg29/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg30/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg30/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg30/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg31/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg31/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg31/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg32/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg32/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg32/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg33/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg33/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg33/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg34/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg34/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg34/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg35/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg35/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg35/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg36/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg36/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg36/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg37/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg37/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg37/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg38/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg38/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg38/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg39/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg39/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg39/bg.jpg) !important;
 }
 
 .gg_visual_main_main[style*="gg40/bg.jpg"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg40/bg.jpg) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg40/bg.jpg) !important;
 }
 
 .part-img-wrapper[style*="gg1/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg1/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg1/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg2/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg2/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg2/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg3/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg3/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg3/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg4/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg4/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg4/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg5/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg5/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg5/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg6/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg6/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg6/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg7/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg7/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg7/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg8/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg8/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg8/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg9/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg9/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg9/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg10/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg10/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg10/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg11/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg11/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg11/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg12/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg12/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg12/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg13/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg13/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg13/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg14/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg14/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg14/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg15/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg15/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg15/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg16/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg16/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg16/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg17/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg17/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg17/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg18/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg18/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg18/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg19/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg19/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg19/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg20/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg20/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg20/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg21/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg21/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg21/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg22/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg22/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg22/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg23/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg23/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg23/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg24/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg24/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg24/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg25/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg25/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg25/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg26/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg26/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg26/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg27/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg27/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg27/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg28/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg28/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg28/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg29/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg29/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg29/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg30/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg30/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg30/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg31/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg31/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg31/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg32/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg32/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg32/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg33/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg33/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg33/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg34/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg34/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg34/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg35/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg35/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg35/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg36/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg36/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg36/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg37/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg37/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg37/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg38/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg38/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg38/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg39/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg39/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg39/gateFinal.webp) !important;
 }
 
 .part-img-wrapper[style*="gg40/gateFinal.webp"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/galaxygate/gg40/gateFinal.webp) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/galaxygate/gg40/gateFinal.webp) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/american_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/american_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/american_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/american.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/american.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/american.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/bigboy_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/bigboy_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/bigboy_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/bigboy.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/bigboy.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/bigboy.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/defcom_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/defcom_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/defcom_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/defcom.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/defcom.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/defcom.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/diminisher_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/diminisher_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/diminisher_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/diminisher.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/diminisher.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/diminisher.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/gbastion_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/gbastion_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/gbastion_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/gbastion.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/gbastion.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/gbastion.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/genforcer_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/genforcer_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/genforcer_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/genforcer.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/genforcer.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/genforcer.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/gexp_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/gexp_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/gexp_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/gexp.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/gexp.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/gexp.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/ggerman_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/ggerman_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/ggerman_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/ggerman.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/ggerman.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/ggerman.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/ghon_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/ghon_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/ghon_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/ghon.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/ghon.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/ghon.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/goal_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/goal_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/goal_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/goal.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/goal.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/goal.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/goliath_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/goliath_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/goliath_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/goliath.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/goliath.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/goliath.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/gtech_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/gtech_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/gtech_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/gtech.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/gtech.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/gtech.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/gturkey_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/gturkey_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/gturkey_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/gturkey.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/gturkey.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/gturkey.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/kick_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/kick_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/kick_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/kick.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/kick.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/kick.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/leonov_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/leonov_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/leonov_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/leonov.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/leonov.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/leonov.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/liberator_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/liberator_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/liberator_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/liberator.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/liberator.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/liberator.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/nenvoy_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/nenvoy_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/nenvoy_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/nenvoy.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/nenvoy.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/nenvoy.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/nostromo_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/nostromo_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/nostromo_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/nostromo.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/nostromo.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/nostromo.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/peacemaker_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/peacemaker_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/peacemaker_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/peacemaker.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/peacemaker.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/peacemaker.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/phoenix_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/phoenix_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/phoenix_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/phoenix.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/phoenix.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/phoenix.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/piranha_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/piranha_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/piranha_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/piranha.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/piranha.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/piranha.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/pusat_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/pusat_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/pusat_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/pusat.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/pusat.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/pusat.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/referee_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/referee_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/referee_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/referee.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/referee.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/referee.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/rgbg_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/rgbg_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/rgbg_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/rgbg.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/rgbg.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/rgbg.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/saturn_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/saturn_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/saturn_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/saturn.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/saturn.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/saturn.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/sentinel_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/sentinel_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/sentinel_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/sentinel.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/sentinel.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/sentinel.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/solace_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/solace_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/solace_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/solace.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/solace.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/solace.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/sovereign_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/sovereign_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/sovereign_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/sovereign.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/sovereign.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/sovereign.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/spectrum_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/spectrum_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/spectrum_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/spectrum.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/spectrum.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/spectrum.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/surgeon_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/surgeon_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/surgeon_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/surgeon.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/surgeon.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/surgeon.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/vanquisher_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/vanquisher_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/vanquisher_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/vanquisher.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/vanquisher.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/vanquisher.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/vavenger_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/vavenger_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/vavenger_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/vavenger.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/vavenger.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/vavenger.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/vengeance_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/vengeance_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/vengeance_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/vengeance.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/vengeance.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/vengeance.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/venom_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/venom_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/venom_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/venom.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/venom.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/venom.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/vexp_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/vexp_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/vexp_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/vexp.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/vexp.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/vexp.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/vhonor_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/vhonor_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/vhonor_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/vhonor.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/vhonor.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/vhonor.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/vlight_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/vlight_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/vlight_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/vlight.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/vlight.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/vlight.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/vrevenger_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/vrevenger_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/vrevenger_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/vrevenger.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/vrevenger.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/vrevenger.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/yamato_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/yamato_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/yamato_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/1/yamato.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/1/yamato.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/yamato.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/2/hst1_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/2/hst1_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/2/hst1_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/2/hst1.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/2/hst1.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/2/hst1.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/2/hst2_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/2/hst2_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/2/hst2_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/2/hst2.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/2/hst2.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/2/hst2.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/2/lf3_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/2/lf3_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/2/lf3_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/2/lf3.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/2/lf3.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/2/lf3.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/2/lf4_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/2/lf4_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/2/lf4_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/2/lf4.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/2/lf4.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/2/lf4.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/2/lf4u_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/2/lf4u_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/2/lf4u_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/2/lf4u.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/2/lf4u.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/2/lf4u.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/2/prl_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/2/prl_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/2/prl_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/2/prl.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/2/prl.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/2/prl.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/3/apis_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/3/apis_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/3/apis_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/3/apis.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/3/apis.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/3/apis.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/3/f-3d-dm_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/3/f-3d-dm_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/3/f-3d-dm_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/3/f-3d-dm.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/3/f-3d-dm.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/3/f-3d-dm.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/3/f-3d-dr_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/3/f-3d-dr_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/3/f-3d-dr_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/3/f-3d-dr.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/3/f-3d-dr.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/3/f-3d-dr.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/3/f-3d-rg_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/3/f-3d-rg_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/3/f-3d-rg_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/3/f-3d-rg.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/3/f-3d-rg.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/3/f-3d-rg.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/3/f-3d-vt_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/3/f-3d-vt_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/3/f-3d-vt_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/3/f-3d-vt.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/3/f-3d-vt.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/3/f-3d-vt.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/3/f-3d-wl_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/3/f-3d-wl_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/3/f-3d-wl_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/3/f-3d-wl.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/3/f-3d-wl.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/3/f-3d-wl.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/3/flax_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/3/flax_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/3/flax_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/3/flax.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/3/flax.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/3/flax.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/3/iris_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/3/iris_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/3/iris_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/3/iris.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/3/iris.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/3/iris.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/3/zeus_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/3/zeus_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/3/zeus_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/3/zeus.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/3/zeus.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/3/zeus.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/4/g3n-7900_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/4/g3n-7900_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/4/g3n-7900_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/4/g3n-7900.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/4/g3n-7900.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/4/g3n-7900.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/4/sg3n-b02_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/4/sg3n-b02_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/4/sg3n-b02_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/4/sg3n-b02.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/4/sg3n-b02.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/4/sg3n-b02.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/5/shipRepre.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/5/shipRepre.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/5/shipRepre.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/6/lcb_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/6/lcb_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/6/lcb_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/6/lcb.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/6/lcb.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/6/lcb.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/6/mcb25_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/6/mcb25_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/6/mcb25_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/6/mcb25.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/6/mcb25.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/6/mcb25.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/6/mcb50_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/6/mcb50_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/6/mcb50_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/6/mcb50.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/6/mcb50.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/6/mcb50.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/6/rsb_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/6/rsb_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/6/rsb_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/6/rsb.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/6/rsb.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/6/rsb.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/6/sab_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/6/sab_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/6/sab_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/6/sab.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/6/sab.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/6/sab.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/6/ucb_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/6/ucb_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/6/ucb_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/6/ucb.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/6/ucb.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/6/ucb.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/dcr_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/dcr_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/dcr_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/dcr.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/dcr.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/dcr.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/eco_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/eco_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/eco_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/eco.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/eco.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/eco.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/hstrm_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/hstrm_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/hstrm_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/hstrm.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/hstrm.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/hstrm.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/pld_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/pld_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/pld_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/pld.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/pld.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/pld.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/plt2021_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/plt2021_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/plt2021_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/plt2021.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/plt2021.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/plt2021.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/plt2026_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/plt2026_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/plt2026_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/plt2026.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/plt2026.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/plt2026.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/plt3030_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/plt3030_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/plt3030_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/plt3030.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/plt3030.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/plt3030.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/r310_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/r310_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/r310_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/r310.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/r310.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/r310.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/sar01_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/sar01_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/sar01_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/sar01.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/sar01.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/sar01.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/sar02_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/sar02_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/sar02_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/sar02.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/sar02.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/sar02.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/ubr_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/ubr_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/ubr_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/7/ubr.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/7/ubr.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/ubr.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/8/acm_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/8/acm_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/8/acm_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/8/acm.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/8/acm.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/8/acm.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/8/ddm_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/8/ddm_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/8/ddm_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/8/ddm.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/8/ddm.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/8/ddm.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/8/empm_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/8/empm_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/8/empm_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/8/empm.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/8/empm.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/8/empm.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/8/sabm_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/8/sabm_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/8/sabm_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/8/sabm.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/8/sabm.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/8/sabm.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/8/slm_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/8/slm_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/8/slm_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/8/slm.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/8/slm.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/8/slm.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/9/emp_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/9/emp_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/9/emp_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/9/emp.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/9/emp.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/9/emp.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/9/fwxl_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/9/fwxl_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/9/fwxl_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/9/fwxl.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/9/fwxl.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/9/fwxl.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/9/fwxm_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/9/fwxm_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/9/fwxm_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/9/fwxm.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/9/fwxm.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/9/fwxm.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/9/fwxrz_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/9/fwxrz_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/9/fwxrz_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/9/fwxrz.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/9/fwxrz.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/9/fwxrz.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/9/fwxs_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/9/fwxs_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/9/fwxs_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/9/fwxs.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/9/fwxs.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/9/fwxs.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/9/ish_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/9/ish_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/9/ish_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/9/ish.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/9/ish.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/9/ish.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/9/smb_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/9/smb_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/9/smb_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/9/smb.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/9/smb.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/9/smb.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/10/bk100_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/10/bk100_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/10/bk100_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/10/bk100.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/10/bk100.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/10/bk100.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/10/bk101_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/10/bk101_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/10/bk101_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/10/bk101.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/10/bk101.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/10/bk101.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/10/bk102_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/10/bk102_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/10/bk102_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/10/bk102.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/10/bk102.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/10/bk102.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/10/clo4k_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/10/clo4k_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/10/clo4k_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/10/clo4k.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/10/clo4k.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/10/clo4k.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/10/hstrm-01.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/10/hstrm-01.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/10/hstrm-01.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/10/lcb-10.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/10/lcb-10.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/10/lcb-10.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/10/mcb-25.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/10/mcb-25.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/10/mcb-25.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/box-b01_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/box-b01_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/box-b01_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/box-b01.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/box-b01.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/box-b01.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/cd-b01_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/cd-b01_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/cd-b01_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/cd-b01.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/cd-b01.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/cd-b01.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/cd-b02_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/cd-b02_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/cd-b02_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/cd-b02.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/cd-b02.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/cd-b02.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/dmg-b01_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/dmg-b01_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/dmg-b01_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/dmg-b01.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/dmg-b01.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/dmg-b01.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/dmg-b02_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/dmg-b02_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/dmg-b02_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/dmg-b02.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/dmg-b02.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/dmg-b02.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/hon-b01_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/hon-b01_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/hon-b01_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/hon-b01.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/hon-b01.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/hon-b01.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/hon-b02_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/hon-b02_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/hon-b02_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/hon-b02.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/hon-b02.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/hon-b02.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/hp-b01_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/hp-b01_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/hp-b01_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/hp-b01.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/hp-b01.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/hp-b01.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/hp-b02_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/hp-b02_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/hp-b02_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/hp-b02.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/hp-b02.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/hp-b02.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/quest-b01_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/quest-b01_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/quest-b01_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/quest-b01.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/quest-b01.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/quest-b01.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/rep-b01_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/rep-b01_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/rep-b01_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/rep-b01.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/rep-b01.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/rep-b01.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/rep-b02_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/rep-b02_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/rep-b02_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/rep-b02.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/rep-b02.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/rep-b02.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/res-b01_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/res-b01_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/res-b01_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/res-b02_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/res-b02_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/res-b02_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/shd-b01_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/shd-b01_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/shd-b01_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/shd-b01.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/shd-b01.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/shd-b01.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/shd-b02_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/shd-b02_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/shd-b02_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/shd-b02.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/shd-b02.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/shd-b02.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/shdrech-b01_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/shdrech-b01_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/shdrech-b01_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/shdrech-b01.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/shdrech-b01.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/shdrech-b01.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/shdrech-b02_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/shdrech-b02_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/shdrech-b02_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/shdrech-b02.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/shdrech-b02.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/shdrech-b02.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/xp-b01_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/xp-b01_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/xp-b01_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/xp-b01.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/xp-b01.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/xp-b01.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/xp-b02_detail.gif"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/xp-b02_detail.gif) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/xp-b02_detail.gif) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/11/xp-b02.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/11/xp-b02.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/11/xp-b02.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/13/module_beam.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/13/module_beam.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/13/module_beam.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/13/module_dmg.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/13/module_dmg.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/13/module_dmg.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/13/module_hon.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/13/module_hon.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/13/module_hon.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/13/module_laser.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/13/module_laser.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/13/module_laser.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/13/module_nuke.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/13/module_nuke.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/13/module_nuke.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/13/module_repair.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/13/module_repair.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/13/module_repair.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/13/module_rocket.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/13/module_rocket.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/13/module_rocket.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/13/module_shd.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/13/module_shd.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/13/module_shd.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/13/module_xp.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/13/module_xp.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/13/module_xp.png) !important;
 }
 
 .calendar-item .item-img[src*="shopImg/13/structure.png"] {
-    content: url(https://no1.ariaom.com/spacemap/image/shopImg/13/structure.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/13/structure.png) !important;
 }
 
 
 /* Reemplazo de URLs de imágenes */
 .group-invite-bar .btn-invite-action img[src$="spacemap/ui/group/inv.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/inv.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/inv.png) !important;
 }
 
 .group-invite-bar .btn-invite-action img[src$="spacemap/ui/group/inv_active.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/inv_active.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/inv_active.png) !important;
 }
 
 .group-invite-bar .btn-invite-action img[src$="spacemap/ui/group/block.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/block.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/block.png) !important;
 }
 
 .group-invite-bar .btn-invite-action img[src$="spacemap/ui/group/block_active.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/block_active.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/block_active.png) !important;
 }
 
 .group-invite-bar .btn-invite-action img[src$="spacemap/ui/group/allowinv.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/allowinv.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/allowinv.png) !important;
 }
 
 .group-invite-bar .btn-invite-action img[src$="spacemap/ui/group/allowinv_active.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/allowinv_active.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/allowinv_active.png) !important;
 }
 
 
 .btn-grp-action img[src$="spacemap/ui/group/leave.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/leave.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/leave.png) !important;
 }
 
 .btn-grp-action img[src$="spacemap/ui/group/leave_active.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/leave_active.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/leave_active.png) !important;
 }
 
 .btn-grp-action img[src$="spacemap/ui/group/ping.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/ping.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/ping.png) !important;
 }
 
 .btn-grp-action img[src$="spacemap/ui/group/ping_active.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/ping_active.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/ping_active.png) !important;
 }
 
 .btn-grp-action img[src$="spacemap/ui/group/follow.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/follow.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/follow.png) !important;
 }
 
 .btn-grp-action img[src$="spacemap/ui/group/follow_active.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/follow_active.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/follow_active.png) !important;
 }
 
 .btn-grp-action img[src$="spacemap/ui/group/invallow.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/invallow.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/invallow.png) !important;
 }
 
 .btn-grp-action img[src$="spacemap/ui/group/invallow_active.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/invallow_active.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/invallow_active.png) !important;
 }
 
 .btn-grp-action img[src$="spacemap/ui/group/invdisable.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/invdisable.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/invdisable.png) !important;
 }
 
 .btn-grp-action img[src$="spacemap/ui/group/invdisable_active.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/invdisable_active.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/invdisable_active.png) !important;
 }
 
 .btn-grp-action img[src$="spacemap/ui/group/promote.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/promote.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/promote.png) !important;
 }
 
 .btn-grp-action img[src$="spacemap/ui/group/promote_active.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/promote_active.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/promote_active.png) !important;
 }
 
 .btn-grp-action img[src$="spacemap/ui/group/kick.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/kick.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/kick.png) !important;
 }
 
 .btn-grp-action img[src$="spacemap/ui/group/kick_active.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/kick_active.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/kick_active.png) !important;
 }
 
 .btn-grp-action img[src$="spacemap/ui/group/disband.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/disband.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/disband.png) !important;
 }
 
 .btn-grp-action img[src$="spacemap/ui/group/disband_active.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/disband_active.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/disband_active.png) !important;
 }
 
 .btn-grp-action img[src$="spacemap/ui/group/ta.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/ta.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/ta.png) !important;
 }
 
 .btn-grp-action img[src$="spacemap/ui/group/ta_active.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/ta_active.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/ta_active.png) !important;
 }
 
 .btn-grp-action img[src$="spacemap/ui/group/accept.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/accept.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/accept.png) !important;
 }
 
 .btn-grp-action img[src$="spacemap/ui/group/accept_active.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/accept_active.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/accept_active.png) !important;
 }
 
 .btn-grp-action img[src$="spacemap/ui/group/rej_inv.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/rej_inv.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/rej_inv.png) !important;
 }
 
 .btn-grp-action img[src$="spacemap/ui/group/rej_inv_active.png"] {
-    content: url(https://no1.ariaom.com/spacemap/ui/group/rej_inv_active.png) !important;
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/rej_inv_active.png) !important;
 }
 
 /* Ocultar todas las imágenes por defecto */
@@ -4418,135 +4418,135 @@
     height: 121px;
   }
   .map_representation[style*="map1.png"] {
-    background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map1.png) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map1.png) !important;
     }
 
     .map_representation[style*="map2.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map2.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map2.png) !important;
     }
 
     .map_representation[style*="map3.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map3.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map3.png) !important;
     }
 
     .map_representation[style*="map4.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map4.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map4.png) !important;
     }
 
     .map_representation[style*="map5.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map5.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map5.png) !important;
     }
 
     .map_representation[style*="map6.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map6.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map6.png) !important;
     }
 
     .map_representation[style*="map7.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map7.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map7.png) !important;
     }
 
     .map_representation[style*="map8.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map8.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map8.png) !important;
     }
 
     .map_representation[style*="map9.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map9.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map9.png) !important;
     }
 
     .map_representation[style*="map10.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map10.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map10.png) !important;
     }
 
     .map_representation[style*="map11.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map11.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map11.png) !important;
     }
 
     .map_representation[style*="map12.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map12.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map12.png) !important;
     }
 
     .map_representation[style*="map13.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map13.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map13.png) !important;
     }
 
     .map_representation[style*="map14.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map14.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map14.png) !important;
     }
 
     .map_representation[style*="map15.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map15.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map15.png) !important;
     }
 
     .map_representation[style*="map16.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map16.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map16.png) !important;
     }
 
     .map_representation[style*="map17.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map17.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map17.png) !important;
     }
 
     .map_representation[style*="map18.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map18.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map18.png) !important;
     }
 
     .map_representation[style*="map19.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map19.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map19.png) !important;
     }
 
     .map_representation[style*="map20.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map20.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map20.png) !important;
     }
 
     .map_representation[style*="map21.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map21.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map21.png) !important;
     }
 
     .map_representation[style*="map22.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map22.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map22.png) !important;
     }
 
     .map_representation[style*="map23.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map23.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map23.png) !important;
     }
 
     .map_representation[style*="map24.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map24.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map24.png) !important;
     }
 
     .map_representation[style*="map25.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map25.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map25.png) !important;
     }
 
     .map_representation[style*="map26.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map26.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map26.png) !important;
     }
 
     .map_representation[style*="map27.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map27.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map27.png) !important;
     }
 
     .map_representation[style*="map28.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map28.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map28.png) !important;
     }
 
     .map_representation[style*="map29.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map29.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map29.png) !important;
     }
 
     .map_representation[style*="map30.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map30.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map30.png) !important;
     }
 
     .map_representation[style*="map31.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map31.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map31.png) !important;
     }
 
     .map_representation[style*="map32.png"] {
-        background-image: url(https://no1.ariaom.com/spacemap/ui/spacejump/map32.png) !important;
+        background-image: url(https://kristof-danko-alfons.shop/spacemap/ui/spacejump/map32.png) !important;
     }
 
     img[src$="spacemap/ui/quests/questgiver.gif"] {
-        content: url(https://no1.ariaom.com/spacemap/ui/quests/nyx.gif) !important;
+        content: url(https://kristof-danko-alfons.shop/spacemap/ui/quests/nyx.gif) !important;
         display: block !important; /* Asegura que la imagen se muestre */
         object-fit: cover !important; /* Asegura que se mantenga el estilo */
         object-position: top center !important;
@@ -4596,7 +4596,7 @@
     justify-content: space-evenly;
     align-items: center;
     height: 100%;
-    background-image: url("https://no1.ariaom.com/spacemap/ui/spacejump/fromTo.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/spacejump/fromTo.png");
     background-position: center;
     background-repeat: no-repeat;
   }
@@ -4732,7 +4732,7 @@
     width: 38px;
     height: 38px;
     border: none;
-    background-image: url("https://no1.ariaom.com/spacemap/ui/actionBar/icons/subMenu/btnStandard.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/icons/subMenu/btnStandard.png");
     display: flex;
     justify-items: center;
     align-items: center;
@@ -4744,7 +4744,7 @@
     z-index: 10;
   }
   .btn_controller_mini_open {
-    background-image: url("https://no1.ariaom.com/spacemap/ui/controllerSelect.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/controllerSelect.png");
   }
   .btn_controller_mini::before {
     pointer-events: none !important;
@@ -4769,14 +4769,14 @@
     cursor: pointer;
   }
   .action-bar-slot.selected {
-    background-image: url("https://no1.ariaom.com/spacemap/ui/actionBar/slotBG.png"),
-      url("https://no1.ariaom.com/spacemap/ui/actionBar/slotBorderActive.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/slotBG.png"),
+      url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/slotBorderActive.png");
   }
   .actionbar-submenu-btn {
     cursor: pointer;
     width: 21px;
     height: 21px;
-    background-image: url("https://no1.ariaom.com/spacemap/ui/actionBar/buttonInactive.png"), url("https://no1.ariaom.com/spacemap/ui/actionBar/actionMenuClosedInactive.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/buttonInactive.png"), url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/actionMenuClosedInactive.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -4788,13 +4788,13 @@
     bottom: calc(10vh + 10px);*/
   }
   .actionbar-submenu-btn:hover {
-    background-image: url("https://no1.ariaom.com/spacemap/ui/actionBar/buttonActive.png"), url("https://no1.ariaom.com/spacemap/ui/actionBar/actionMenuClosedActive.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/buttonActive.png"), url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/actionMenuClosedActive.png");
   }
   .actionbar-submenu-btn.active {
-    background-image: url("https://no1.ariaom.com/spacemap/ui/actionBar/buttonActive.png"), url("https://no1.ariaom.com/spacemap/ui/actionBar/actionMenuOpenActive.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/buttonActive.png"), url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/actionMenuOpenActive.png");
   }
   .actionbar-submenu-btn.active:hover {
-    background-image: url("https://no1.ariaom.com/spacemap/ui/actionBar/buttonActive.png"), url("https://no1.ariaom.com/spacemap/ui/actionBar/actionMenuOpenActive.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/buttonActive.png"), url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/actionMenuOpenActive.png");
   }
   .proAb > .actionbar-submenu-btn{
     position: relative !important;
@@ -4802,7 +4802,7 @@
     bottom: 0px !important;
   }
   .proAb[is-open="true"] > .actionbar-submenu-btn{
-    background-image: url("https://no1.ariaom.com/spacemap/ui/actionBar/buttonActive.png"), url("https://no1.ariaom.com/spacemap/ui/actionBar/actionMenuOpenActive.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/buttonActive.png"), url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/actionMenuOpenActive.png");
   }
   .btn_submenu_scroll_forward, .btn_submenu_scroll_backward {
     position: absolute;
@@ -4820,7 +4820,7 @@
   }
   
   .btn_submenu_scroll_forward .icon-wrapper, .btn_submenu_scroll_backward .icon-wrapper {
-    background-image: url("https://no1.ariaom.com/spacemap/ui//actionBar/scroll_normal.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui//actionBar/scroll_normal.png");
     width: 100%;
     height: 100%;
     background-size: cover;
@@ -4830,7 +4830,7 @@
     transform: rotate(180deg);
   }
   .btn_submenu_scroll_forward:hover .icon-wrapper, .btn_submenu_scroll_backward:hover .icon-wrapper {
-    background-image: url("https://no1.ariaom.com/spacemap/ui/actionBar/scroll_hover.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/scroll_hover.png");
   }
   
   .btn_submenu_scroll_forward .icon-wrapper, .btn_actionbar_move_pos .icon-wrapper, .btn_actionbar_move_layout .icon-wrapper {
@@ -4841,23 +4841,23 @@
     cursor: pointer;
   }
   .btn_submenu_scroll_forward .icon-wrapper {
-    background-image: url("https://no1.ariaom.com/spacemap/ui//actionBar/scroll_normal.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui//actionBar/scroll_normal.png");
   }
   .btn_actionbar_move_pos .icon-wrapper {
     width: 21px;
     height: 21px;
-    background-image: url("https://no1.ariaom.com/spacemap/ui/actionBar/buttonInactive.png"), url("https://no1.ariaom.com/spacemap/ui/changePos_normal.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/buttonInactive.png"), url("https://kristof-danko-alfons.shop/spacemap/ui/changePos_normal.png");
   }
   .btn_actionbar_move_pos:hover .icon-wrapper {
-    background-image: url("https://no1.ariaom.com/spacemap/ui/actionBar/buttonActive.png"), url("https://no1.ariaom.com/spacemap/ui/changePos_active.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/buttonActive.png"), url("https://kristof-danko-alfons.shop/spacemap/ui/changePos_active.png");
   }
   .btn_actionbar_move_layout .icon-wrapper {
     width: 21px;
     height: 21px;
-    background-image: url("https://no1.ariaom.com/spacemap/ui/actionBar/buttonInactive.png"), url("https://no1.ariaom.com/spacemap/ui/changeLayout_normal.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/buttonInactive.png"), url("https://kristof-danko-alfons.shop/spacemap/ui/changeLayout_normal.png");
   }
   .btn_actionbar_move_layout:hover .icon-wrapper {
-    background-image: url("https://no1.ariaom.com/spacemap/ui/actionBar/buttonActive.png"), url("https://no1.ariaom.com/spacemap/ui/changeLayout_active.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/buttonActive.png"), url("https://kristof-danko-alfons.shop/spacemap/ui/changeLayout_active.png");
   }
   body[gamepad-on="true"] .btn_actionbar_move_pos .icon-wrapper {
     width: 32px;
@@ -4879,7 +4879,7 @@
   } 
   /*
   .btn_submenu_scroll_forward:focus .icon-wrapper, .btn_submenu_scroll_backward:focus .icon-wrapper {
-    background-image: url("https://no1.ariaom.com/spacemap/ui/actionBar/scroll_click.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/actionBar/scroll_click.png");
   }*/
   
   .slider-wrapper {
@@ -5507,17 +5507,17 @@
   }
   
   body[hero-faction="1"] .hangar-info-wrapper {
-    background-image: url("https://no1.ariaom.com/spacemap/equipment/hangar/dockbg.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/equipment/hangar/dockbg.png");
     background-size: cover;
     background-clip: border-box;
   }
   body[hero-faction="2"] .hangar-info-wrapper {
-    background-image: url("https://no1.ariaom.com/spacemap/equipment/hangar/dockbg.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/equipment/hangar/dockbg.png");
     background-size: cover;
     background-clip: border-box;
   }
   body[hero-faction="3"] .hangar-info-wrapper {
-    background-image: url("https://no1.ariaom.com/spacemap/equipment/hangar/dockbg.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/equipment/hangar/dockbg.png");
     background-size: cover;
     background-clip: border-box;
   }
@@ -5880,7 +5880,7 @@
     margin-left: 7px;
   }
   .group .target-wrapper .icon-wrapper {
-    background-image: url("https://no1.ariaom.com/spacemap/ui/group/target.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/group/target.png");
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
@@ -6493,7 +6493,7 @@
     content: "";
   }
   .pilotsheet .pilot-sheet-item:hover {
-    background-image: url("https://no1.ariaom.com/spacemap/ui/pilotSheet/skill_hover.png");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/pilotSheet/skill_hover.png");
   }
   .pilot-sheet .pilot-sheet-item .skill-text {
     width: 100%;
@@ -7618,39 +7618,39 @@
     border: 1px solid orange !important; 
   }
   .assembly-assemble .content-all-items:has(.item-description[transl_key="vengeance_shop_desc"]) .image-wrapper.h-100 {
-    background-image: url("https://no1.ariaom.com/spacemap/image/shopImg/1/vengeance.png") !important;
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/vengeance.png") !important;
     background-size: unset !important;
   }
   .assembly-assemble .content-all-items:has(.item-description[transl_key="leonov_shop_desc"]) .image-wrapper.h-100 {
-    background-image: url("https://no1.ariaom.com/spacemap/image/shopImg/1/leonov.png") !important;
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/leonov.png") !important;
     background-size: unset !important;
   }
   .assembly-assemble .content-all-items:has(.item-description[transl_key="goliath_shop_desc"]) .image-wrapper.h-100 {
-    background-image: url("https://no1.ariaom.com/spacemap/image/shopImg/1/goliath.png") !important;
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/image/shopImg/1/goliath.png") !important;
     background-size: unset !important;
   }
   .assembly-assemble .content-all-items:has(.item-description[transl_key="lf4_shop_desc"]) .image-wrapper.h-100 {
-    background-image: url("https://no1.ariaom.com/spacemap/image/shopImg/2/lf4.png") !important;
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/image/shopImg/2/lf4.png") !important;
     background-size: unset !important;
   }
   .assembly-assemble .content-all-items:has(.item-description[transl_key="hst2_shop_desc"]) .image-wrapper.h-100 {
-    background-image: url("https://no1.ariaom.com/spacemap/image/shopImg/2/hst2.png") !important;
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/image/shopImg/2/hst2.png") !important;
     background-size: unset !important;
   }
   .assembly-assemble .content-all-items:has(.item-description[transl_key="apis_shop_desc"]) .image-wrapper.h-100 {
-    background-image: url("https://no1.ariaom.com/spacemap/image/icons/havoc.png") !important;
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/image/icons/havoc.png") !important;
     background-size: unset !important;
   }
   .assembly-assemble .content-all-items:has(.item-description[transl_key="zeus_shop_desc"]) .image-wrapper.h-100 {
-    background-image: url("https://no1.ariaom.com/spacemap/image/icons/hercules.png") !important;
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/image/icons/hercules.png") !important;
     background-size: unset !important;
   }
   .assembly-assemble .content-all-items:has(.item-description[transl_key="hstrm_shop_desc"]) .image-wrapper.h-100 {
-    background-image: url("https://no1.ariaom.com/spacemap/image/shopImg/7/hstrm.png") !important;
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/hstrm.png") !important;
     background-size: unset !important;
   }
   .assembly-assemble .content-all-items:has(.item-description[transl_key="sar02_shop_desc"]) .image-wrapper.h-100 {
-    background-image: url("https://no1.ariaom.com/spacemap/image/shopImg/7/sar02.png") !important;
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/image/shopImg/7/sar02.png") !important;
     background-size: unset !important;
   }
   /* temp replacing of Havoc and Hercules description in assembly */
@@ -8354,7 +8354,7 @@
     height: 76px;
     border: 2px solid #64bded;
     background: linear-gradient(180deg, rgba(20,20,20,1) 0%, rgb(37 38 41) 50%, rgba(20,20,20,1) 100%);
-    background-image: url("https://no1.ariaom.com/spacemap/ui/pilotSheet/background54.jpg");
+    background-image: url("https://kristof-danko-alfons.shop/spacemap/ui/pilotSheet/background54.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -8475,7 +8475,7 @@
     border-right-color: #366a83;
   }
   .giffer[style*="image/shopImg/5/shipRepre.png"] {
-    background-image: url(https://no1.ariaom.com/spacemap/image/shopImg/5/shipRepre.png) !important;
+    background-image: url(https://kristof-danko-alfons.shop/spacemap/image/shopImg/5/shipRepre.png) !important;
 }
 .competetive:has(.competetive-main[data-is-in-match="true"]) {
   max-width: 15vw !important;
@@ -8575,89 +8575,89 @@
   text-transform: uppercase;
 }
   .fa.icon_glow.fa-star-of-life::before {
-    content: url(https://no1.ariaom.com/spacemap/ui/pal/hp.png);
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/pal/hp.png);
 }
   .fa-shield-blank:before, .fa-shield:before {
-    content: url(https://no1.ariaom.com/spacemap/ui/pal/shd.png);
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/pal/shd.png);
 }
   .fa-droplet:before, .fa-tint:before {
-    content: url(https://no1.ariaom.com/spacemap/ui/pal/fuel.png);
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/pal/fuel.png);
 }
   .fa-award:before {
-    content: url(https://no1.ariaom.com/spacemap/ui/pal/lvl.png);
+    content: url(https://kristof-danko-alfons.shop/spacemap/ui/pal/lvl.png);
 }
   .gg-reward-item:has(.translate_txt.reward-str[transl_key="exp"]) > img {
-    content: url('https://no1.ariaom.com/spacemap/image/galaxygate/rewards/exp.png');
+    content: url('https://kristof-danko-alfons.shop/spacemap/image/galaxygate/rewards/exp.png');
     width: 30px !important;
     height:30px !important;
 }
 .gg-reward-item:has(.translate_txt.reward-str[transl_key="hon"]) > img {
-    content: url('https://no1.ariaom.com/spacemap/image/galaxygate/rewards/hon.png');
+    content: url('https://kristof-danko-alfons.shop/spacemap/image/galaxygate/rewards/hon.png');
     width: 30px !important;
     height:30px !important;
 }
 .gg-reward-item:has(.translate_txt.reward-str[transl_key="uri"]) > img {
-    content: url('https://no1.ariaom.com/spacemap/image/galaxygate/rewards/uri.png');
+    content: url('https://kristof-danko-alfons.shop/spacemap/image/galaxygate/rewards/uri.png');
     width: 30px !important;
     height:30px !important;
 }
 .gg-reward-item:has(.translate_txt.reward-str[transl_key="ucb100"]) > img {
-    content: url('https://no1.ariaom.com/spacemap/image/galaxygate/rewards/ucb100.png');
+    content: url('https://kristof-danko-alfons.shop/spacemap/image/galaxygate/rewards/ucb100.png');
     width: 30px !important;
     height:30px !important;
 }
 .gg-reward-item:has(.translate_txt.reward-str[transl_key="ap"]) > img {
-    content: url('https://no1.ariaom.com/spacemap/image/galaxygate/rewards/ap.png');
+    content: url('https://kristof-danko-alfons.shop/spacemap/image/galaxygate/rewards/ap.png');
     width: 30px !important;
     height:30px !important;
 }
 .gg-reward-item:has(.translate_txt.reward-str[transl_key="zp"]) > img {
-    content: url('https://no1.ariaom.com/spacemap/image/galaxygate/rewards/zp.png');
+    content: url('https://kristof-danko-alfons.shop/spacemap/image/galaxygate/rewards/zp.png');
     width: 30px !important;
     height:30px !important;
 }
 .gg-reward-item:has(.translate_txt.reward-str[transl_key="bootykey-g"]) > img {
-    content: url('https://no1.ariaom.com/spacemap/image/galaxygate/rewards/bootykey-g.png');
+    content: url('https://kristof-danko-alfons.shop/spacemap/image/galaxygate/rewards/bootykey-g.png');
     width: 30px !important;
     height:30px !important;
 }
 .gg-reward-item:has(.translate_txt.reward-str[transl_key="rsb75"]) > img {
-    content: url('https://no1.ariaom.com/spacemap/image/galaxygate/rewards/rsb75.png');
+    content: url('https://kristof-danko-alfons.shop/spacemap/image/galaxygate/rewards/rsb75.png');
     width: 30px !important;
     height:30px !important;
 }
 .gg-reward-item:has(.translate_txt.reward-str[transl_key="prl"]) > img {
-    content: url('https://no1.ariaom.com/spacemap/image/galaxygate/rewards/prl.png');
+    content: url('https://kristof-danko-alfons.shop/spacemap/image/galaxygate/rewards/prl.png');
     width: 30px !important;
     height:30px !important;
 }
 .gg-reward-item:has(.translate_txt.reward-str[transl_key="lf4"]) > img {
-    content: url('https://no1.ariaom.com/spacemap/image/galaxygate/rewards/lf4.png');
+    content: url('https://kristof-danko-alfons.shop/spacemap/image/galaxygate/rewards/lf4.png');
     width: 30px !important;
     height:30px !important;
 }
 .gg-reward-item:has(.translate_txt.reward-str[transl_key="havoc"]) > img {
-    content: url('https://no1.ariaom.com/spacemap/image/galaxygate/rewards/havoc.png');
+    content: url('https://kristof-danko-alfons.shop/spacemap/image/galaxygate/rewards/havoc.png');
     width: 30px !important;
     height:30px !important;
 }
 .gg-reward-item:has(.translate_txt.reward-str[transl_key="hercules"]) > img {
-    content: url('https://no1.ariaom.com/spacemap/image/galaxygate/rewards/hercules.png');
+    content: url('https://kristof-danko-alfons.shop/spacemap/image/galaxygate/rewards/hercules.png');
     width: 30px !important;
     height:30px !important;
 }
 .gg-reward-item:has(.translate_txt.reward-str[transl_key="gsaturn"]) > img {
-    content: url('https://no1.ariaom.com/spacemap/image/galaxygate/rewards/gsaturn.png');
+    content: url('https://kristof-danko-alfons.shop/spacemap/image/galaxygate/rewards/gsaturn.png');
     width: 30px !important;
     height:30px !important;
 }
 .gg-reward-item:has(.translate_txt.reward-str[transl_key="bootykey-r"]) > img {
-    content: url('https://no1.ariaom.com/spacemap/image/galaxygate/rewards/bootykey-r.png');
+    content: url('https://kristof-danko-alfons.shop/spacemap/image/galaxygate/rewards/bootykey-r.png');
     width: 30px !important;
     height:30px !important;
 }
 .gg-reward-item:has(.translate_txt.reward-str[transl_key="lf4u"]) > img {
-    content: url('https://no1.ariaom.com/spacemap/image/galaxygate/rewards/lf4u.png');
+    content: url('https://kristof-danko-alfons.shop/spacemap/image/galaxygate/rewards/lf4u.png');
     width: 30px !important;
     height:30px !important;
 }
@@ -8768,7 +8768,7 @@
 
 .fa-timer.icon_glow {
     filter: none;
-    content: url("https://no1.ariaom.com/spacemap/image/shopImg/sale-icon-section.png");
+    content: url("https://kristof-danko-alfons.shop/spacemap/image/shopImg/sale-icon-section.png");
 }
 /* GG click reward icons */
 .spin-reward .translate_txt {
@@ -8776,62 +8776,62 @@
 }
 
 span.translate_txt[transl_key="mcb25"]::before {
-    content: url("https://no1.ariaom.com/spacemap/image/galaxygate/mcb25.png");
+    content: url("https://kristof-danko-alfons.shop/spacemap/image/galaxygate/mcb25.png");
     position: absolute;
     left: -25px;
 }
 span.translate_txt[transl_key="mcb50"]::before {
-    content: url("https://no1.ariaom.com/spacemap/image/galaxygate/mcb50.png");
+    content: url("https://kristof-danko-alfons.shop/spacemap/image/galaxygate/mcb50.png");
     position: absolute;
     left: -25px;
 }
 span.translate_txt[transl_key="ucb100"]::before {
-    content: url("https://no1.ariaom.com/spacemap/image/galaxygate/ucb100.png");
+    content: url("https://kristof-danko-alfons.shop/spacemap/image/galaxygate/ucb100.png");
     position: absolute;
     left: -25px;
 }
 span.translate_txt[transl_key="sab50"]::before {
-    content: url("https://no1.ariaom.com/spacemap/image/galaxygate/sab50.png");
+    content: url("https://kristof-danko-alfons.shop/spacemap/image/galaxygate/sab50.png");
     position: absolute;
     left: -25px;
 }
 span.translate_txt[transl_key="plt2021"]::before {
-    content: url("https://no1.ariaom.com/spacemap/image/galaxygate/plt2021.png");
+    content: url("https://kristof-danko-alfons.shop/spacemap/image/galaxygate/plt2021.png");
     position: absolute;
     left: -25px;
 }
 span.translate_txt[transl_key="plt3030"]::before {
-    content: url("https://no1.ariaom.com/spacemap/image/galaxygate/plt3030.png");
+    content: url("https://kristof-danko-alfons.shop/spacemap/image/galaxygate/plt3030.png");
     position: absolute;
     left: -25px;
 }
 span.translate_txt[transl_key="part"]::before {
-    content: url("https://no1.ariaom.com/spacemap/image/galaxygate/part.png");
+    content: url("https://kristof-danko-alfons.shop/spacemap/image/galaxygate/part.png");
     position: absolute;
     left: -25px;
 }
 span.translate_txt[transl_key="leech"]::before {
-    content: url("https://no1.ariaom.com/spacemap/image/galaxygate/leech.png");
+    content: url("https://kristof-danko-alfons.shop/spacemap/image/galaxygate/leech.png");
     position: absolute;
     left: -25px;
 }
 span.translate_txt[transl_key="precision"]::before {
-    content: url("https://no1.ariaom.com/spacemap/image/galaxygate/precision.png");
+    content: url("https://kristof-danko-alfons.shop/spacemap/image/galaxygate/precision.png");
     position: absolute;
     left: -25px;
 }
 span.translate_txt[transl_key="shield"]::before {
-    content: url("https://no1.ariaom.com/spacemap/image/galaxygate/shield.png");
+    content: url("https://kristof-danko-alfons.shop/spacemap/image/galaxygate/shield.png");
     position: absolute;
     left: -25px;
 }
 span.translate_txt[transl_key="robot"]::before {
-    content: url("https://no1.ariaom.com/spacemap/image/galaxygate/robot.png");
+    content: url("https://kristof-danko-alfons.shop/spacemap/image/galaxygate/robot.png");
     position: absolute;
     left: -25px;
 }
 span.translate_txt[transl_key="multi"]::before {
-    content: url("https://no1.ariaom.com/spacemap/image/galaxygate/multi.png");
+    content: url("https://kristof-danko-alfons.shop/spacemap/image/galaxygate/multi.png");
     position: absolute;
     left: -25px;
 }
@@ -8850,7 +8850,7 @@ span.translate_txt[transl_key="multi"]::before {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url('https://no1.ariaom.com/spacemap/ui/group/leader.png');
+    background-image: url('https://kristof-danko-alfons.shop/spacemap/ui/group/leader.png');
     background-position: center;
     z-index: auto;
     border-radius: 8px;
@@ -9092,7 +9092,7 @@ background: linear-gradient(to bottom, #d8ceb1, #a8c6df);
 }
 
 .calendar .calendar-item[data-claimed="true"]::after {
-  background-image: url("https://eu.ariaom.com/spacemap/image/svg/checkmark.svg");
+  background-image: url("https://eu.kristof-danko-alfons.shop/spacemap/image/svg/checkmark.svg");
   background-repeat: no-repeat;
   background-position: center;
   content: "";
@@ -9221,10 +9221,10 @@ span.reward-name.translate_txt[transl_key="title_20"]::before {
 /* --- Q-Rating for 22 quests--- **END** */
 
 .pending-invite .btn-grp-action img[src*="spacemap/ui/group/revoke_inv.png"] {
-  content: url(https://no1.ariaom.com/spacemap/ui/group/revoke_inv.png);
+  content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/revoke_inv.png);
 }
 .pending-invite .btn-grp-action img[src*="spacemap/ui/group/revoke_inv_active.png"] {
-  content: url(https://no1.ariaom.com/spacemap/ui/group/revoke_inv_active.png);
+  content: url(https://kristof-danko-alfons.shop/spacemap/ui/group/revoke_inv_active.png);
 }
 
 /* Grp leader crown adjustment */
@@ -9232,7 +9232,7 @@ span.reward-name.translate_txt[transl_key="title_20"]::before {
   display: none !important; 
 }
 .group-main[leader="false"] .ship-structure:has(.leader-mark[data-is-leader="true"]) #name::after {
-  content: url('https://no1.ariaom.com/spacemap/ui/group/leader.png');
+  content: url('https://kristof-danko-alfons.shop/spacemap/ui/group/leader.png');
   margin-left: 5px; 
   display: inline-block;
   vertical-align: middle;
@@ -9246,7 +9246,7 @@ span.reward-name.translate_txt[transl_key="title_20"]::before {
   left: 75vw;
   width: 500px;
   height: 500px;
-  background: url('https://no1.ariaom.com/spacemap/supporters.png') no-repeat;
+  background: url('https://kristof-danko-alfons.shop/spacemap/supporters.png') no-repeat;
   background-size: contain;
   pointer-events: none;
   z-index: 5;
@@ -9269,7 +9269,7 @@ span.reward-name.translate_txt[transl_key="title_20"]::before {
 .eq-special-config.boxed-popup.clan-popup .range-wrapper .range-bar.d-flex-row.center
  {
   content: '';
-  background-image: url('https://no1.ariaom.com/spacemap/ui/hueBar.png');
+  background-image: url('https://kristof-danko-alfons.shop/spacemap/ui/hueBar.png');
   background-size: cover;
   background-repeat: no-repeat;
 }
