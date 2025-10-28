@@ -290,7 +290,11 @@
             "name": "engine",
             "hint": "eng_sett_hint",
             "isCheck": false,
-            "options": [{"id": 1, "label": "low", "val": "low"}, {"id": 2, "label": "average", "val": "average"}, {"id": 3, "label": "high", "val": "high"}]
+            "options": [
+              { "id": 1, "label": "low", "val": "low" },
+              { "id": 2, "label": "average", "val": "average" },
+              { "id": 3, "label": "high", "val": "high" }
+            ]
           },
           {
             "name": "ships",
@@ -331,8 +335,7 @@
             "hint": "Set rockets to default or atomic style",
             "options": [
               { "id": 1, "label": "classic", "val": "classic" },
-              { "id": 2, "label": "Atomic", "val": "atomic" },
-              { "id": 2, "label": "Ins", "val": "ins" }
+              { "id": 2, "label": "Atomic", "val": "atomic" }
             ]
           },
           {
@@ -404,6 +407,12 @@
               { "id": 2, "label": "medium", "val": 1000 },
               { "id": 3, "label": "long", "val": 1500 }
             ]
+          },
+          {
+            "name": "light_quality",
+            "hint": "light_quality_sett_hint",
+            "isCheck": false,
+            "options": [{"id": 1, "label": "off", "val": "off"}, {"id": 2, "label": "average", "val": "average"}, {"id": 3, "label": "good", "val": "good"}, {"id": 4, "label": "high", "val": "high"}]
           }
         ],
         [
@@ -814,6 +823,10 @@
           {
             "name": "group_ping",
             "isKeyInput": true
+          },
+          {
+            "name": "group_follow",
+            "isKeyInput": true
           }
         ],
         [
@@ -976,8 +989,9 @@
           {
             "name": "activate_ab_item",
             "isGamepadInput": true
-          },
-          [
+          }
+        ],
+        [
           {
             "name": "qc_msg_slot_1",
             "isCheck": false,
@@ -1042,8 +1056,39 @@
               { "id": 10, "label": "qc_msg_10", "val": 10 }
             ]
           }
-          ]
-        ]
+        ],
+        [
+          {
+              "name": "joystick_scale",
+              "isCheck": false,
+              "options": [{"id": 1, "label": "small", "val": 1}, {"id": 2, "label": "normal", "val": 2}, {"id": 3, "label": "big", "val": 3}]
+          },
+          {
+              "name": "quickfire_scale",
+              "isCheck": false,
+              "options": [{"id": 1, "label": "small", "val": 1}, {"id": 2, "label": "normal", "val": 2}, {"id": 3, "label": "big", "val": 3}]
+          },
+          {
+              "name": "radar_scale",
+              "isCheck": false,
+              "options": [{"id": 1, "label": "small", "val": 1}, {"id": 2, "label": "normal", "val": 2}, {"id": 3, "label": "big", "val": 3}]
+          },
+          {
+              "name": "font_scale",
+              "isCheck": false,
+              "options": [{"id": 1, "label": "small", "val": 1}, {"id": 2, "label": "normal", "val": 2}, {"id": 3, "label": "big", "val": 3}]
+          },
+          {
+              "name": "window_header_scale",
+              "isCheck": false,
+              "options": [{"id": 1, "label": "small", "val": 1}, {"id": 2, "label": "normal", "val": 2}, {"id": 3, "label": "big", "val": 3}]
+          },
+          {
+              "name": "ui_button_scale",
+              "isCheck": false,
+              "options": [{"id": 1, "label": "small", "val": 1}, {"id": 2, "label": "normal", "val": 2}, {"id": 3, "label": "big", "val": 3}]
+          }
+      ]
       ]
     },
     {
@@ -1399,6 +1444,25 @@
       },
       "content": {}
     },
+      {
+        "id": 34,
+        "position": 34,
+        "name": "piratemapmanager",
+        "icon": "piratehunt",
+        "label": "piratemapmanager_label",
+        "isOpen": false,
+        "hasComponent": true,
+        "size": {
+            "minW": 700,
+            "minH": 450
+        },
+        "controller": {
+            "x": 0,
+            "y": 156,
+            "useDefPosition": true
+        },
+        "content": {}
+      },
     {
       "id": 34,
       "position": 34,
@@ -2652,25 +2716,6 @@
         "useDefPosition": true
       },
       "content": {}
-    },
-      {
-      "id": 34,
-      "position": 34,
-      "name": "piratemapmanager",
-      "icon": "piratehunt",
-      "label": "piratemapmanager_label",
-      "isOpen": false,
-      "hasComponent": true,
-      "size": {
-          "minW": 700,
-          "minH": 450
-      },
-      "controller": {
-          "x": 0,
-          "y": 156,
-          "useDefPosition": true
-      },
-      "content": {}
-  }
+    }
   ]
 }

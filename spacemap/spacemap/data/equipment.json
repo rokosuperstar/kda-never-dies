@@ -75,49 +75,49 @@
             "laser": 5,
             "generator": 4,
             "gear": 0,
-            "protocol": 0
+            "protocol": 1
         },
         "9": {
             "laser": 5,
             "generator": 5,
             "gear": 0,
-            "protocol": 0
+            "protocol": 1
         },
         "10": {
             "laser": 6,
             "generator": 5,
             "gear": 0,
-            "protocol": 0
+            "protocol": 1
         },
         "11": {
             "laser": 6,
             "generator": 6,
             "gear": 0,
-            "protocol": 0
+            "protocol": 1
         },
         "12": {
             "laser": 7,
             "generator": 7,
             "gear": 0,
-            "protocol": 0
+            "protocol": 1
         },
         "13": {
             "laser": 8,
             "generator": 8,
             "gear": 0,
-            "protocol": 0
+            "protocol": 1
         },
         "14": {
             "laser": 9,
             "generator": 9,
             "gear": 0,
-            "protocol": 0
+            "protocol": 1
         },
         "15": {
             "laser": 10,
             "generator": 10,
             "gear": 0,
-            "protocol": 1
+            "protocol": 2
         }
     },
     "equipmentAvailable": {
@@ -143,13 +143,21 @@
             "4": {"id": 4, "popoverKey": "skm-04", "iconPath": "/skill/ship", "name": "skm-04", "compatibleShipClass": [1,12,13,14,20,21], "type": "extra", "subtype": "ship", "sizes": ["30", "63", "100"]},
             "5": {"id": 5, "popoverKey": "skm-05", "iconPath": "/skill/ship", "name": "skm-05", "compatibleShipClass": [1,12,13,14,20,21], "type": "extra", "subtype": "ship", "sizes": ["30", "63", "100"]},
             "6": {"id": 6, "popoverKey": "skm-06", "iconPath": "/skill/ship", "name": "skm-06", "compatibleShipClass": [2,15,12,19], "type": "extra", "subtype": "ship", "sizes": ["30", "63", "100"]},
-            "7": {"id": 7, "popoverKey": "skm-07", "iconPath": "/skill/ship", "name": "skm-07", "compatibleShipClass": [4], "type": "extra", "subtype": "ship", "sizes": ["30", "63", "100"]}
+            "7": {"id": 7, "popoverKey": "skm-07", "iconPath": "/skill/ship", "name": "skm-07", "compatibleShipClass": [4], "type": "extra", "subtype": "ship", "sizes": ["30", "63", "100"]},
+            "15": { "id": 15, "popoverKey": "skm-15", "iconPath": "/skill/ship", "name": "skm-15", "compatibleShipClass": [25, 12], "type": "extra", "subtype": "ship", "sizes": ["30", "63", "100"] },
+            "16": { "id": 16, "popoverKey": "skm-16", "iconPath": "/skill/ship", "name": "skm-16", "compatibleShipClass": [25, 12], "type": "extra", "subtype": "ship", "sizes": ["30", "63", "100"] },
+            "17": { "id": 17, "popoverKey": "skm-17", "iconPath": "/skill/ship", "name": "skm-17", "compatibleShipClass": [25, 12], "type": "extra", "subtype": "ship", "sizes": ["30", "63", "100"] },
+            "18": { "id": 18, "popoverKey": "skm-18", "iconPath": "/skill/ship", "name": "skm-18", "compatibleShipClass": [24, 12], "type": "extra", "subtype": "ship", "sizes": ["30", "63", "100"] },
+            "19": { "id": 19, "popoverKey": "skm-19", "iconPath": "/skill/ship", "name": "skm-19", "compatibleShipClass": [24, 12], "type": "extra", "subtype": "ship", "sizes": ["30", "63", "100"] },
+            "20": { "id": 20, "popoverKey": "skm-20", "iconPath": "/skill/ship", "name": "skm-20", "compatibleShipClass": [24, 12], "type": "extra", "subtype": "ship", "sizes": ["30", "63", "100"] },
+            "21": { "id": 21, "popoverKey": "skm-21", "iconPath": "/skill/ship", "name": "skm-21", "compatibleShipClass": [24, 12], "type": "extra", "subtype": "ship", "sizes": ["30", "63", "100"] }
         },
         "module": {
             "1": {"id": 1, "popoverKey": "mhon-01", "iconPath": "/module", "name": "mhon-01", "type": "module", "subtype": "ship", "sizes": ["30", "63", "100"]},
             "2": {"id": 2, "popoverKey": "mn-01", "iconPath": "/module", "name": "mn-01", "type": "module", "subtype": "ship", "sizes": ["30", "63", "100"]},
             "3": {"id": 3, "popoverKey": "mx-01", "iconPath": "/module", "name": "mx-01", "type": "module", "subtype": "ship", "sizes": ["30", "63", "100"]},
-            "7": { "id": 7, "simple": "MSRGBN-01", "popoverKey": "msrgbn-01", "iconPath": "/module", "name": "msrgbn-01", "type": "module", "subtype": "ship", "sizes": ["30", "63", "100"], "itemOfferConfig": { "type": "range", "min": 0, "max": 360 } }
+            "7": { "id": 7, "simple": "MSRGBN-01", "popoverKey": "msrgbn-01", "iconPath": "/module", "name": "msrgbn-01", "type": "module", "subtype": "ship", "sizes": ["30", "63", "100"], "itemOfferConfig": { "type": "range", "min": 0, "max": 360 } },
+            "8": { "id": 8, "simple": "MHVN-01", "popoverKey": "mhvn-01", "iconPath": "/module", "name": "mhvn-01", "type": "module", "subtype": "ship", "sizes": ["30", "63", "100"], "itemOfferConfig": { "type": "range", "min": 0, "max": 360 } }
         },
         "structureModule": {
             "4": {"id": 4, "popoverKey": "md-01", "iconPath": "/structureModule", "name": "md-01", "type": "structureModule", "subtype": "ship", "sizes": ["30", "63", "100"]},
@@ -174,7 +182,14 @@
         "4": "NR", 
         "5": "WS",
         "6": "AB",
-        "7": "RF"
+        "7": "RF",
+        "15": "GHB",
+        "16": "HPB",
+        "17": "SHDB",
+        "18": "SB",
+        "19": "DF",
+        "20": "ET",
+        "21": "FTF"
     },
     "droneTypeMaxSlots": {
         "flax": 1,
@@ -209,6 +224,9 @@
         "86": "P.E.T. Green",
         "87": "P.E.T. Red",
         "127": "P.E.T. Santa",
-        "131": "P.E.T. Frosty"
+        "131": "P.E.T. Frosty",
+        "158": "P.E.T. Gold",
+        "174": "P.E.T. Inferno",
+        "182": "P.E.T. Carbonite"
     }
 }

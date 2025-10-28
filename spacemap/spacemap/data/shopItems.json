@@ -339,8 +339,25 @@
           "160": { "name": "Veng-Gold", "icon": "venggold", "desc": "vgold_shop_desc" },
           "163": { "name": "Phoenix Champion", "icon": "phoenixchamp", "desc": "phoenixchamp_shop_desc" },
           "164": { "name": "G-Sakura", "icon": "gsakura", "desc": "gsakura_shop_desc" },
+          "168": { "name": "Venom-Inferno", "icon": "venominferno", "desc": "venomrage_shop_desc" },
+          "169": { "name": "Sentinel-Inferno", "icon": "sentinelinferno", "desc": "sentinelrage_shop_desc" },
+          "170": { "name": "Solace-Inferno", "icon": "solaceinferno", "desc": "solacerage_shop_desc" },
+          "171": { "name": "Diminisher-Inferno", "icon": "dimiinferno", "desc": "dimirage_shop_desc" },
+          "172": { "name": "Spectrum-Inferno", "icon": "spectruminferno", "desc": "spectrumrage_shop_desc" },
           "173": { "name": "G-inferno", "icon": "ginferno", "desc": "ginferno_shop_desc" },
-          "175": { "name": "G-Pirate", "icon": "gpirate", "desc": "ginfiltrator_shop_desc" }
+          "175": { "name": "G-Pirate", "icon": "gpirate", "desc": "ginfiltrator_shop_desc" },
+          "176": { "name": "Citadel", "icon": "citadel", "desc": "citadel_shop_desc" },
+          "177": { "name": "Aegis", "icon": "aegis", "desc": "aegis_shop_desc" },
+          "179": { "name": "N-Starhawk-Inferno", "icon": "starhawkinferno", "desc": "starhawkinferno_shop_desc" },
+          "180": { "name": "Goliath-Heaven", "icon": "gheaven", "desc": "gheaven_shop_desc" },
+          "181": { "name": "Goliath-Carbonite", "icon": "gCarbonite", "desc": "gCarbonite_shop_desc" },
+          "182": { "name": "PET-Carbonite", "icon": "PETCarbonite", "desc": "PETCarbonite_shop_desc" },
+          "183": { "name": "Solace-Carbonite", "icon": "carboniteSolace", "desc": "carboniteSolace_shop_desc" },
+          "184": { "name": "Spectrum-Carbonite", "icon": "carboniteSpectrum", "desc": "carboniteSpectrum_shop_desc" },
+          "185": { "name": "Vengeance-Carbonite", "icon": "vops", "desc": "vops_shop_desc" },
+          "186": { "name": "Vengeance-Spooky", "icon": "vspooky", "desc": "vspooky_shop_desc" },
+          "187": { "name": "Goliath-Spooky", "icon": "gspooky", "desc": "gspooky_shop_desc" },
+          "188": { "name": "Sentinel-Carbonite", "icon": "carboniteSentinel", "desc": "carboniteSentinel_shop_desc" }
     },
     "2": {
         "1": {
@@ -452,7 +469,8 @@
             "name": "Vandal",
             "icon": "vandal",
             "desc": "dd_vandal"
-        }
+        },
+        "18": { "name": "DF-VALOR", "icon": "f18valor", "desc": "fvalor_shop_desc" }
     },
     "4": {
         "1": {
@@ -537,7 +555,14 @@
                 "rapidFire"
             ],
             "desc": "skm-07_shop_desc"
-        }
+        },
+        "15": { "name": "SKM-GHB", "icon": "skm-15", "iconBg": "shipRepre", "keyPath": ["vfx", "rapidFire"], "desc": "skm-15_shop_desc" },
+        "16": { "name": "SKM-HPB", "icon": "skm-16", "iconBg": "shipRepre", "keyPath": ["vfx", "rapidFire"], "desc": "skm-16_shop_desc" },
+        "17": { "name": "SKM-SHDB", "icon": "skm-17", "iconBg": "shipRepre", "keyPath": ["vfx", "rapidFire"], "desc": "skm-17_shop_desc" },
+        "18": { "name": "SKM-SB", "icon": "skm-18", "iconBg": "shipRepre", "keyPath": ["vfx", "rapidFire"], "desc": "skm-18_shop_desc" },
+        "19": { "name": "SKM-DF", "icon": "skm-19", "iconBg": "shipRepre", "keyPath": ["vfx", "rapidFire"], "desc": "skm-19_shop_desc" },
+        "20": { "name": "SKM-ET", "icon": "skm-20", "iconBg": "shipRepre", "keyPath": ["vfx", "rapidFire"], "desc": "skm-20_shop_desc" },
+        "21": { "name": "SKM-FTF", "icon": "skm-21", "iconBg": "shipRepre", "keyPath": ["vfx", "rapidFire"], "desc": "skm-21_shop_desc" }
     },
     "6": {
         "1": {
@@ -898,5 +923,28 @@
     "14": {
       "1": { "name": "PE-SCR-01", "icon": "protocol1", "desc": "pal_enhance1" },
       "2": { "name": "PE-SCR-02", "icon": "protocol2", "desc": "pal_enhance2" }
+    },
+    "15": {
+        "2_4": {"name": "RECIPE-HST-2"},
+        "1_9": {"name": "RECIPE-LEONOV"},
+        "1_5": {"name": "RECIPE-VIPER"},
+        "1_14": {"name": "RECIPE-GRYPHON"},
+        "2_1": {"name": "RECIPE-LW-4"},
+        "3_5": {"name": "RECIPE-DD-HAVOC"},
+        "3_6": {"name": "RECIPE-DD-HERCULES"},
+        "7_8": {"name": "RECIPE-HRP-01"},
+        "7_11": {"name": "RECIPE-SMC-02"},
+        "12_1": {"name": "RECIPE-MHON-01"},
+        "12_3": {"name": "RECIPE-MX-01"},
+        "12_4": {"name": "RECIPE-MD-01"},
+        "12_5": {"name": "RECIPE-MH-01"},
+        "12_6": {"name": "RECIPE-MS-01"},
+        "3_13": {"name": "RECIPE-F-BAT"},
+        "4_3": {"name": "RECIPE-X-SHG3N-PRL"},
+        "3_18": {"name": "RECIPE-F-VALOR"},
+        "14_2": {"name": "RECIPE-PE-SCR-02"}
+    },
+    "16": {
+        "10": {"name": "Astral Challenge Part","icon": "ggastral", "desc": "gg_astral_challenge"}
     }
 }

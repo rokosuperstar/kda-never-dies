@@ -150,15 +150,6 @@
             true,
             true
         ],
-        "Pirate": [
-            "stations/basePirate",
-            0,
-            0,
-            true,
-            true,
-            true,
-            true
-        ],
         "Mmo": [
             "stations/baseMmo",
             0,
@@ -231,6 +222,15 @@
             true,
             true
         ],
+        "Pirates": [
+            "stations/basePirate",
+            0,
+            0,
+            true,
+            true,
+            true,
+            true
+        ],
         "VruAdvanced": [
             "stations/baseVruAdvanced",
             0,
@@ -287,6 +287,33 @@
         ],
         "clan_op_hubvru": [
             "stations/clanOpsVru",
+            0,
+            0,
+            false,
+            true,
+            true,
+            true
+        ],
+        "clan_member_quartersmmo": [
+            "stations/clanQuartersMmo",
+            0,
+            0,
+            false,
+            true,
+            true,
+            true
+        ],
+        "clan_member_quarterseic": [
+            "stations/clanQuartersEic",
+            0,
+            0,
+            false,
+            true,
+            true,
+            true
+        ],
+        "clan_member_quartersvru": [
+            "stations/clanQuartersVru",
             0,
             0,
             false,
@@ -632,6 +659,16 @@
             true,
             "jpg"
         ],
+        "32": [
+            "backgrounds/background32",
+            0,
+            0,
+            false,
+            true,
+            true,
+            true,
+            "jpg"
+        ],
         "42": [
             "backgrounds/background42",
             0,
@@ -912,6 +949,16 @@
             true,
             "jpg"
         ],
+        "354": [
+            "backgrounds/background354",
+            0,
+            0,
+            false,
+            true,
+            true,
+            true,
+            "jpg"
+        ],
         "355": [
             "backgrounds/background355",
             0,
@@ -922,8 +969,8 @@
             true,
             "jpg"
         ],
-        "777": [
-            "backgrounds/background777",
+        "356": [
+            "backgrounds/background356",
             0,
             0,
             false,
@@ -932,8 +979,8 @@
             true,
             "jpg"
         ],
-        "9999": [
-            "backgrounds/background9999",
+        "357": [
+            "backgrounds/background357",
             0,
             0,
             false,
@@ -941,7 +988,39 @@
             true,
             true,
             "jpg"
-        ]
+        ],
+        "361": [
+            "backgrounds/background361",
+            0,
+            0,
+            false,
+            true,
+            true,
+            true,
+            "jpg"
+        ],
+        "362": [
+            "backgrounds/background362",
+            0,
+            0,
+            false,
+            true,
+            true,
+            true,
+            "jpg"
+        ],
+        "364": [
+            "backgrounds/background364",
+            0,
+            0,
+            false,
+            true,
+            true,
+            true,
+            "jpg"
+        ],
+        "365": { "path": "backgrounds/background365", "end": 0, "start": 0, "isWebp": false, "preload": false, "unload": true, "isSingleFile": true, "customExtension": "jpg" },
+        "366": { "path": "backgrounds/background366", "end": 0, "start": 0, "isWebp": false, "preload": false, "unload": true, "isSingleFile": true, "customExtension": "jpg" }
     },
     "shipsSimple": {
         "1": [
@@ -1594,7 +1673,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1605,7 +1684,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1616,7 +1695,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1627,7 +1706,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1638,7 +1717,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1649,7 +1728,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1660,7 +1739,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1671,7 +1750,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1682,7 +1761,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1693,7 +1772,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1704,7 +1783,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1715,7 +1794,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1726,7 +1805,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1737,7 +1816,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1748,7 +1827,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1759,7 +1838,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1770,7 +1849,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1781,7 +1860,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1792,7 +1871,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1803,7 +1882,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1814,7 +1893,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1825,7 +1904,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1836,7 +1915,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1847,7 +1926,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1858,7 +1937,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1869,7 +1948,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1880,7 +1959,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1891,7 +1970,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1902,7 +1981,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1912,8 +1991,8 @@
             "end": 64,
             "start": 0,
             "isWebp": true,
-            "preload": true,
-            "unload": true,
+            "preload": false,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1923,8 +2002,8 @@
             "end": 64,
             "start": 0,
             "isWebp": true,
-            "preload": true,
-            "unload": true,
+            "preload": false,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1935,7 +2014,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1946,7 +2025,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1957,7 +2036,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1968,7 +2047,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1979,7 +2058,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -1990,7 +2069,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2001,7 +2080,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2012,29 +2091,29 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "40": {
             "path": "ships/kristallin",
-            "end": 2,
-            "start": 1,
+            "end": 82,
+            "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "41": {
             "path": "ships/kristallon",
-            "end": 2,
-            "start": 1,
+            "end": 82,
+            "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2045,7 +2124,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2056,7 +2135,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2067,7 +2146,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2078,7 +2157,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2089,7 +2168,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2100,7 +2179,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2111,7 +2190,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2122,7 +2201,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2133,7 +2212,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2144,7 +2223,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2155,7 +2234,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2166,7 +2245,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2177,7 +2256,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2188,7 +2267,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2199,7 +2278,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2210,18 +2289,18 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "58": {
-            "path": "ships/devourer",
-            "end": 16,
+            "path": "ships/havoc",
+            "end": 15,
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2232,7 +2311,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2243,7 +2322,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2254,7 +2333,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2265,29 +2344,29 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "63": {
             "path": "ships/bosslordakia",
-            "end": 32,
-            "start": 1,
+            "end": 31,
+            "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "65": {
             "path": "ships/bossmordon",
-            "end": 16,
-            "start": 1,
+            "end": 15,
+            "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2298,7 +2377,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2309,95 +2388,95 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "68": {
             "path": "ships/bosssibelonit",
-            "end": 32,
-            "start": 1,
+            "end": 31,
+            "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "69": {
             "path": "ships/bosslordakium",
-            "end": 22,
-            "start": 1,
+            "end": 21,
+            "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "70": {
             "path": "ships/bosskristallin",
-            "end": 2,
-            "start": 1,
+            "end": 82,
+            "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "71": {
             "path": "ships/bosskristallon",
-            "end": 2,
-            "start": 1,
+            "end": 82,
+            "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "72": {
             "path": "ships/uberkristallin",
-            "end": 2,
-            "start": 1,
+            "end": 82,
+            "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "73": {
             "path": "ships/uberkristallon",
-            "end": 2,
-            "start": 1,
+            "end": 82,
+            "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "74": {
             "path": "ships/kuc",
-            "end": 36,
-            "start": 1,
+            "end": 35,
+            "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "75": {
             "path": "ships/bosskuc",
-            "end": 36,
-            "start": 1,
+            "end": 35,
+            "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2408,7 +2487,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2419,7 +2498,7 @@
             "start": 0,
             "isWebp": false,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2430,7 +2509,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2441,7 +2520,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2452,7 +2531,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2463,7 +2542,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2474,7 +2553,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2485,7 +2564,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2496,73 +2575,73 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "85": {
-            "path": "ships/phoenixPET",
-            "end": 64,
+            "path": "ships/petCubikon",
+            "end": 32,
             "start": 0,
-            "isWebp": true,
+            "isWebp": false,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "86": {
-            "path": "ships/greenPET",
-            "end": 64,
+            "path": "ships/petGreenWhite",
+            "end": 32,
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "87": {
-            "path": "ships/redPET",
-            "end": 64,
+            "path": "ships/petRed",
+            "end": 32,
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "88": {
             "path": "ships/icemeteroid",
-            "end": 61,
-            "start": 1,
+            "end": 60,
+            "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": false,
+            "unload": true,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "89": {
             "path": "ships/refereebot",
-            "end": 8,
+            "end": 32,
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": false,
+            "unload": true,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "90": {
             "path": "ships/robot",
-            "end": 8,
+            "end": 32,
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": false,
+            "unload": true,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2572,8 +2651,8 @@
             "end": 64,
             "start": 0,
             "isWebp": true,
-            "preload": false,
-            "unload": false,
+            "preload": true,
+            "unload": true,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2583,7 +2662,7 @@
             "end": 64,
             "start": 0,
             "isWebp": true,
-            "preload": false,
+            "preload": true,
             "unload": false,
             "isSingleFile": false,
             "customExtension": null,
@@ -2594,8 +2673,8 @@
             "end": 64,
             "start": 0,
             "isWebp": true,
-            "preload": false,
-            "unload": false,
+            "preload": true,
+            "unload": true,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2605,7 +2684,7 @@
             "end": 64,
             "start": 0,
             "isWebp": true,
-            "preload": false,
+            "preload": true,
             "unload": false,
             "isSingleFile": false,
             "customExtension": null,
@@ -2617,7 +2696,7 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2627,8 +2706,8 @@
             "end": 0,
             "start": 0,
             "isWebp": false,
-            "preload": true,
-            "unload": true,
+            "preload": false,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2638,8 +2717,8 @@
             "end": 0,
             "start": 0,
             "isWebp": false,
-            "preload": true,
-            "unload": true,
+            "preload": false,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2649,8 +2728,8 @@
             "end": 0,
             "start": 0,
             "isWebp": false,
-            "preload": true,
-            "unload": true,
+            "preload": false,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2660,8 +2739,8 @@
             "end": 0,
             "start": 0,
             "isWebp": false,
-            "preload": true,
-            "unload": true,
+            "preload": false,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2671,8 +2750,8 @@
             "end": 0,
             "start": 0,
             "isWebp": false,
-            "preload": true,
-            "unload": true,
+            "preload": false,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2682,8 +2761,8 @@
             "end": 0,
             "start": 0,
             "isWebp": false,
-            "preload": true,
-            "unload": true,
+            "preload": false,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2693,8 +2772,8 @@
             "end": 2,
             "start": 0,
             "isWebp": false,
-            "preload": true,
-            "unload": true,
+            "preload": false,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2704,8 +2783,8 @@
             "end": 0,
             "start": 0,
             "isWebp": false,
-            "preload": true,
-            "unload": true,
+            "preload": false,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2715,8 +2794,8 @@
             "end": 0,
             "start": 0,
             "isWebp": false,
-            "preload": true,
-            "unload": true,
+            "preload": false,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2726,8 +2805,8 @@
             "end": 0,
             "start": 0,
             "isWebp": false,
-            "preload": true,
-            "unload": true,
+            "preload": false,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2736,9 +2815,9 @@
             "path": "ships/nstarhawk",
             "end": 64,
             "start": 0,
-            "isWebp": false,
+            "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2747,9 +2826,9 @@
             "path": "ships/golitech",
             "end": 64,
             "start": 0,
-            "isWebp": false,
+            "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2759,7 +2838,7 @@
             "end": 31,
             "start": 0,
             "isWebp": false,
-            "preload": true,
+            "preload": false,
             "unload": true,
             "isSingleFile": false,
             "customExtension": null,
@@ -2770,7 +2849,7 @@
             "end": 64,
             "start": 0,
             "isWebp": true,
-            "preload": true,
+            "preload": false,
             "unload": false,
             "isSingleFile": false,
             "customExtension": null,
@@ -2814,20 +2893,20 @@
             "end": 0,
             "start": 0,
             "isWebp": false,
-            "preload": true,
-            "unload": true,
+            "preload": false,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "114": {
             "path": "ships/devourer",
-            "end": 16,
+            "end": 15,
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
-            "isSingleFile": true,
+            "unload": false,
+            "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
@@ -2847,8 +2926,8 @@
             "end": 64,
             "start": 0,
             "isWebp": true,
-            "preload": true,
-            "unload": true,
+            "preload": false,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2858,8 +2937,8 @@
             "end": 32,
             "start": 0,
             "isWebp": true,
-            "preload": true,
-            "unload": true,
+            "preload": false,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2870,7 +2949,7 @@
             "start": 0,
             "isWebp": true,
             "preload": false,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -2889,7 +2968,7 @@
         "120": {
             "path": "ships/poland",
             "end": 64,
-            "start": 0,
+            "startF": 0,
             "isWebp": true,
             "preload": true,
             "unload": false,
@@ -2932,31 +3011,31 @@
         },
         "124": {
             "path": "ships/superIceAsteroid",
-            "end": 10,
+            "end": 0,
             "start": 0,
             "isWebp": false,
-            "preload": true,
-            "unload": false,
+            "preload": false,
+            "unload": true,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "125": {
             "path": "ships/emperorCrylox",
-            "end": 8,
+            "end": 0,
             "start": 0,
             "isWebp": false,
-            "preload": true,
-            "unload": false,
+            "preload": false,
+            "unload": true,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "126": {
             "path": "ships/santaBot",
-            "end": 64,
+            "end": 31,
             "start": 0,
-            "isWebp": true,
+            "isWebp": false,
             "preload": false,
             "unload": true,
             "isSingleFile": false,
@@ -2964,7 +3043,7 @@
             "useAtlas": false
         },
         "127": {
-            "path": "ships/santaPET",
+            "path": "ships/phoenixFrosty",
             "end": 64,
             "start": 0,
             "isWebp": true,
@@ -2980,13 +3059,13 @@
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "129": {
-            "path": "ships/vengeanceFrost",
+            "path": "ships/vfrost",
             "end": 64,
             "start": 0,
             "isWebp": true,
@@ -2997,7 +3076,7 @@
             "useAtlas": false
         },
         "130": {
-            "path": "ships/phoenixFrost",
+            "path": "ships/phoenixFrosty",
             "end": 64,
             "start": 0,
             "isWebp": true,
@@ -3008,12 +3087,12 @@
             "useAtlas": false
         },
         "131": {
-            "path": "ships/xmasPET",
-            "end": 64,
+            "path": "ships/frostPET",
+            "end": 32,
             "start": 0,
             "isWebp": true,
             "preload": true,
-            "unload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
@@ -3023,7 +3102,7 @@
             "end": 64,
             "start": 0,
             "isWebp": true,
-            "preload": false,
+            "preload": true,
             "unload": false,
             "isSingleFile": false,
             "customExtension": null,
@@ -3034,7 +3113,7 @@
             "end": 64,
             "start": 0,
             "isWebp": true,
-            "preload": false,
+            "preload": true,
             "unload": false,
             "isSingleFile": false,
             "customExtension": null,
@@ -3045,7 +3124,7 @@
             "end": 64,
             "start": 0,
             "isWebp": true,
-            "preload": false,
+            "preload": true,
             "unload": false,
             "isSingleFile": false,
             "customExtension": null,
@@ -3056,7 +3135,7 @@
             "end": 64,
             "start": 0,
             "isWebp": true,
-            "preload": false,
+            "preload": true,
             "unload": false,
             "isSingleFile": false,
             "customExtension": null,
@@ -3067,7 +3146,7 @@
             "end": 64,
             "start": 0,
             "isWebp": true,
-            "preload": false,
+            "preload": true,
             "unload": false,
             "isSingleFile": false,
             "customExtension": null,
@@ -3096,77 +3175,11 @@
             "useAtlas": false
         },
         "139": {
-            "path": "ships/goliplus",
+            "path": "ships/gonyan",
             "end": 64,
             "start": 0,
             "isWebp": true,
-            "preload": true,
-            "unload": true,
-            "isSingleFile": false,
-            "customExtension": null,
-            "useAtlas": false
-        },
-        "140": {
-            "path": "ships/gspacearia",
-            "end": 64,
-            "start": 0,
-            "isWebp": false,
-            "preload": true,
-            "unload": true,
-            "isSingleFile": false,
-            "customExtension": null,
-            "useAtlas": false
-        },
-        "141": {
-            "path": "ships/goliathFire",
-            "end": 64,
-            "start": 0,
-            "isWebp": true,
-            "preload": true,
-            "unload": true,
-            "isSingleFile": false,
-            "customExtension": null,
-            "useAtlas": false
-        },
-        "142": {
-            "path": "ships/gignitedefault",
-            "end": 64,
-            "start": 0,
-            "isWebp": true,
-            "preload": true,
-            "unload": false,
-            "isSingleFile": false,
-            "customExtension": null,
-            "useAtlas": false
-        },
-        "143": {
-            "path": "ships/gplusred",
-            "end": 64,
-            "start": 0,
-            "isWebp": true,
-            "preload": true,
-            "unload": true,
-            "isSingleFile": false,
-            "customExtension": null,
-            "useAtlas": false
-        },
-        "144": {
-            "path": "ships/gplusorange",
-            "end": 60,
-            "start": 0,
-            "isWebp": true,
-            "preload": true,
-            "unload": true,
-            "isSingleFile": false,
-            "customExtension": null,
-            "useAtlas": false
-        },
-        "145": {
-            "path": "ships/gplusblue",
-            "end": 64,
-            "start": 0,
-            "isWebp": true,
-            "preload": true,
+            "preload": false,
             "unload": true,
             "isSingleFile": false,
             "customExtension": null,
@@ -3177,17 +3190,17 @@
             "end": 64,
             "start": 0,
             "isWebp": true,
-            "preload": true,
+            "preload": false,
             "unload": true,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "147": {
-            "path": "ships/venomVAL",
-            "end": 64,
+            "path": "ships/leolove",
+            "end": 59,
             "start": 0,
-            "isWebp": true,
+            "isWebp": false,
             "preload": true,
             "unload": true,
             "isSingleFile": false,
@@ -3218,7 +3231,7 @@
         },
         "150": {
             "path": "ships/beacon",
-            "end": 1,
+            "end": 0,
             "start": 0,
             "isWebp": false,
             "preload": true,
@@ -3228,76 +3241,76 @@
             "useAtlas": false
         },
         "151": {
-            "path": "ships/sentinelgold",
+            "path": "ships/goldSentinel",
             "end": 64,
             "start": 0,
             "isWebp": false,
-            "preload": false,
-            "unload": true,
+            "preload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "152": {
-            "path": "ships/goligold",
+            "path": "ships/goldGoli",
             "end": 64,
             "start": 0,
             "isWebp": true,
-            "preload": false,
-            "unload": true,
+            "preload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "153": {
-            "path": "ships/solacegold",
+            "path": "ships/goldSolace",
             "end": 64,
             "start": 0,
             "isWebp": false,
-            "preload": false,
-            "unload": true,
+            "preload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "154": {
-            "path": "ships/diminishergold",
+            "path": "ships/goldDiminisher",
             "end": 64,
             "start": 0,
             "isWebp": false,
-            "preload": false,
-            "unload": true,
+            "preload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "155": {
-            "path": "ships/spectrumgold",
+            "path": "ships/goldSpectrum",
             "end": 64,
             "start": 0,
             "isWebp": false,
-            "preload": false,
-            "unload": true,
+            "preload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "156": {
-            "path": "ships/venomgold",
+            "path": "ships/goldVenom",
             "end": 64,
             "start": 0,
             "isWebp": false,
-            "preload": false,
-            "unload": true,
+            "preload": true,
+            "unload": false,
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
         },
         "157": {
-            "path": "ships/BDAYboss",
-            "end": 36,
-            "start": 1,
-            "isWebp": true,
+            "path": "ships/cakeBoss",
+            "end": 0,
+            "start": 0,
+            "isWebp": false,
             "preload": false,
             "unload": true,
             "isSingleFile": false,
@@ -3306,18 +3319,7 @@
         },
         "158": {
             "path": "ships/goldPET",
-            "end": 64,
-            "start": 0,
-            "isWebp": true,
-            "preload": false,
-            "unload": true,
-            "isSingleFile": false,
-            "customExtension": null,
-            "useAtlas": false
-        },
-        "160": {
-            "path": "ships/goldvengi",
-            "end": 64,
+            "end": 32,
             "start": 0,
             "isWebp": false,
             "preload": false,
@@ -3326,9 +3328,20 @@
             "customExtension": null,
             "useAtlas": false
         },
+        "160": {
+            "path": "ships/goldVeng",
+            "end": 64,
+            "start": 0,
+            "isWebp": false,
+            "preload": true,
+            "unload": false,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        },
         "161": {
-            "path": "ships/satelit",
-            "end": 2,
+            "path": "ships/satellite",
+            "end": 31,
             "start": 0,
             "isWebp": false,
             "preload": false,
@@ -3350,7 +3363,7 @@
         },
         "163": {
             "path": "ships/phoenixChampion",
-            "end": 64,
+            "end": 32,
             "start": 0,
             "isWebp": true,
             "preload": false,
@@ -3370,132 +3383,359 @@
             "customExtension": null,
             "useAtlas": false
         },
-        "165": { "path": "ships/saboteur", "end": 32, "start": 0, "isWebp": true, "preload": false, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
-        "166": { "path": "ships/demanerFreighter", "end": 32, "start": 0, "isWebp": true, "preload": false, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
-        "167": { "path": "ships/battleray", "end": 32, "start": 0, "isWebp": false, "preload": false, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
-        "168": { "path": "ships/infernoVenom", "end": 32, "start": 0, "isWebp": true, "preload": false, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
-        "169": { "path": "ships/infernoSentinel", "end": 32, "start": 0, "isWebp": true, "preload": false, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
-        "170": { "path": "ships/infernoSolace", "end": 32, "start": 0, "isWebp": true, "preload": false, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
-        "171": { "path": "ships/infernoDimi", "end": 32, "start": 0, "isWebp": true, "preload": false, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
-        "172": { "path": "ships/infernoSpectrum", "end": 32, "start": 0, "isWebp": true, "preload": false, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
-        "173":{"path":"ships/ginferno","end":63,"start":0,"isWebp":true,"preload":false,"unload":true,"isSingleFile":false,"customExtension":null,"useAtlas":false},
-        "174":{"path":"ships/petInferno","end":32,"start":0,"isWebp":true,"preload":true,"unload":false,"isSingleFile":false,"customExtension":null,"useAtlas":false},
-        "175": { "path": "ships/gPirate", "end": 64, "start": 0, "isWebp": true, "preload": true, "unload": false, "isSingleFile": false, "customExtension": null, "useAtlas": false },
-        "179": { "path": "ships/infernoNostromo", "end": 31, "start": 0, "isWebp": true, "preload": true, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false }
+        "165": {
+            "path": "ships/saboteur",
+            "end": 32,
+            "start": 0,
+            "isWebp": true,
+            "preload": false,
+            "unload": true,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        },
+        "166": {
+            "path": "ships/demanerFreighter",
+            "end": 32,
+            "start": 0,
+            "isWebp": true,
+            "preload": false,
+            "unload": true,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        },
+        "167": {
+            "path": "ships/battleray",
+            "end": 32,
+            "start": 0,
+            "isWebp": false,
+            "preload": false,
+            "unload": true,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        },
+        "168": {
+            "path": "ships/infernoVenom",
+            "end": 32,
+            "start": 0,
+            "isWebp": true,
+            "preload": false,
+            "unload": true,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        },
+        "169": {
+            "path": "ships/infernoSentinel",
+            "end": 32,
+            "start": 0,
+            "isWebp": true,
+            "preload": false,
+            "unload": true,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        },
+        "170": {
+            "path": "ships/infernoSolace",
+            "end": 32,
+            "start": 0,
+            "isWebp": true,
+            "preload": false,
+            "unload": true,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        },
+        "171": {
+            "path": "ships/infernoDimi",
+            "end": 32,
+            "start": 0,
+            "isWebp": true,
+            "preload": false,
+            "unload": true,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        },
+        "172": {
+            "path": "ships/infernoSpectrum",
+            "end": 32,
+            "start": 0,
+            "isWebp": true,
+            "preload": false,
+            "unload": true,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        },
+        "173": {
+            "path": "ships/ginferno",
+            "end": 63,
+            "start": 0,
+            "isWebp": true,
+            "preload": false,
+            "unload": true,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        },
+        "174": {
+            "path": "ships/petInferno",
+            "end": 32,
+            "start": 0,
+            "isWebp": true,
+            "preload": true,
+            "unload": false,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        },
+        "175": {
+            "path": "ships/gPirate",
+            "end": 64,
+            "start": 0,
+            "isWebp": true,
+            "preload": true,
+            "unload": false,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        },
+        "176": { "path": "ships/citadel", "end": 32, "start": 0, "isWebp": true, "preload": true, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
+        "177": { "path": "ships/aegis", "end": 32, "start": 0, "isWebp": true, "preload": true, "unload": true, "isSingleFile": false, "customExtension": null, "useAtlas": false },
+        "179": {
+            "path": "ships/infernoNostromo",
+            "end": 31,
+            "start": 0,
+            "isWebp": true,
+            "preload": true,
+            "unload": true,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        },
+        "180": {
+            "path": "ships/gHeaven",
+            "end": 64,
+            "start": 0,
+            "isWebp": true,
+            "preload": true,
+            "unload": false,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        },
+        "181": {"path": "ships/gCarbonite", "end": 64, "start": 0, "isWebp": false, "preload": true, "unload": false, "isSingleFile": false, "customExtension": null, "useAtlas": false },
+        "182": {
+            "path": "ships/carbonitePET",
+            "end": 31,
+            "start": 0,
+            "isWebp": false,
+            "preload": true,
+            "unload": false,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        },
+        "183": {"path": "ships/carboniteSolace", "end": 64, "start": 0, "isWebp": false, "preload": true, "unload": false, "isSingleFile": false, "customExtension": null, "useAtlas": false },
+        "184": {"path": "ships/carboniteSpectrum", "end": 64, "start": 0, "isWebp": false, "preload": true, "unload": false, "isSingleFile": false, "customExtension": null, "useAtlas": false },
+        "185": {
+            "path": "ships/vops",
+            "end": 63,
+            "start": 0,
+            "isWebp": false,
+            "preload": true,
+            "unload": false,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        },
+        "186": {
+            "path": "ships/vSpooky",
+            "end": 64,
+            "start": 0,
+            "isWebp": false,
+            "preload": true,
+            "unload": false,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        },
+        "187": {
+            "path": "ships/gSpooky",
+            "end": 64,
+            "start": 0,
+            "isWebp": false,
+            "preload": true,
+            "unload": false,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        },
+        "188": {
+            "path": "ships/carboniteSentinel",
+            "end": 64,
+            "start": 0,
+            "isWebp": false,
+            "preload": true,
+            "unload": false,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        }
     },
     "minimap": {
         "dots": {
-            "pal": [
-                "minimap/pal",
-                0,
-                0,
-                false,
-                true,
-                true
-            ],
-            "cbswar": [
-                "minimap/cbswar",
-                0,
-                0,
-                false,
-                true,
-                true
-            ],
-            "cbsdead": [
-                "minimap/cbsdead",
-                0,
-                0,
-                false,
-                true,
-                true
-            ],
-            "cbsfaction": [
-                "minimap/cbsfaction",
-                0,
-                0,
-                false,
-                true,
-                true
-            ],
-            "cbsnoAttack": [
-                "minimap/cbsnap",
-                0,
-                0,
-                false,
-                true,
-                true
-            ],
-            "cbsalliance": [
-                "minimap/cbsally",
-                0,
-                0,
-                false,
-                true,
-                true
-            ]
+            "pal": {
+                "path": "minimap/pal",
+                "end": 0,
+                "start": 0,
+                "isWebp": false,
+                "preload": true,
+                "unload": false,
+                "isSingleFile": false,
+                "customExtension": null,
+                "useAtlas": false,
+                "holdImage": true
+            },
+            "cbswar": {
+                "path": "minimap/cbswar",
+                "end": 0,
+                "start": 0,
+                "isWebp": false,
+                "preload": true,
+                "unload": false,
+                "isSingleFile": false,
+                "customExtension": null,
+                "useAtlas": false,
+                "holdImage": true
+            },
+            "cbsdead": {
+                "path": "minimap/cbsdead",
+                "end": 0,
+                "start": 0,
+                "isWebp": false,
+                "preload": true,
+                "unload": false,
+                "isSingleFile": false,
+                "customExtension": null,
+                "useAtlas": false,
+                "holdImage": true
+            },
+            "cbsfaction": {
+                "path": "minimap/cbsfaction",
+                "end": 0,
+                "start": 0,
+                "isWebp": false,
+                "preload": true,
+                "unload": false,
+                "isSingleFile": false,
+                "customExtension": null,
+                "useAtlas": false,
+                "holdImage": true
+            },
+            "cbsnoAttack": {
+                "path": "minimap/cbsnap",
+                "end": 0,
+                "start": 0,
+                "isWebp": false,
+                "preload": true,
+                "unload": false,
+                "isSingleFile": false,
+                "customExtension": null,
+                "useAtlas": false,
+                "holdImage": true
+            },
+            "cbsalliance": {
+                "path": "minimap/cbsally",
+                "end": 0,
+                "start": 0,
+                "isWebp": false,
+                "preload": true,
+                "unload": false,
+                "isSingleFile": false,
+                "customExtension": null,
+                "useAtlas": false,
+                "holdImage": true
+            },
+            "beaconPassive": {
+                "path": "minimap/beaconPassive",
+                "end": 0,
+                "start": 0,
+                "isWebp": false,
+                "preload": true,
+                "unload": false,
+                "isSingleFile": false,
+                "customExtension": null,
+                "useAtlas": false,
+                "holdImage": true
+            }
         }
     },
     "ggGifer": {
         "0": [
             "ggGifer/0",
-            21,
-            1,
+            20,
+            0,
             true
         ],
         "1": [
             "ggGifer/1",
-            21,
-            1,
+            20,
+            0,
             true
         ],
         "2": [
             "ggGifer/2",
-            21,
-            1,
+            20,
+            0,
             true
         ],
         "3": [
             "ggGifer/3",
-            21,
-            1,
+            20,
+            0,
             true
         ],
         "4": [
             "ggGifer/4",
-            21,
-            1,
+            20,
+            0,
             true
         ],
         "5": [
             "ggGifer/5",
-            21,
-            1,
+            20,
+            0,
             true
         ],
         "6": [
             "ggGifer/6",
-            30,
-            1,
+            29,
+            0,
             true
         ],
         "7": [
             "ggGifer/7",
-            30,
-            1,
+            29,
+            0,
             false
         ],
         "8": [
             "ggGifer/0",
-            21,
-            1,
+            20,
+            0,
             true
         ]
     },
     "balls": {
         "0": [
             "balls/cup",
-            31,
-            1
+            30,
+            0
         ]
     },
     "ranks": {
@@ -3626,7 +3866,11 @@
             0,
             0
         ],
-        "5": ["ui/faction/5", 0, 0]
+        "5": [
+            "ui/faction/5",
+            0,
+            0
+        ]
     },
     "qc": {
         "bg": [
@@ -3648,35 +3892,6 @@
             true
         ]
     },
-    "statusEffect": {
-        "1": [
-            "ui/effect/weaponDisrupt",
-            0,
-            0,
-            false,
-            true,
-            true,
-            true
-        ],
-        "2": [
-            "ui/effect/slowdown",
-            0,
-            0,
-            false,
-            true,
-            true,
-            true
-        ],
-        "3": [
-            "ui/effect/invertedMovement",
-            0,
-            0,
-            false,
-            true,
-            true,
-            true
-        ]
-    },
     "smokes": {
         "0": [
             "smokes/engineSmoke",
@@ -3690,13 +3905,24 @@
             0,
             true
         ],
+        "3": [
+            "smokes/goldSmoke",
+            20,
+            0,
+            false
+        ],
         "trail": [
             "smokes/trailLong",
             70,
             0,
             false
         ],
-        "rageTrail": ["smokes/rageTrail", 49, 0, false],
+        "rageTrail": [
+            "smokes/rageTrail",
+            49,
+            0,
+            false
+        ],
         "engineSmoke": [
             "smokes/engineSmoke",
             20,
@@ -3726,26 +3952,26 @@
         "shockwave": {
             "0": [
                 "portals/jumpAnimation0",
-                5,
-                1
+                4,
+                0
             ],
             "1": [
                 "portals/jumpAnimation1",
-                17,
-                1,
+                16,
+                0,
                 true
             ],
             "2": [
                 "portals/jumpAnimation2",
-                12,
-                1,
+                11,
+                0,
                 false
             ],
-            "9999": [
-                "portals/jumpAnimation9999",
-                1,
-                1,
-                true
+            "3": [
+                "portals/jumpAnimationBday",
+                9,
+                0,
+                false
             ]
         },
         "portal": {
@@ -3862,15 +4088,15 @@
             "9": {
                 "idle": [
                     "portals/portal9",
-                    10,
-                    1
+                    9,
+                    0
                 ]
             },
             "10": {
                 "idle": [
                     "portals/portal10",
-                    10,
-                    1
+                    9,
+                    0
                 ]
             },
             "11": {
@@ -3923,15 +4149,25 @@
             },
             "16": {
                 "active": [
-                    "portals/portal13/active",
+                    "portals/portalBday/active",
                     1,
-                    0
+                    0,
+                    false
                 ],
                 "idle": [
-                    "portals/portal13/idle",
+                    "portals/portalBday/idle",
                     1,
-                    0
+                    0,
+                    false
                 ]
+            },
+            "18": {
+                "active": { "path": "portals/portalHades/active", "end": 1, "start": 0, "isWebp": false, "preload": true, "unload": false, "isSingleFile": false, "customExtension": null },
+                "idle": { "path": "portals/portalHades/idle", "end": 1, "start": 0, "isWebp": false, "preload": true, "unload": false, "isSingleFile": false, "customExtension": null }
+            },
+            "19": {
+                "active": { "path": "portals/portal19/active", "end": 1, "start": 0, "isWebp": false, "preload": true, "unload": false, "isSingleFile": false, "customExtension": null },
+                "idle": { "path": "portals/portal19/idle", "end": 1, "start": 0, "isWebp": false, "preload": true, "unload": false, "isSingleFile": false, "customExtension": null }
             }
         }
     },
@@ -4186,22 +4422,36 @@
         ],
         "18": [
             "expansions/18",
-            61,
-            1,
+            60,
+            0,
             false
         ],
         "19": [
             "expansions/19",
-            41,
-            1,
+            40,
+            0,
             false
         ],
-        "20": [ "expansions/20", 94, 0, true ],
-        "21": [ "expansions/21", 94, 0, true ],
-        "22": [ "expansions/22", 94, 0, true ],
-        "23": [ "expansions/23", 1, 1, false ],
-        "24": [ "expansions/24", 94, 0, true ],
-        "25": [ "expansions/25", 1, 0, false ]
+        "21": [
+            "expansions/21",
+            94,
+            0,
+            true
+        ],
+        "22": [
+            "expansions/22",
+            0,
+            0,
+            false
+        ],
+        "23": [
+            "expansions/23",
+            72,
+            0,
+            false
+        ],
+        "27": { "path": "expansions/aegisHealPod", "end": 0, "start": 0, "isWebp": false, "preload": true, "unload": false, "isSingleFile": false, "customExtension": null, "useAtlas": false },
+        "307": { "path": "expansions/aegis_pod", "end": 32, "start": 0, "isWebp": false, "preload": true, "unload": false, "isSingleFile": false, "customExtension": null, "useAtlas": false }
     },
     "planets": {
         "1": [
@@ -4451,7 +4701,7 @@
             true
         ],
         "42": [
-            "planets/planet42",
+            "planets/baseSaturnAdvanced",
             0,
             0,
             true
@@ -4618,522 +4868,6 @@
             0,
             false
         ],
-        "200": [
-            "planets/planet200",
-            0,
-            0,
-            true
-        ],
-        "201": [
-            "planets/planet201",
-            0,
-            0,
-            true
-        ],
-        "202": [
-            "planets/planet202",
-            0,
-            0,
-            true
-        ],
-        "203": [
-            "planets/planet203",
-            0,
-            0,
-            true
-        ],
-        "204": [
-            "planets/planet204",
-            0,
-            0,
-            true
-        ],
-        "205": [
-            "planets/planet205",
-            0,
-            0,
-            true
-        ],
-        "206": [
-            "planets/planet206",
-            0,
-            0,
-            true
-        ],
-        "207": [
-            "planets/planet207",
-            0,
-            0,
-            true
-        ],
-        "208": [
-            "planets/planet208",
-            0,
-            0,
-            true
-        ],
-        "209": [
-            "planets/planet209",
-            0,
-            0,
-            true
-        ],
-        "210": [
-            "planets/planet210",
-            0,
-            0,
-            true
-        ],
-        "211": [
-            "planets/planet211",
-            0,
-            0,
-            true
-        ],
-        "212": [
-            "planets/planet212",
-            0,
-            0,
-            true
-        ],
-        "213": [
-            "planets/planet213",
-            0,
-            0,
-            true
-        ],
-        "214": [
-            "planets/planet214",
-            0,
-            0,
-            true
-        ],
-        "215": [
-            "planets/planet215",
-            0,
-            0,
-            true
-        ],
-        "216": [
-            "planets/planet216",
-            0,
-            0,
-            true
-        ],
-        "217": [
-            "planets/planet217",
-            0,
-            0,
-            true
-        ],
-        "218": [
-            "planets/planet218",
-            0,
-            0,
-            true
-        ],
-        "219": [
-            "planets/planet219",
-            0,
-            0,
-            true
-        ],
-        "220": [
-            "planets/planet220",
-            0,
-            0,
-            true
-        ],
-        "221": [
-            "planets/planet221",
-            0,
-            0,
-            true
-        ],
-        "222": [
-            "planets/planet222",
-            0,
-            0,
-            true
-        ],
-        "223": [
-            "planets/planet223",
-            0,
-            0,
-            true
-        ],
-        "224": [
-            "planets/planet224",
-            0,
-            0,
-            true
-        ],
-        "225": [
-            "planets/planet225",
-            0,
-            0,
-            true
-        ],
-        "226": [
-            "planets/planet226",
-            0,
-            0,
-            true
-        ],
-        "227": [
-            "planets/planet227",
-            0,
-            0,
-            true
-        ],
-        "228": [
-            "planets/planet228",
-            0,
-            0,
-            true
-        ],
-        "229": [
-            "planets/planet229",
-            0,
-            0,
-            true
-        ],
-        "230": [
-            "planets/planet230",
-            0,
-            0,
-            true
-        ],
-        "231": [
-            "planets/planet231",
-            0,
-            0,
-            true
-        ],
-        "232": [
-            "planets/planet232",
-            0,
-            0,
-            true
-        ],
-        "233": [
-            "planets/planet233",
-            0,
-            0,
-            true
-        ],
-        "234": [
-            "planets/planet234",
-            0,
-            0,
-            true
-        ],
-        "235": [
-            "planets/planet235",
-            0,
-            0,
-            true
-        ],
-        "236": [
-            "planets/planet236",
-            0,
-            0,
-            true
-        ],
-        "237": [
-            "planets/planet237",
-            0,
-            0,
-            true
-        ],
-        "238": [
-            "planets/planet238",
-            0,
-            0,
-            true
-        ],
-        "239": [
-            "planets/planet239",
-            0,
-            0,
-            true
-        ],
-        "240": [
-            "planets/planet240",
-            0,
-            0,
-            true
-        ],
-        "241": [
-            "planets/planet241",
-            0,
-            0,
-            true
-        ],
-        "242": [
-            "planets/planet242",
-            0,
-            0,
-            true
-        ],
-        "243": [
-            "planets/planet243",
-            0,
-            0,
-            true
-        ],
-        "244": [
-            "planets/planet244",
-            0,
-            0,
-            true
-        ],
-        "245": [
-            "planets/planet245",
-            0,
-            0,
-            true
-        ],
-        "246": [
-            "planets/planet246",
-            0,
-            0,
-            true
-        ],
-        "247": [
-            "planets/planet247",
-            0,
-            0,
-            true
-        ],
-        "248": [
-            "planets/planet248",
-            0,
-            0,
-            true
-        ],
-        "249": [
-            "planets/planet249",
-            0,
-            0,
-            true
-        ],
-        "250": [
-            "planets/planet250",
-            0,
-            0,
-            true
-        ],
-        "251": [
-            "planets/planet251",
-            0,
-            0,
-            true
-        ],
-        "252": [
-            "planets/planet252",
-            0,
-            0,
-            true
-        ],
-        "253": [
-            "planets/planet253",
-            0,
-            0,
-            true
-        ],
-        "254": [
-            "planets/planet254",
-            0,
-            0,
-            true
-        ],
-        "255": [
-            "planets/planet255",
-            0,
-            0,
-            true
-        ],
-        "256": [
-            "planets/planet256",
-            0,
-            0,
-            true
-        ],
-        "257": [
-            "planets/planet257",
-            0,
-            0,
-            true
-        ],
-        "258": [
-            "planets/planet258",
-            0,
-            0,
-            true
-        ],
-        "259": [
-            "planets/planet259",
-            0,
-            0,
-            true
-        ],
-        "260": [
-            "planets/planet260",
-            0,
-            0,
-            true
-        ],
-        "261": [
-            "planets/planet261",
-            0,
-            0,
-            true
-        ],
-        "262": [
-            "planets/planet262",
-            0,
-            0,
-            true
-        ],
-        "263": [
-            "planets/planet263",
-            0,
-            0,
-            true
-        ],
-        "264": [
-            "planets/planet264",
-            0,
-            0,
-            true
-        ],
-        "265": [
-            "planets/planet265",
-            0,
-            0,
-            true
-        ],
-        "266": [
-            "planets/planet266",
-            0,
-            0,
-            true
-        ],
-        "267": [
-            "planets/planet267",
-            0,
-            0,
-            true
-        ],
-        "268": [
-            "planets/planet268",
-            0,
-            0,
-            true
-        ],
-        "269": [
-            "planets/planet269",
-            0,
-            0,
-            true
-        ],
-        "270": [
-            "planets/planet270",
-            0,
-            0,
-            true
-        ],
-        "271": [
-            "planets/planet271",
-            0,
-            0,
-            true
-        ],
-        "272": [
-            "planets/planet272",
-            0,
-            0,
-            true
-        ],
-        "273": [
-            "planets/planet273",
-            0,
-            0,
-            true
-        ],
-        "274": [
-            "planets/planet274",
-            0,
-            0,
-            true
-        ],
-        "275": [
-            "planets/planet275",
-            0,
-            0,
-            true
-        ],
-        "276": [
-            "planets/planet276",
-            0,
-            0,
-            true
-        ],
-        "277": [
-            "planets/planet277",
-            0,
-            0,
-            true
-        ],
-        "278": [
-            "planets/planet278",
-            0,
-            0,
-            true
-        ],
-        "279": [
-            "planets/planet279",
-            0,
-            0,
-            true
-        ],
-        "280": [
-            "planets/planet280",
-            0,
-            0,
-            true
-        ],
-        "281": [
-            "planets/planet281",
-            0,
-            0,
-            true
-        ],
-        "282": [
-            "planets/planet282",
-            0,
-            0,
-            true
-        ],
-        "283": [
-            "planets/planet283",
-            0,
-            0,
-            true
-        ],
-        "284": [
-            "planets/planet284",
-            0,
-            0,
-            true
-        ],
-        "285": [
-            "planets/planet285",
-            0,
-            0,
-            true
-        ],
         "998": [
             "planets/planet998",
             0,
@@ -5145,56 +4879,50 @@
             0,
             0,
             true
-        ],
-        "9999": [
-            "planets/planet9999",
-            0,
-            0,
-            true
         ]
     },
     "explosions": {
         "rocket": {
             "0": [
                 "pyroEffects/rocketExplosion0",
-                11,
-                1,
+                10,
+                0,
                 true
             ],
             "1": [
                 "pyroEffects/rocketExplosion1",
-                31,
-                1,
+                30,
+                0,
                 true
             ]
         },
         "disrupt": {
             "0": [
-                "pyroEffects/disrupt",
-                19,
-                1,
+                "pyroEffects/notfamous_pld",
+                24,
+                0,
                 true,
-                5
+                10
             ]
         },
         "laser": {
             "1": [
                 "pyroEffects/laserExplosion1",
-                15,
-                1,
+                14,
+                0,
                 true
             ],
             "2": [
                 "pyroEffects/laserExplosion2",
-                15,
-                1,
+                14,
+                0,
                 true
             ]
         },
         "explosion": {
             "0": [
                 "pyroEffects/explosion0",
-                78,
+                39,
                 0,
                 true
             ],
@@ -5204,15 +4932,9 @@
                 0,
                 true
             ],
-            "SmartBomb": [
-                "pyroEffects/smartBomb",
-                60,
-                1,
-                true
-            ],
             "3": [
                 "pyroEffects/snowExplosion",
-                39,
+                59,
                 0,
                 true
             ],
@@ -5221,71 +4943,89 @@
                 43,
                 0,
                 true
+            ],
+            "5": [
+                "pyroEffects/loveExplosion",
+                30,
+                0,
+                false
+            ],
+            "6": [
+                "pyroEffects/carboniteExplosion",
+                87,
+                0,
+                true
+            ],
+            "SmartBomb": [
+                "pyroEffects/smartBomb2",
+                59,
+                0,
+                true
             ]
         },
         "mine": {
             "0": [
                 "pyroEffects/mine0",
-                40,
-                1,
+                39,
+                0,
                 true
             ],
             "2": [
                 "pyroEffects/mine2",
-                15,
-                1,
+                14,
+                0,
                 true
             ],
             "3": [
                 "pyroEffects/mine3",
-                15,
-                1,
+                14,
+                0,
                 true
             ],
             "4": [
                 "pyroEffects/mine4",
-                29,
-                1,
+                28,
+                0,
                 true
             ]
         },
         "firework": {
             "1": [
                 "sfx/firework1",
-                80,
-                1,
+                79,
+                0,
                 true
             ],
             "2": [
                 "sfx/firework2",
-                80,
-                1,
+                79,
+                0,
                 true
             ],
             "3": [
                 "sfx/firework3",
-                80,
-                1,
+                79,
+                0,
                 true
             ],
             "4": [
-                "sfx/firework3",
-                80,
-                1,
+                "sfx/firework4",
+                79,
+                0,
                 true
             ],
             "5": [
-                "sfx/firework3",
-                80,
-                1,
+                "sfx/firework5",
+                79,
+                0,
                 true
             ]
         },
         "snow": {
             "1": [
                 "effects/snowPortal",
-                30,
-                1,
+                29,
+                0,
                 true,
                 "infinity"
             ]
@@ -5293,13 +5033,39 @@
         "hyperspace": {
             "1": [
                 "effects/hyperspaceStart",
-                1,
-                1,
+                39,
+                0,
                 true
             ],
             "4": [
                 "effects/hyperspaceEnd",
-                27,
+                43,
+                0,
+                true
+            ]
+        },
+        "midas": {
+            "1": [
+                "effects/midasCharge",
+                60,
+                0,
+                true
+            ],
+            "2": [
+                "pyroEffects/midasShockwave",
+                39,
+                0,
+                true
+            ],
+            "3": [
+                "pyroEffects/blossomCharge",
+                48,
+                0,
+                true
+            ],
+            "4": [
+                "pyroEffects/blossomEvolve",
+                79,
                 0,
                 true
             ]
@@ -5308,31 +5074,31 @@
     "shields": {
         "advancedShield": [
             "shields/shieldAdvanced",
-            33,
-            1,
+            32,
+            0,
             true
         ],
         "instaShield": [
             "shields/instaShield",
-            64,
-            1,
+            63,
+            0,
             true
         ],
         "barrier": [
             "shields/barrier",
-            9,
-            1
+            8,
+            0
         ],
         "shieldRecharge": [
             "shields/shieldRecharge",
-            50,
-            1,
+            49,
+            0,
             true
         ],
         "invincibilityShield": [
             "shields/invincibilityShield",
-            31,
-            1,
+            30,
+            0,
             true
         ]
     },
@@ -5345,78 +5111,85 @@
         ],
         "fortress": [
             "sfx/fortress",
-            38,
-            1,
+            37,
+            0,
             true
         ],
         "nanoRepair": [
             "sfx/nanoRepair",
-            27,
-            1,
+            26,
+            0,
             true
         ],
         "prismaShield": [
             "sfx/prismaShield",
-            35,
-            1,
+            34,
+            0,
             true
         ],
         "singularity": [
             "sfx/singularity",
-            35,
-            1,
+            34,
+            0,
             true
         ],
         "weakShield": [
             "sfx/weakShield",
-            27,
-            1,
+            26,
+            0,
             true
         ],
         "turbo": [
             "sfx/turbo",
-            3,
-            1,
+            2,
+            0,
             false
         ],
         "rapidFire": [
             "sfx/rapidFire",
-            40,
-            1,
+            39,
+            0,
             true
         ],
         "emergencyRepair": [
             "sfx/emergencyRepair",
-            21,
-            1,
+            20,
+            0,
             false
         ],
-        "particleCharge": {
-            "path": "sfx/particleCharge",
-            "end": 80,
+        "particleChargeElegant": [
+            "sfx/particleChargeElegant",
+            80,
+            0,
+            true
+        ],
+        "loveCharge": [
+            "sfx/loveCharge",
+            43,
+            0,
+            true
+        ],
+        "drawFire": {
+            "path": "sfx/drawfire",
+            "end": 9,
             "start": 0,
-            "isWebp": true,
-            "preload": false,
+            "isWebp": false,
+            "preload": true,
             "unload": false,
             "isSingleFile": false,
             "customExtension": null,
-            "preloadSize": [
-                "300"
-            ]
+            "useAtlas": false
         },
-        "particleChargeElegant": {
-            "path": "sfx/particleChargeElegant",
-            "end": 80,
+        "fortification": {
+            "path": "sfx/fortify",
+            "end": 13,
             "start": 0,
-            "isWebp": true,
-            "preload": false,
+            "isWebp": false,
+            "preload": true,
             "unload": false,
             "isSingleFile": false,
             "customExtension": null,
-            "preloadSize": [
-                "300"
-            ],
-            "loveCharge": [ "sfx/loveCharge", 44, 1, true ]
+            "useAtlas": false
         }
     },
     "effects": {
@@ -5439,21 +5212,23 @@
         ],
         "levelUp": [
             "effects/levelUp",
-            49,
-            1
+            48,
+            0
         ],
         "slowEffectActive": [
             "effects/slowEffectActive",
-            15,
-            1,
+            14,
+            0,
             true
         ],
         "slowEffectIdle": [
             "effects/slowEffectIdle",
-            15,
-            1,
+            14,
+            0,
             true
-        ]
+        ],
+        "pulseHeal": { "path": "effects/pulseHeal", "end": 0, "start": 0, "isWebp": false, "preload": true, "unload": false, "isSingleFile": false, "customExtension": null, "useAtlas": false, "mobileSupport": false }
+    
     },
     "drones": {
         "iris": {
@@ -5589,6 +5364,18 @@
             3,
             0,
             false
+        ],
+        "2": [
+            "engines/goldEngine",
+            11,
+            0,
+            false
+        ],
+        "3": [
+            "engines/goldEngine",
+            11,
+            0,
+            false
         ]
     },
     "rings": {
@@ -5648,40 +5435,59 @@
             "npcLasers/laser9",
             0,
             0
+        ],
+        "11": [
+            "npcLasers/cake",
+            0,
+            0
         ]
     },
-    "missileclassic": {
-        "1": ["rockets/1", 0, 0],
-        "2": ["rockets/2", 0, 0],
-        "3": ["rockets/3", 0, 0],
-        "4": ["rockets/4", 0, 0],
-        "5": ["rockets/5", 0, 0],
-        "6": ["rockets/6", 0, 0],
-        "7": ["rockets/7", 0, 0],
-        "8": ["rockets/8", 0, 0],
-        "9": ["rockets/9", 0, 0]
-    },
-    "missileatomic": {
-        "1": ["rockets/atomic1", 0, 0],
-        "2": ["rockets/atomic2", 0, 0],
-        "3": ["rockets/atomic3", 0, 0],
-        "4": ["rockets/atomic4", 0, 0],
-        "5": ["rockets/5", 0, 0],
-        "6": ["rockets/6", 0, 0],
-        "7": ["rockets/7", 0, 0],
-        "8": ["rockets/8", 0, 0],
-        "9": ["rockets/9", 0, 0]
-    },
-    "missileins": {
-        "1": ["rockets/1", 0, 0],
-        "2": ["rockets/ins2", 0, 0],
-        "3": ["rockets/ins3", 0, 0],
-        "4": ["rockets/ins4", 0, 0],
-        "5": ["rockets/5", 0, 0],
-        "6": ["rockets/6", 0, 0],
-        "7": ["rockets/7", 0, 0],
-        "8": ["rockets/8", 0, 0],
-        "9": ["rockets/9", 0, 0]
+    "missile": {
+        "1": [
+            "rockets/1",
+            0,
+            0
+        ],
+        "2": [
+            "rockets/2",
+            0,
+            0
+        ],
+        "3": [
+            "rockets/3",
+            0,
+            0
+        ],
+        "4": [
+            "rockets/4",
+            0,
+            0
+        ],
+        "5": [
+            "rockets/5",
+            0,
+            0
+        ],
+        "6": [
+            "rockets/6",
+            0,
+            0
+        ],
+        "7": [
+            "rockets/7",
+            0,
+            0
+        ],
+        "8": [
+            "rockets/8",
+            0,
+            0
+        ],
+        "9": [
+            "rockets/9",
+            0,
+            0
+        ]
     },
     "rlmissile": {
         "1": [
@@ -5770,11 +5576,6 @@
                     0,
                     0
                 ],
-                "8": [
-                    "lasers/classic/laser8",
-                    0,
-                    0
-                ],
                 "leech": [
                     "lasers/classic/laserLeech",
                     0,
@@ -5817,11 +5618,6 @@
                 ],
                 "beam7": [
                     "lasers/classic/laser7Beam",
-                    0,
-                    0
-                ],
-                "beam8": [
-                    "lasers/classic/laser8Beam",
                     0,
                     0
                 ]
@@ -5867,11 +5663,6 @@
                     0,
                     0
                 ],
-                "8": [
-                    "lasers/classic/bigLaser8",
-                    0,
-                    0
-                ],
                 "beam0": [
                     "lasers/classic/bigLaser0Beam",
                     0,
@@ -5909,11 +5700,6 @@
                 ],
                 "beam7": [
                     "lasers/classic/bigLaser7Beam",
-                    0,
-                    0
-                ],
-                "beam8": [
-                    "lasers/classic/bigLaser8Beam",
                     0,
                     0
                 ],
@@ -5966,11 +5752,6 @@
                     0,
                     0
                 ],
-                "8": [
-                    "lasers/modern/laser8",
-                    0,
-                    0
-                ],
                 "beam0": [
                     "lasers/modern/laser0Beam",
                     0,
@@ -6008,11 +5789,6 @@
                 ],
                 "beam7": [
                     "lasers/modern/laser7Beam",
-                    0,
-                    0
-                ],
-                "beam8": [
-                    "lasers/modern/laser8Beam",
                     0,
                     0
                 ],
@@ -6063,11 +5839,6 @@
                     0,
                     0
                 ],
-                "8": [
-                    "lasers/modern/bigLaser8",
-                    0,
-                    0
-                ],
                 "beam0": [
                     "lasers/modern/bigLaser0Beam",
                     0,
@@ -6108,11 +5879,6 @@
                     0,
                     0
                 ],
-                "beam8": [
-                    "lasers/modern/bigLaser8Beam",
-                    0,
-                    0
-                ],
                 "leech": [
                     "lasers/modern/laserLeech",
                     0,
@@ -6129,145 +5895,145 @@
         "0": [
             "mines/basicmine",
             1,
-            0
+            1
         ],
         "1": [
             "mines/empmine",
-            35,
-            1,
+            34,
+            0,
             true
         ],
         "2": [
             "mines/sdmine",
-            35,
-            1,
-            false
+            34,
+            0,
+            true
         ],
         "3": [
             "mines/ddmine",
-            33,
-            1,
-            false
+            63,
+            0,
+            true
         ],
         "4": [
             "mines/slowmine",
-            33,
-            1
+            2,
+            0
         ]
     },
     "collectables": {
         "0": [
             "collectables/firework",
-            35,
-            1,
+            34,
+            0,
             true
         ],
         "1": [
             "collectables/box",
-            25,
-            1,
+            24,
+            0,
             true
         ],
         "2": [
             "collectables/greenBox",
-            25,
-            1,
+            24,
+            0,
             true
         ],
         "3": [
             "collectables/goldBox",
-            25,
-            1,
+            24,
+            0,
             true
         ],
         "4": [
             "collectables/redBox",
-            25,
-            1,
+            24,
+            0,
             true
         ],
         "5": [
             "collectables/blueBox",
-            25,
-            1,
+            24,
+            0,
             true
         ],
         "6": [
             "collectables/cargoBox",
-            25,
-            1,
+            24,
+            0,
             true
         ],
         "7": [
             "collectables/expobox",
-            42,
-            1,
+            41,
+            0,
             true
         ],
         "8": [
             "collectables/petBox",
             25,
-            1,
+            0,
             false
         ],
         "9": [
             "collectables/cargoBox",
-            26,
-            1,
+            24,
+            0,
             true
         ],
         "10": [
             "collectables/spacecupBox",
-            24,
+            39,
             0,
             false
         ],
         "11": [
             "collectables/goldBoxSpecial",
-            31,
-            1,
+            30,
+            0,
             false
         ],
         "13": [
             "collectables/cobalt",
-            38,
-            1,
+            25,
+            0,
             false
         ],
         "14": [
             "collectables/nickel",
-            20,
+            1,
             1,
             false
         ],
         "15": [
             "collectables/palladium",
-            31,
-            1,
+            30,
+            0,
             false
         ],
         "16": [
             "collectables/ree",
-            15,
-            1,
+            19,
+            0,
             false
         ],
         "17": [
             "collectables/selenite",
-            39,
+            1,
             1,
             false
         ],
         "18": [
             "collectables/pumpkin",
-            26,
-            1,
+            30,
+            0,
             false
         ],
         "19": [
             "collectables/jackolanterium",
-            25,
-            1,
+            30,
+            0,
             false
         ],
         "20": [
@@ -6277,13 +6043,13 @@
             false
         ],
         "21": [
-            "collectables/gifts",
-            29,
+            "collectables/giftBoxDetail",
+            30,
             0,
             false
         ],
         "22": [
-            "collectables/love",
+            "collectables/heartBoxAnimated",
             60,
             0,
             true
@@ -6294,35 +6060,50 @@
             0,
             false
         ],
-        "24": ["collectables/eggBoxSm", 31, 0, true],
-        "25": ["collectables/eggBox", 31, 0, true],
-        "26": ["collectables/pirateBox", 61, 1, false]
+        "24": [
+            "collectables/eggBoxSm",
+            31,
+            0,
+            true
+        ],
+        "25": [
+            "collectables/eggBox",
+            31,
+            0,
+            true
+        ],
+        "26": [
+            "collectables/pirateBox",
+            60,
+            0,
+            false
+        ]
     },
     "beams": {
         "0": [
             "effects/beam",
-            15,
-            1,
+            14,
+            0,
             true
         ]
     },
     "repairBeam": {
         "0": [
             "effects/robotRepairBeam",
-            10,
-            1,
+            43,
+            0,
             true
         ],
         "1": [
-            "effects/robotRepairBeam",
-            10,
-            1,
+            "effects/robotRepairBeamAdvanced",
+            43,
+            0,
             true
         ],
         "2": [
-            "effects/robotRepairBeam",
-            10,
-            1,
+            "effects/robotRepairBeamBattle",
+            43,
+            0,
             true
         ]
     },
@@ -6356,6 +6137,33 @@
     "fields": {
         "0": [
             "fields/0",
+            0,
+            0,
+            false,
+            true,
+            true,
+            true
+        ],
+        "1": [
+            "fields/1",
+            0,
+            0,
+            false,
+            true,
+            true,
+            true
+        ],
+        "2": [
+            "fields/2",
+            0,
+            0,
+            false,
+            true,
+            true,
+            true
+        ],
+        "simple": [
+            "fields/simple",
             0,
             0,
             false,
