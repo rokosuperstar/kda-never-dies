@@ -1,0 +1,76 @@
+{
+  "frames": {
+    "0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 157,
+        "h": 179
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 157,
+        "h": 179
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 181
+      }
+    },
+    "1": {
+      "frame": {
+        "x": 158,
+        "y": 0,
+        "w": 157,
+        "h": 179
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 157,
+        "h": 179
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 181
+      }
+    },
+    "2": {
+      "frame": {
+        "x": 0,
+        "y": 180,
+        "w": 157,
+        "h": 179
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 179,
+        "h": 157
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 181
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "moduleRuined.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 315,
+      "h": 337
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}

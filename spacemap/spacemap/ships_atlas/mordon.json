@@ -1,0 +1,96 @@
+{
+  "frames": {
+    "0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 119
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 119
+      },
+      "sourceSize": {
+        "w": 151,
+        "h": 121
+      }
+    },
+    "1": {
+      "frame": {
+        "x": 0,
+        "y": 120,
+        "w": 150,
+        "h": 119
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 119
+      },
+      "sourceSize": {
+        "w": 151,
+        "h": 121
+      }
+    },
+    "2": {
+      "frame": {
+        "x": 151,
+        "y": 0,
+        "w": 150,
+        "h": 119
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 119,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 151,
+        "h": 121
+      }
+    },
+    "3": {
+      "frame": {
+        "x": 0,
+        "y": 240,
+        "w": 150,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 151,
+        "h": 121
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/pixijs/assetpack",
+    "version": "1.0",
+    "image": "mordon.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 270,
+      "h": 358
+    },
+    "scale": 1,
+    "related_multi_packs": []
+  }
+}
