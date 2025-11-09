@@ -357,7 +357,9 @@
           "185": { "name": "Vengeance-Carbonite", "icon": "vops", "desc": "vops_shop_desc" },
           "186": { "name": "Vengeance-Spooky", "icon": "vspooky", "desc": "vspooky_shop_desc" },
           "187": { "name": "Goliath-Spooky", "icon": "gspooky", "desc": "gspooky_shop_desc" },
-          "188": { "name": "Sentinel-Carbonite", "icon": "carboniteSentinel", "desc": "carboniteSentinel_shop_desc" }
+          "188": { "name": "Sentinel-Carbonite", "icon": "carboniteSentinel", "desc": "carboniteSentinel_shop_desc" },
+          "189": { "name": "Diminisher-Carbonite", "icon": "carboniteDiminisher", "desc": "carboniteDiminisher_shop_desc" },
+          "190": { "name": "Cyborg-Carbonite", "icon": "carboniteCyborg", "desc": "carboniteCyborg_shop_desc" }
     },
     "2": {
         "1": {

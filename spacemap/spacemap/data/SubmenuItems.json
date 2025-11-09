@@ -62,6 +62,14 @@
       "hasAmount": true,
       "slotPosition": 5,
       "popover": {"txtKey": "hsa-x_tooltip", "keys": "AMOUNT"}
+    },
+    {
+      "name": "l-fr4c",
+      "id": 8,
+      "hasBar": true,
+      "isSelectable": true,
+      "hasAmount": true,
+      "popover": { "txtKey": "fractal_laser_tooltip", "keys": "AMOUNT" }
     }
   ],
   "1": [
@@ -539,6 +547,69 @@
       "hasAmount": false,
       "requireAmmo": false,
       "popover": {"txtKey": "s_skill_defcom_tooltip"}
+    },
+    {
+      "name": "beacon",
+      "id": 15,
+      "hasBar": false,
+      "isSelectable": false,
+      "hasAmount": false,
+      "requireAmmo": false,
+      "popover": {"txtKey": "s_skill_beacon_tooltip"}
+    },
+    {
+      "name": "healbeam",
+      "id": 16,
+      "hasBar": false,
+      "isSelectable": false,
+      "hasAmount": false,
+      "requireAmmo": false,
+      "popover": {"txtKey": "s_skill_hpbeam_tooltip"}
+    },
+    {
+      "name": "shdbeam",
+      "id": 17,
+      "hasBar": false,
+      "isSelectable": false,
+      "hasAmount": false,
+      "requireAmmo": false,
+      "popover": {"txtKey": "s_skill_shdbeam_tooltip"}
+    },
+    {
+      "name": "speed",
+      "id": 18,
+      "hasBar": false,
+      "isSelectable": false,
+      "hasAmount": false,
+      "requireAmmo": false,
+      "popover": {"txtKey": "s_skill_speed_tooltip"}
+    },
+    {
+      "name": "drawfire",
+      "id": 19,
+      "hasBar": false,
+      "isSelectable": false,
+      "hasAmount": false,
+      "requireAmmo": false,
+      "popover": {"txtKey": "s_skill_drawfire_tooltip"}
+    },
+    {
+      "name": "pshield",
+      "id": 20,
+      "hasBar": false,
+      "isSelectable": false,
+      "hasAmount": false,
+      "requireAmmo": false,
+      "popover": {"txtKey": "s_skill_energytransfer_tooltip"}
+    },
+    {
+      "name": "fortification",
+      "id": 21,
+      "hasBar": false,
+      "isSelectable": false,
+      "hasAmount": false,
+      "requireAmmo": false,
+      "popover": {"txtKey": "s_skill_fortification_tooltip"}
     }
   ],
   "9": [

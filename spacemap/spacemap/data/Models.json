@@ -3585,6 +3585,39 @@
             "isSingleFile": false,
             "customExtension": null,
             "useAtlas": false
+        },
+        "189": {
+            "path": "ships/carboniteDiminisher",
+            "end": 64,
+            "start": 0,
+            "isWebp": false,
+            "preload": true,
+            "unload": false,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        },
+        "190": {
+            "path": "ships/carboniteCyborg",
+            "end": 64,
+            "start": 0,
+            "isWebp": false,
+            "preload": true,
+            "unload": false,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
+        },
+        "1000": {
+            "path": "balls/cup",
+            "end": 30,
+            "start": 0,
+            "isWebp": false,
+            "preload": false,
+            "unload": false,
+            "isSingleFile": false,
+            "customExtension": null,
+            "useAtlas": false
         }
     },
     "minimap": {

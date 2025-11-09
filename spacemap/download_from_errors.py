@@ -11,10 +11,13 @@ def extract_links(text):
     return re.findall(pattern, text)
 
 def convert_url(u):
-    u = u.replace(ORIG_DOMAIN, NEW_DOMAIN)
     u = u.split("?")[0]
-    u = u.replace("//spacemap", "/spacemap")  # fix double slash
-    return u
+    parsed = urlsplit(u)
+
+    # force domain
+    forced = f"https://{NEW_DOMAIN}{parsed.path}"
+    forced = forced.replace("//spacemap", "/spacemap") # fix double slashes
+    return forced
 
 def download_file(url):
     parts = urlsplit(url).path.split('/')

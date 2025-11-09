@@ -455,6 +455,16 @@
             "name": "snowy_overlay",
             "isCheck": true,
             "options": []
+          },
+          {
+              "name": "scroll_ctrl",
+              "isCheck": true,
+              "options": []
+          },
+          {
+              "name": "cache_asset",
+              "isCheck": true,
+              "options": []
           }
         ],
         [

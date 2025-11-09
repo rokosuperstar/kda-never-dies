@@ -1291,6 +1291,20 @@
       "offsetId": 18,
       "engineTop": true,
       "destroyExplosion": 6
+    },
+    "189": {
+      "engineClass": 13,
+      "laserClass": 13,
+      "offsetId": 17,
+      "clickRadius": 70,
+      "destroyExplosion": 6
+    },
+    "190": {
+      "engineClass": 47,
+      "laserClass": 16,
+      "offsetId": 14,
+      "clickRadius": 70,
+      "destroyExplosion": 6
     }
   },
   "offsets": {
@@ -3352,6 +3366,7 @@
     "PRO_AUTO_TOGGLE": 12,
     "PRO_IGNORE_KEYS": 13,
     "SNOWY_OVERLAY": 7,
+    "SCROLL_CTRL": 8,
     "AB_COLORFUL": 14,
     "LASER_VOL": 4,
     "ROCKET_VOL": 5,

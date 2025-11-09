@@ -1,538 +1,2550 @@
+game?factionId=3&lang=en:4315  GET https://space-aces.com/spacemap/image/shopImg/loading.gif 404 (Not Found)
 scpreloader.js:1 0 undefined 0
 game-dist.n1.8.7.038.js:1 Uncaught SyntaxError: Invalid or unexpected token (at game-dist.n1.8.7.038.js:1:1)
-game?factionId=3&lang=en:4315  GET https://space-aces.com/spacemap/image/shopImg/loading.gif 404 (Not Found)
 game?factionId=3&lang=en:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
 supporters.png:1  GET https://kristof-danko-alfons.shop/spacemap/supporters.png 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/ships/goldGoli//32.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//32.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-33.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//33.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-30.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//30.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-31.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//31.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-29.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//29.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-37.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//37.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-35.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//35.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-34.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//34.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-36.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//36.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/ships/goldGoli//41.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//41.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-44.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//44.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-45.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//45.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-46.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//46.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-47.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//47.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-49.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//49.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-52.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//52.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-57.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//57.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-63.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//63.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-64.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//64.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-38.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//38.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-39.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//39.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-40.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//40.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-43.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//43.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-42.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//42.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-61.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//61.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-50.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//50.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-48.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//48.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-54.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//54.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-51.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//51.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-53.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//53.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-55.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//55.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-56.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//56.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-58.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//58.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-60.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//60.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-62.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//62.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-59.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//59.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-4.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//4.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-26.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//26.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-4.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//4.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-2.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//2.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-3.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//3.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-37.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//37.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-44.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//44.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-1.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//1.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-6.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//6.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-64.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//64.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-7.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//7.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-8.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//8.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-10.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//10.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-11.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//11.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-12.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//12.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-18.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//18.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-19.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//19.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-20.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//20.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-28.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//28.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-1.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//1.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-45.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//45.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-2.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//2.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-48.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//48.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-3.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//3.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-4.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//4.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-5.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//5.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/ships/goldVeng//47.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//47.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/ships/goldVeng//49.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//49.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/ships/goldVeng//46.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//46.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-26.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//26.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-25.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//25.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-29.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//29.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-4.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//4.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-30.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//30.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-28.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//28.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-6.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//6.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-0.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-1.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//1.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-2.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//2.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-3.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//3.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/ships/goldVeng//5.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//5.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-6.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//6.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-13.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//13.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-7.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//7.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-10.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//10.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-8.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//8.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-9.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//9.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-11.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//11.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-12.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//12.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-14.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//14.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/ships/aegis//14.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//14.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-15.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//15.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-16.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//16.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-17.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//17.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-2.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//2.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-1.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//1.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-7.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//7.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-6.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//6.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-3.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//3.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-12.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//12.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-5.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//5.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-9.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//9.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-13.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//13.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-11.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//11.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-4.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//4.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-8.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//8.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-10.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//10.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-29.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//29.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-30.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//30.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-32.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//32.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-31.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//31.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-7.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//7.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-9.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//9.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-12.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//12.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-17.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//17.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-15.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//15.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-6.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//6.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-13.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//13.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-10.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//10.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-8.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//8.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-11.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//11.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-20.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//20.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-21.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//21.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-16.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//16.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-14.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//14.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-18.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//18.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-19.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//19.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-22.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//22.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-21.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//21.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-22.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//22.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-24.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//24.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-23.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//23.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-27.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//27.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-31.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//31.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-32.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//32.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-1.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//1.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-2.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//2.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-3.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//3.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-5.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//5.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-38.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//38.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-14.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//14.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-15.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//15.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-16.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//16.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-17.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//17.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-19.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//19.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-18.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//18.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/aegis//24.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//24.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/citadel//24.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//24.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/citadel//25.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//25.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/citadel//26.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//26.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/citadel//27.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//27.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/aegis//3.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//3.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/aegis//4.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//4.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/aegis//5.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//5.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/aegis//7.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//7.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/aegis//8.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//8.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/aegis//25.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//25.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/carbonitePET//18.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//18.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/carbonitePET//19.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//19.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 20.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//20.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-21.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//21.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-22.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//22.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-23.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//23.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-24.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//24.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-25.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//25.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-26.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//26.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-27.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//27.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-29.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//29.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-28.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//28.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-30.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//30.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-31.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//31.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-61.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//61.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-62.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//62.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-63.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//63.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-7.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//7.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-8.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//8.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-10.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//10.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-9.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//9.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-50.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//50.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/ships/goldVeng//30.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//30.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-32.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//32.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-31.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//31.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-36.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//36.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-5.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//5.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-23.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//23.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-51.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//51.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-25.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//25.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-24.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//24.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-55.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//55.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-26.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//26.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-28.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//28.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-27.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldGoli//27.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-52.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//52.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-53.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//53.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-54.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//54.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-56.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//56.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/ships/goldVeng//21.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//21.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-22.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//22.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-25.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//25.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-23.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//23.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-24.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//24.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-27.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//27.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-28.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//28.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-29.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//29.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-33.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//33.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-57.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//57.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-59.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//59.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-11.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//11.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-60.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//60.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-13.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//13.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-14.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//14.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-12.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//12.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-15.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//15.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-16.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//16.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-17.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//17.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-58.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//58.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/portals/portal9//0.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/portals/portal9//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/portals/portal10//0.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/portals/portal10//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-23.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//23.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-24.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//24.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-25.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//25.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-26.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//26.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-27.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//27.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-0.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-40.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//40.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-39.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//39.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-42.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//42.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-41.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//41.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-43.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//43.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-0.png:1  GET https://kristof-danko-alfons.shop//spacemap/portals/portalHades/active//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-0.png:1  GET https://kristof-danko-alfons.shop//spacemap/portals/portalHades/idle//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-0.png:1  GET https://kristof-danko-alfons.shop//spacemap/portals/portal19/active//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-1.png:1  GET https://kristof-danko-alfons.shop//spacemap/portals/portal19/idle//1.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-0.png:1  GET https://kristof-danko-alfons.shop//spacemap/balls/cup//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/ships/aegis//21.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//21.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/citadel//28.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//28.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+29.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//29.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+6.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//6.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/carbonitePET//2.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//2.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/carbonitePET//3.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//3.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/carbonitePET//4.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//4.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/carbonitePET//5.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//5.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/carbonitePET//6.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//6.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/carbonitePET//7.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//7.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/carbonitePET//8.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//8.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/carbonitePET//21.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//21.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/carbonitePET//22.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//22.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/portals/portal19/active//0.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/portals/portal19/active//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/expansions/18//0.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/expansions/18//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/aegis//26.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//26.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 kristof-danko-alfons.shop//spacemap/expansions/19//0.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/expansions/19//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/ships/aegis//22.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//22.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/ships/aegis//18.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//18.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-20.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//20.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-19.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//19.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/ships/aegis//9.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//9.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/rocketExplosion1//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/smokes/goldSmoke//0.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/smokes/goldSmoke//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/ships/aegis//13.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//13.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/ships/goldVeng//15.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//15.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-16.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//16.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-17.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//17.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-18.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//18.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-20.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//20.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-19.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//19.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-35.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//35.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-34.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/goldVeng//34.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/laserExplosion2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine4//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/balls/cup//0.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/balls/cup//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/pyroEffects/rocketExplosion0//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/rocketExplosion0//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/pyroEffects/rocketExplosion1//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/rocketExplosion1//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/pyroEffects/mine0//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine0//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 kristof-danko-alfons.shop//spacemap/pyroEffects/mine3//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine3//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/pyroEffects/smartBomb2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/smartBomb2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/pyroEffects/laserExplosion1//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/laserExplosion1//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/sfx/firework5//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework5//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/ships/carbonitePET//23.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//23.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 kristof-danko-alfons.shop//spacemap/sfx/firework1//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework1//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/effects/hyperspaceStart//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/effects/hyperspaceStart//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-0.png:1  GET https://kristof-danko-alfons.shop//spacemap/expansions/18//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/sfx/firework2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/sfx/firework3//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework3//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/pyroEffects/laserExplosion1//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/laserExplosion1//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/sfx/firework4//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework4//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/pyroEffects/mine4//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine4//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/pyroEffects/smartBomb2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/smartBomb2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 kristof-danko-alfons.shop//spacemap/shields/shieldAdvanced//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/shields/shieldAdvanced//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/shields/shieldRecharge//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/shields/shieldRecharge//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-kristof-danko-alfons.shop//spacemap/shields/barrier//0.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/shields/barrier//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-kristof-danko-alfons.shop//spacemap/sfx/fortress//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/fortress//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-kristof-danko-alfons.shop//spacemap/sfx/prismaShield//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/prismaShield//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
 kristof-danko-alfons.shop//spacemap/shields/invincibilityShield//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/shields/invincibilityShield//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine0//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/sfx/firework4//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework4//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/sfx/firework3//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework3//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
 kristof-danko-alfons.shop//spacemap/sfx/nanoRepair//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/nanoRepair//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-kristof-danko-alfons.shop//spacemap/sfx/weakShield//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/weakShield//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-kristof-danko-alfons.shop//spacemap/pyroEffects/rocketExplosion0//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/rocketExplosion0//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-kristof-danko-alfons.shop//spacemap/sfx/firework2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
 kristof-danko-alfons.shop//spacemap/sfx/singularity//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/singularity//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
 kristof-danko-alfons.shop//spacemap/sfx/turbo//0.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/turbo//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-kristof-danko-alfons.shop//spacemap/sfx/rapidFire//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/rapidFire//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+kristof-danko-alfons.shop//spacemap/shields/shieldRecharge//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/shields/shieldRecharge//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-kristof-danko-alfons.shop//spacemap/sfx/emergencyRepair//0.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/emergencyRepair//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+kristof-danko-alfons.shop//spacemap/effects/hyperspaceStart//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/effects/hyperspaceStart//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 kristof-danko-alfons.shop//spacemap/sfx/loveCharge//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/loveCharge//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+VM300:3 Uncaught TypeError: Cannot read properties of undefined (reading '0')
+    at new _0x35682d (eval at loadScript (scpreloader.js:1:2093), <anonymous>:3:1244372)
+    at eval (eval at loadScript (scpreloader.js:1:2093), <anonymous>:3:1043894)
+    at Array.forEach (<anonymous>)
+    at _0x2cf4f4.setObjects (eval at loadScript (scpreloader.js:1:2093), <anonymous>:3:1043785)
+    at _0x2cf4f4.updateMap (eval at loadScript (scpreloader.js:1:2093), <anonymous>:3:1040653)
+    at _0x15bc38 (eval at loadScript (scpreloader.js:1:2093), <anonymous>:3:1624353)
+    at _0x2ffdd8.DataHandler (eval at loadScript (scpreloader.js:1:2093), <anonymous>:3:1329411)
+    at <computed>.onmessage (eval at loadScript (scpreloader.js:1:2093), <anonymous>:3:1347845)
+_0x35682d @ VM300:3
+eval @ VM300:3
+setObjects @ VM300:3
+updateMap @ VM300:3
+_0x15bc38 @ VM300:3
+DataHandler @ VM300:3
+<computed>.onmessage @ VM300:3
+kristof-danko-alfons.shop//spacemap/shields/barrier//0.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/shields/barrier//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+kristof-danko-alfons.shop//spacemap/ui/uiIcon/supercalendar_normal.png:1  GET https://kristof-danko-alfons.shop//spacemap/ui/uiIcon/supercalendar_normal.png 404 (Not Found)
+Image
+createHeaderIcon @ VM300:3
+createNode @ VM300:3
+init @ VM300:3
+_0x1d957c @ VM300:3
+setHeader @ VM300:3
+_0x230a7e @ VM300:3
+_0x365442 @ VM300:3
+generateUiComponent @ VM300:3
+eval @ VM300:3
+generateUiElements @ VM300:3
+init @ VM300:3
+_0x15bc38 @ VM300:3
+DataHandler @ VM300:3
+<computed>.onmessage @ VM300:3
+kristof-danko-alfons.shop/spacemap/ui/pal/fuel.png:1  GET https://kristof-danko-alfons.shop/spacemap/ui/pal/fuel.png 404 (Not Found)
+cd20.png:1  GET https://kristof-danko-alfons.shop//spacemap/ui/pal/cd20.png 404 (Not Found)
+Image
+src @ VM300:3
+handleSetCooldown @ VM300:3
+handleUpdateFunction @ VM300:3
+DataHandler @ VM300:3
+<computed>.onmessage @ VM300:3
+/spacemap/ui/clanBase/rockBg.png:1  GET https://space-aces.com/spacemap/ui/clanBase/rockBg.png 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/image/icons/hauntvoc.png:1  GET https://kristof-danko-alfons.shop//spacemap/image/icons/hauntvoc.png 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/image/icons/shd_antiprl_gen.png:1  GET https://kristof-danko-alfons.shop//spacemap/image/icons/shd_antiprl_gen.png 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/image/icons/crystal.png:1  GET https://kristof-danko-alfons.shop//spacemap/image/icons/crystal.png 404 (Not Found)
+Image
+_0xa13bf3 @ VM300:3
+append @ VM300:3
+eval @ VM300:3
+renderRewards @ VM300:3
+renderMain @ VM300:3
+init @ VM300:3
+_0x2598d5 @ VM300:3
+generateUiComponent @ VM300:3
+eval @ VM300:3
+generateUiElements @ VM300:3
+init @ VM300:3
+_0x15bc38 @ VM300:3
+DataHandler @ VM300:3
+<computed>.onmessage @ VM300:3
 kristof-danko-alfons.shop//spacemap/effects/levelUp//0.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/effects/levelUp//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
 kristof-danko-alfons.shop//spacemap/effects/slowEffectActive//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/effects/slowEffectActive//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
 kristof-danko-alfons.shop//spacemap/effects/slowEffectIdle//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/effects/slowEffectIdle//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/mines/empmine//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+kristof-danko-alfons.shop//spacemap/sfx/weakShield//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/weakShield//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/mines/sdmine//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+kristof-danko-alfons.shop//spacemap/mines/ddmine//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/mines/ddmine//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/mines/ddmine//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/prismaShield//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-0.png:1  GET https://kristof-danko-alfons.shop//spacemap/mines/slowmine//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
-Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/sfx/firework5//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework5//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/box//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/goldBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+kristof-danko-alfons.shop//spacemap/collectables/goldBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/goldBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/expobox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+kristof-danko-alfons.shop//spacemap/collectables/redBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/redBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/beam//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+kristof-danko-alfons.shop//spacemap/collectables/expobox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/expobox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/greenBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+kristof-danko-alfons.shop//spacemap/collectables/petBox//0.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/petBox//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/redBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+kristof-danko-alfons.shop//spacemap/pyroEffects/laserExplosion2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/laserExplosion2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/collectables/goldBoxSpecial//0.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/goldBoxSpecial//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/jackolanterium//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+/spacemap/ui/group/inv.png:1  GET https://space-aces.com/spacemap/ui/group/inv.png 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/giftBoxDetail//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+_0xa13bf3 @ VM300:3
+append @ VM300:3
+renderInviteBar @ VM300:3
+init @ VM300:3
+_0x5ca3f3 @ VM300:3
+generateUiComponent @ VM300:3
+eval @ VM300:3
+generateUiElements @ VM300:3
+init @ VM300:3
+_0x15bc38 @ VM300:3
+DataHandler @ VM300:3
+<computed>.onmessage @ VM300:3
+inv_active.png:1  GET https://space-aces.com/spacemap/ui/group/inv_active.png 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/pirateBox//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+_0xa13bf3 @ VM300:3
+append @ VM300:3
+renderInviteBar @ VM300:3
+init @ VM300:3
+_0x5ca3f3 @ VM300:3
+generateUiComponent @ VM300:3
+eval @ VM300:3
+generateUiElements @ VM300:3
+init @ VM300:3
+_0x15bc38 @ VM300:3
+DataHandler @ VM300:3
+<computed>.onmessage @ VM300:3
+allowinv_active.png:1  GET https://space-aces.com/spacemap/ui/group/allowinv_active.png 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/blueBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+_0xa13bf3 @ VM300:3
+append @ VM300:3
+renderInviteBar @ VM300:3
+init @ VM300:3
+_0x5ca3f3 @ VM300:3
+generateUiComponent @ VM300:3
+eval @ VM300:3
+generateUiElements @ VM300:3
+init @ VM300:3
+_0x15bc38 @ VM300:3
+DataHandler @ VM300:3
+<computed>.onmessage @ VM300:3
+block_active.png:1  GET https://space-aces.com/spacemap/ui/group/block_active.png 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/goldBoxSpecial//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+_0xa13bf3 @ VM300:3
+append @ VM300:3
+renderInviteBar @ VM300:3
+init @ VM300:3
+_0x5ca3f3 @ VM300:3
+generateUiComponent @ VM300:3
+eval @ VM300:3
+generateUiElements @ VM300:3
+init @ VM300:3
+_0x15bc38 @ VM300:3
+DataHandler @ VM300:3
+<computed>.onmessage @ VM300:3
+block.png:1  GET https://space-aces.com/spacemap/ui/group/block.png 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/cobalt//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+_0xa13bf3 @ VM300:3
+append @ VM300:3
+renderInviteBar @ VM300:3
+init @ VM300:3
+_0x5ca3f3 @ VM300:3
+generateUiComponent @ VM300:3
+eval @ VM300:3
+generateUiElements @ VM300:3
+init @ VM300:3
+_0x15bc38 @ VM300:3
+DataHandler @ VM300:3
+<computed>.onmessage @ VM300:3
+allowinv.png:1  GET https://space-aces.com/spacemap/ui/group/allowinv.png 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
+_0xa13bf3 @ VM300:3
+append @ VM300:3
+renderInviteBar @ VM300:3
+init @ VM300:3
+_0x5ca3f3 @ VM300:3
+generateUiComponent @ VM300:3
+eval @ VM300:3
+generateUiElements @ VM300:3
+init @ VM300:3
+_0x15bc38 @ VM300:3
+DataHandler @ VM300:3
+<computed>.onmessage @ VM300:3
+lfr4c.png:1  GET https://kristof-danko-alfons.shop//spacemap/image/icons/lfr4c.png 404 (Not Found)
+Image
+_0xa13bf3 @ VM300:3
+append @ VM300:3
+eval @ VM300:3
+renderRewards @ VM300:3
+renderMain @ VM300:3
+init @ VM300:3
+_0x2598d5 @ VM300:3
+generateUiComponent @ VM300:3
+eval @ VM300:3
+generateUiElements @ VM300:3
+init @ VM300:3
+_0x15bc38 @ VM300:3
+DataHandler @ VM300:3
+<computed>.onmessage @ VM300:3
+hsax.png:1  GET https://kristof-danko-alfons.shop//spacemap/image/icons/hsax.png 404 (Not Found)
+Image
+_0xa13bf3 @ VM300:3
+append @ VM300:3
+eval @ VM300:3
+renderRewards @ VM300:3
+renderMain @ VM300:3
+init @ VM300:3
+_0x2598d5 @ VM300:3
+generateUiComponent @ VM300:3
+eval @ VM300:3
+generateUiElements @ VM300:3
+init @ VM300:3
+_0x15bc38 @ VM300:3
+DataHandler @ VM300:3
+<computed>.onmessage @ VM300:3
 0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/palladium//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+emp01.png:1  GET https://kristof-danko-alfons.shop//spacemap/image/icons/emp01.png 404 (Not Found)
+Image
+_0xa13bf3 @ VM300:3
+append @ VM300:3
+eval @ VM300:3
+renderRewards @ VM300:3
+renderMain @ VM300:3
+init @ VM300:3
+_0x2598d5 @ VM300:3
+generateUiComponent @ VM300:3
+eval @ VM300:3
+generateUiElements @ VM300:3
+init @ VM300:3
+_0x15bc38 @ VM300:3
+DataHandler @ VM300:3
+<computed>.onmessage @ VM300:3
+ish01.png:1  GET https://kristof-danko-alfons.shop//spacemap/image/icons/ish01.png 404 (Not Found)
+Image
+_0xa13bf3 @ VM300:3
+append @ VM300:3
+eval @ VM300:3
+renderRewards @ VM300:3
+renderMain @ VM300:3
+init @ VM300:3
+_0x2598d5 @ VM300:3
+generateUiComponent @ VM300:3
+eval @ VM300:3
+generateUiElements @ VM300:3
+init @ VM300:3
+_0x15bc38 @ VM300:3
+DataHandler @ VM300:3
+<computed>.onmessage @ VM300:3
+prismium.png:1  GET https://kristof-danko-alfons.shop//spacemap/image/icons/prismium.png 404 (Not Found)
+Image
+_0xa13bf3 @ VM300:3
+append @ VM300:3
+eval @ VM300:3
+renderRewards @ VM300:3
+renderMain @ VM300:3
+init @ VM300:3
+_0x2598d5 @ VM300:3
+generateUiComponent @ VM300:3
+eval @ VM300:3
+generateUiElements @ VM300:3
+init @ VM300:3
+_0x15bc38 @ VM300:3
+DataHandler @ VM300:3
+<computed>.onmessage @ VM300:3
+smb01.png:1  GET https://kristof-danko-alfons.shop//spacemap/image/icons/smb01.png 404 (Not Found)
+Image
+_0xa13bf3 @ VM300:3
+append @ VM300:3
+eval @ VM300:3
+renderRewards @ VM300:3
+renderMain @ VM300:3
+init @ VM300:3
+_0x2598d5 @ VM300:3
+generateUiComponent @ VM300:3
+eval @ VM300:3
+generateUiElements @ VM300:3
+init @ VM300:3
+_0x15bc38 @ VM300:3
+DataHandler @ VM300:3
+<computed>.onmessage @ VM300:3
+invite.png:1  GET https://space-aces.com/spacemap/ui/contacts/invite.png 404 (Not Found)
+invite_active.png:1  GET https://space-aces.com/spacemap/ui/contacts/invite_active.png 404 (Not Found)
+accept.png:1  GET https://space-aces.com/spacemap/ui/contacts/accept.png 404 (Not Found)
+accept_active.png:1  GET https://space-aces.com/spacemap/ui/contacts/accept_active.png 404 (Not Found)
+reject.png:1  GET https://space-aces.com/spacemap/ui/contacts/reject.png 404 (Not Found)
+reject_active.png:1  GET https://space-aces.com/spacemap/ui/contacts/reject_active.png 404 (Not Found)
 0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/ree//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/pumpkin//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+add.png:1  GET https://space-aces.com/spacemap/ui/contacts/add.png 404 (Not Found)
+remove.png:1  GET https://space-aces.com/spacemap/ui/contacts/remove.png 404 (Not Found)
+remove_active.png:1  GET https://space-aces.com/spacemap/ui/contacts/remove_active.png 404 (Not Found)
+add_active.png:1  GET https://space-aces.com/spacemap/ui/contacts/add_active.png 404 (Not Found)
+iconship.png:1  GET https://kristof-danko-alfons.shop//spacemap/image/shopImg/iconship.png 404 (Not Found)
+.png:1  GET https://kristof-danko-alfons.shop//spacemap/image/shopImg/.png 404 (Not Found)
+uri.svg:1  GET https://kristof-danko-alfons.shop//spacemap/image/icons/uri.svg 404 (Not Found)
+shd_antiprl.png:1  GET https://kristof-danko-alfons.shop//spacemap/image/shopImg/4/shd_antiprl.png 404 (Not Found)
+kristof-danko-alfons.shop//spacemap/collectables/jackolanterium//0.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/jackolanterium//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+kristof-danko-alfons.shop//spacemap/collectables/giftBoxDetail//0.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/giftBoxDetail//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+kristof-danko-alfons.shop//spacemap/sfx/rapidFire//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/rapidFire//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/emergencyRepair//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+kristof-danko-alfons.shop//spacemap/effects/beam//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/effects/beam//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+kristof-danko-alfons.shop//spacemap/effects/robotRepairBeamAdvanced//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/effects/robotRepairBeamAdvanced//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+25.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//25.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+4.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//4.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+26.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//26.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+7.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//7.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+8.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//8.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+25.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//25.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+3.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//3.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+29.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//29.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+28.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//28.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+2.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//2.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+3.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//3.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+6.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//6.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+7.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//7.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+21.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//21.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+8.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//8.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+22.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//22.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/portals/portal19/active//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+26.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//26.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework1//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/balls/cup//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/expansions/19//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework3//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/rocketExplosion0//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+23.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//23.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/laserExplosion1//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/mines/slowmine//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
 0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/firework//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/petBox//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/smartBomb2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/shields/shieldAdvanced//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/nanoRepair//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/shields/invincibilityShield//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/singularity//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/turbo//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/shields/shieldRecharge//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/hyperspaceStart//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/effects/levelUp//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/shields/barrier//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/slowEffectIdle//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/weakShield//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/greenBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+5.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//5.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+4.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//4.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+5.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//5.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+18.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//18.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+27.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//27.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/expansions/18//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/rocketExplosion1//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine0//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework4//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine4//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/slowEffectActive//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+kristof-danko-alfons.shop//spacemap/collectables/pirateBox//0.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/pirateBox//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework5//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/box//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/goldBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
 0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/robotRepairBeam//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
-0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/robotRepairBeamAdvanced//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+kristof-danko-alfons.shop//spacemap/mines/empmine//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/mines/empmine//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
 0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/robotRepairBeamBattle//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
 Image
-eval @ VM258:3
-preload @ VM258:3
-eval @ VM258:3
-preload @ VM258:3
-initPreload @ VM258:3
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/goldBoxSpecial//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+kristof-danko-alfons.shop//spacemap/collectables/blueBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/blueBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/prismaShield//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/mines/ddmine//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/palladium//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/ree//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/jackolanterium//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/redBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/giftBoxDetail//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+kristof-danko-alfons.shop//spacemap/collectables/cobalt//0.png?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/cobalt//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/petBox//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/mines/sdmine//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/emergencyRepair//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/loveCharge//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+kristof-danko-alfons.shop//spacemap/sfx/fortress//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/fortress//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/rapidFire//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/beam//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/expobox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/pumpkin//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+eval @ VM300:3
+preload @ VM300:3
+eval @ VM300:3
+preload @ VM300:3
+initPreload @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/laserExplosion2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine3//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/robotRepairBeamAdvanced//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+25.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//25.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+4.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//4.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/expansions/19//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework3//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/rocketExplosion0//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+6.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//6.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/firework//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/nanoRepair//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/shields/invincibilityShield//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/singularity//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/turbo//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/shields/shieldRecharge//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/hyperspaceStart//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/shields/shieldAdvanced//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+24.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//24.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+24.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//24.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+19.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//19.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+20.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//20.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+6.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//6.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/slowEffectIdle//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/weakShield//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/greenBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+26.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//26.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+7.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//7.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+8.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//8.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+25.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//25.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+3.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//3.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+29.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//29.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+7.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//7.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+21.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//21.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+8.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//8.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+22.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//22.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/portals/portal19/active//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+26.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//26.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework1//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/balls/cup//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+23.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//23.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/laserExplosion1//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/mines/slowmine//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+5.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//5.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+18.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//18.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+27.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//27.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/effects/levelUp//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+28.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//28.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+2.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//2.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+3.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//3.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+4.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//4.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/smartBomb2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+5.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//5.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/shields/barrier//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/expansions/18//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/rocketExplosion1//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine0//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework4//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine4//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/slowEffectActive//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/pirateBox//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/goldBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/box//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework5//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/robotRepairBeam//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/mines/empmine//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/robotRepairBeamBattle//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/goldBoxSpecial//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/blueBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/prismaShield//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/ree//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/mines/ddmine//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/palladium//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/jackolanterium//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/redBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/giftBoxDetail//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/cobalt//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/petBox//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/mines/sdmine//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/emergencyRepair//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/loveCharge//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/fortress//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/rapidFire//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+4.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//4.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/robotRepairBeamAdvanced//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+25.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//25.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/expansions/19//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/rocketExplosion0//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework3//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+6.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//6.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/firework//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/nanoRepair//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/shields/invincibilityShield//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/shields/shieldRecharge//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/singularity//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/turbo//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+19.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//19.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/slowEffectIdle//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/hyperspaceStart//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/shields/shieldAdvanced//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+24.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//24.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+24.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//24.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+20.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//20.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+6.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//6.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/greenBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+26.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//26.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/weakShield//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/expobox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/laserExplosion2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine3//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/pumpkin//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x43a9e3.onerror @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/beam//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+7.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//7.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+8.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//8.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+25.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//25.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+29.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//29.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+7.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//7.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+21.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//21.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+22.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//22.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+26.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//26.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+8.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//8.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/portals/portal19/active//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework1//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/balls/cup//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/laserExplosion1//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+23.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//23.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/mines/slowmine//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+5.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//5.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+27.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//27.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+3.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//3.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+18.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//18.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/effects/levelUp//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+4.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//4.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+5.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//5.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/shields/barrier//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+28.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//28.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+3.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//3.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/smartBomb2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+2.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//2.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/rocketExplosion1//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/expansions/18//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine0//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework4//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine4//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/slowEffectActive//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/box//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/pirateBox//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/goldBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/robotRepairBeam//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework5//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/robotRepairBeamBattle//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/mines/empmine//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/goldBoxSpecial//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/blueBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/ree//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/mines/ddmine//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/prismaShield//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/palladium//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/jackolanterium//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/redBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/giftBoxDetail//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/mines/sdmine//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/petBox//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/cobalt//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/loveCharge//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/emergencyRepair//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/fortress//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/rapidFire//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/robotRepairBeamAdvanced//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/expansions/19//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+4.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//4.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+25.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//25.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework3//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/firework//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/rocketExplosion0//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+6.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//6.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/shields/shieldRecharge//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/nanoRepair//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/singularity//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/hyperspaceStart//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+20.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//20.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+6.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//6.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/greenBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/turbo//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+19.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//19.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/slowEffectIdle//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/shields/invincibilityShield//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/shields/shieldAdvanced//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+24.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//24.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+24.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//24.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+26.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//26.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/weakShield//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/expobox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/laserExplosion2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine3//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/pumpkin//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/beam//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+7.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//7.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+25.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//25.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+8.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//8.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+29.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//29.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+7.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//7.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+21.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//21.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+22.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//22.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/balls/cup//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/portals/portal19/active//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework1//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+23.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//23.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+27.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//27.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/laserExplosion1//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/mines/slowmine//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+3.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//3.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+5.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//5.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+26.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//26.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+18.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//18.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+8.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//8.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/effects/levelUp//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+4.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//4.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+5.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/aegis//5.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/shields/barrier//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+28.webp:1  GET https://kristof-danko-alfons.shop//spacemap/ships/citadel//28.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+3.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//3.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/smartBomb2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+2.png:1  GET https://kristof-danko-alfons.shop//spacemap/ships/carbonitePET//2.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine0//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/expansions/18//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/rocketExplosion1//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework4//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine4//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/slowEffectActive//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/pirateBox//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/box//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/goldBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/robotRepairBeam//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/firework5//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/robotRepairBeamBattle//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/mines/empmine//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/goldBoxSpecial//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/blueBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/palladium//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/mines/ddmine//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/ree//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/pyroEffects/mine2//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/prismaShield//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/jackolanterium//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/redBox//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/giftBoxDetail//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/mines/sdmine//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/cobalt//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/collectables/petBox//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.png:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/emergencyRepair//0.png?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/loveCharge//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/fortress//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/sfx/rapidFire//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+0.webp:1  GET https://kristof-danko-alfons.shop//spacemap/effects/robotRepairBeamAdvanced//0.webp?v=eb64134677ab69f2f82180ee7c7cfd03 404 (Not Found)
+Image
+_0x5b42f8 @ VM300:3
+_0x352a16 @ VM300:3
+await in _0x352a16
+_0x3585a4.<computed> @ VM300:3
+VM300:3 Uncaught TypeError: Cannot read properties of null (reading 'speed')
+    at _0x11b649.update (eval at loadScript (scpreloader.js:1:2093), <anonymous>:3:1058272)
+    at _0x2c9cda.renderGlobal (eval at loadScript (scpreloader.js:1:2093), <anonymous>:3:1596296)
+    at _0x2c9cda.renderFrameIntrv (eval at loadScript (scpreloader.js:1:2093), <anonymous>:3:1599128)
+    at HTMLDocument.eval (eval at loadScript (scpreloader.js:1:2093), <anonymous>:3:1578468)
+update @ VM300:3
+renderGlobal @ VM300:3
+renderFrameIntrv @ VM300:3
+eval @ VM300:3
