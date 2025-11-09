@@ -2,9 +2,9 @@ import os
 import re
 import requests
 from urllib.parse import urlsplit
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
-ORIG_DOMAIN = "kristof-danko-alfons.shop"
-NEW_DOMAIN  = "ariaom.com"
+NEW_DOMAIN = "ariaom.com"
 
 def extract_links(text):
     pattern = r'https?://[^\s)]+'
@@ -13,10 +13,8 @@ def extract_links(text):
 def convert_url(u):
     u = u.split("?")[0]
     parsed = urlsplit(u)
-
-    # force domain
     forced = f"https://{NEW_DOMAIN}{parsed.path}"
-    forced = forced.replace("//spacemap", "/spacemap") # fix double slashes
+    forced = forced.replace("//spacemap", "/spacemap")
     return forced
 
 def download_file(url):
@@ -37,26 +35,33 @@ def download_file(url):
         print("SKIP:", out_path)
         return
 
-    r = requests.get(url, timeout=10)
-    if r.status_code == 200:
-        with open(out_path, "wb") as f:
-            f.write(r.content)
-        print("OK:", out_path)
-    else:
-        print("FAIL:", url, r.status_code)
-
+    try:
+        r = requests.get(url, timeout=10)
+        if r.status_code == 200:
+            with open(out_path, "wb") as f:
+                f.write(r.content)
+            print("OK:", out_path)
+        else:
+            print("FAIL:", url, r.status_code)
+    except Exception as e:
+        print("ERR:", url, str(e))
 
 def process_txt(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
         content = f.read()
 
     links = extract_links(content)
+    urls = []
 
     for link in links:
         new_url = convert_url(link)
-        if "/spacemap/" not in new_url:
-            continue
-        download_file(new_url)
+        if "/spacemap/" in new_url:
+            urls.append(new_url)
+
+    with ThreadPoolExecutor(max_workers=20) as pool:
+        futures = [pool.submit(download_file, u) for u in urls]
+        for _ in as_completed(futures):
+            pass
 
 if __name__ == "__main__":
     process_txt("C:/Users/rocka/Desktop/dogs/kda-never-dies/spacemap/a.txt")
