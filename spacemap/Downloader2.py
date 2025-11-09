@@ -1,53 +1,54 @@
 import os
-import json
+import re
 import requests
+from urllib.parse import urlsplit
 
-# Cesty
-JSON_FILE = "a.txt"   # súbor so zoznamom
-BASE_URL = "https://ariaom.com/spacemap/"
-DOWNLOAD_DIR = "downloads"
+ORIG_DOMAIN = "kristof-danko-alfons.shop"
+NEW_DOMAIN  = "ariaom.com"
 
-# Načítaj dáta
-with open(JSON_FILE, "r", encoding="utf-8") as f:
-    text = f.read()
-    # Ak nie je validný JSON, oprav ho načítaním ako dictionary zo stringu
-    if not text.strip().startswith("{"):
-        text = "{" + text.strip().rstrip(",") + "}"
-    data = json.loads(text)
+def extract_links(text):
+    pattern = r'https?://[^\s)]+'
+    return re.findall(pattern, text)
 
-os.makedirs(DOWNLOAD_DIR, exist_ok=True)
+def convert_url(u):
+    u = u.replace(ORIG_DOMAIN, NEW_DOMAIN)
+    u = u.split("?")[0]
+    u = u.replace("//spacemap", "/spacemap")  # fix double slash
+    return u
 
-for key, info in data.items():
-    path = info.get("path")
-    use_atlas = info.get("useAtlas", False)
-    is_single = info.get("isSingleFile", False)
+def download_file(url):
+    parts = urlsplit(url).path.split('/')
+    if "spacemap" not in parts:
+        return
 
-    if not path or not use_atlas:
-        continue
+    idx = parts.index("spacemap") + 1
+    sub_path_parts = [p for p in parts[idx:-1] if p.strip() != ""]
+    filename = parts[-1]
 
-    # len pre atlasové veci
-    subdir = path.replace("/", "_")
-    target_dir = os.path.join(DOWNLOAD_DIR, subdir)
-    os.makedirs(target_dir, exist_ok=True)
+    out_dir = os.path.join("downloads", *sub_path_parts)
+    os.makedirs(out_dir, exist_ok=True)
 
-    png_url = f"{BASE_URL}{path}.png"
-    json_url = f"{BASE_URL}{path}.json"
+    out_path = os.path.join(out_dir, filename)
 
-    for url in [png_url, json_url]:
-        filename = os.path.basename(url)
-        local_path = os.path.join(target_dir, filename)
+    r = requests.get(url, timeout=10)
+    if r.status_code == 200:
+        with open(out_path, "wb") as f:
+            f.write(r.content)
+        print("OK:", out_path)
+    else:
+        print("FAIL:", url, r.status_code)
 
-        if os.path.exists(local_path):
-            print(f"[SKIP] {local_path} uz existuje")
+def process_txt(file_path):
+    with open(file_path, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    links = extract_links(content)
+
+    for link in links:
+        new_url = convert_url(link)
+        if "/spacemap/" not in new_url:
             continue
+        download_file(new_url)
 
-        print(f"[DOWNLOAD] {url}")
-        try:
-            r = requests.get(url, timeout=10)
-            r.raise_for_status()
-            with open(local_path, "wb") as f:
-                f.write(r.content)
-        except Exception as e:
-            print(f"[ERROR] {url} - {e}")
-
-print("\nHotovo, všetky atlasové .png a .json súbory boli spracované.")
+if __name__ == "__main__":
+    process_txt("C:/Users/rocka/Desktop/dogs/kda-never-dies/spacemap/a.txt")
