@@ -30,6 +30,10 @@ def download_file(url):
 
     out_path = os.path.join(out_dir, filename)
 
+    if os.path.exists(out_path):
+        print("SKIP:", out_path)
+        return
+
     r = requests.get(url, timeout=10)
     if r.status_code == 200:
         with open(out_path, "wb") as f:
@@ -37,6 +41,7 @@ def download_file(url):
         print("OK:", out_path)
     else:
         print("FAIL:", url, r.status_code)
+
 
 def process_txt(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
